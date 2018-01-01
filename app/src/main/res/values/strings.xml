@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="demo_question">
+        Which of these is not a country in west Africa?
+    </string>
+    <string name="option1">A: Ghana</string>
+    <string name="option2">B: Nigeria</string>
+    <string name="option3">C: Egypt</string>
+    <string name="option4">D: Togo</string>
+
+</resources>

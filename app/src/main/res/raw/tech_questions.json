@@ -1,0 +1,168 @@
+{
+  "category": "tech",
+  "questions":[
+    {
+      "question": "In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+      "answer":   "B: 1880s",
+      "optionA":  "A: 1850s",
+      "optionB":  "B: 1880s",
+      "optionC":  "C: 1930s",
+      "optionD":  "D: 1950s"
+    },
+    {
+      "question": "What is part of a database that holds only one type of information?",
+      "answer":   "B: Field",
+      "optionA":  "A: Report",
+      "optionB":  "B: Field",
+      "optionC":  "C: Record",
+      "optionD":  "D: File"
+    },
+    {
+      "question": "In which decade with the first transatlantic radio broadcast occur?",
+      "answer":   "D: 1900s",
+      "optionA":  "A: 1850s",
+      "optionB":  "B: 1860s",
+      "optionC":  "C: 1870s",
+      "optionD":  "D: 1900s"
+    },
+    {
+      "question": "'OS' computer abbreviation usually means ?",
+      "answer":   "C: Operating System",
+      "optionA":  "A: Order of Significance",
+      "optionB":  "B: Open Software",
+      "optionC":  "C: Operating System",
+      "optionD":  "D: Optical Sensor"
+    },
+    {
+      "question": "'.MOV' extension refers usually to what kind of file?",
+      "answer":   "B: Animation/movie file",
+      "optionA":  "A: Image file",
+      "optionB":  "B: Animation/movie file",
+      "optionC":  "C: Audio file",
+      "optionD":  "D: MS Office document"
+    },
+    {
+      "question": "In which decade was the SPICE simulator introduced?",
+      "answer":   "C: 1970s",
+      "optionA":  "A: 1950s",
+      "optionB":  "B: 1960s",
+      "optionC":  "C: 1970s",
+      "optionD":  "D: 1980s"
+    },
+    {
+      "question": "Most modern TV's draw power even if turned off. The circuit the power is used in does what function?",
+      "answer":   "B: Remote control",
+      "optionA":  "A: Sound",
+      "optionB":  "B: Remote control",
+      "optionC":  "C: Color balance",
+      "optionD":  "D: High voltage"
+    },
+    {
+      "question": "Which is a type of Electrically-Erasable Programmable Read-Only Memory?",
+      "answer":   "A: Flash",
+      "optionA":  "A: Flash",
+      "optionB":  "B: Flange",
+      "optionC":  "C: Fury",
+      "optionD":  "D: FRAM"
+    },
+    {
+      "question": "The purpose of choke in tube light is ?",
+      "answer":   "D: To increase the voltage momentarily",
+      "optionA":  "A: To decrease the current",
+      "optionB":  "B: To increase the current",
+      "optionC":  "C: To decrease the voltage momentarily",
+      "optionD":  "D: To increase the voltage momentarily"
+    },
+    {
+      "question": "'.MPG' extension refers usually to what kind of file?",
+      "answer":   "C: Animation/movie file",
+      "optionA":  "A: WordPerfect Document file",
+      "optionB":  "B: MS Office document",
+      "optionC":  "C: Animation/movie file",
+      "optionD":  "D: Image file"
+    },
+    {
+      "question": "Who is largely responsible for breaking the German Enigma codes, created a test that provided a foundation for artificial intelligence?",
+      "answer":   "A: Alan Turing",
+      "optionA":  "A: Alan Turing",
+      "optionB":  "B: Jeff Bezos",
+      "optionC":  "C: George Boole",
+      "optionD":  "D: Charles Babbage"
+    },
+    {
+      "question": "Who developed Yahoo?",
+      "answer":   "B: David Filo & Jerry Yang",
+      "optionA":  "A: Dennis Ritchie & Ken Thompson",
+      "optionB":  "B: David Filo & Jerry Yang",
+      "optionC":  "C: Vint Cerf & Robert Kahn",
+      "optionD":  "D: Steve Case & Jeff Bezos"
+    },
+    {
+      "question": "Made from a variety of materials, such as carbon, which inhibits the flow of current...?",
+      "answer":   "C: Resistor",
+      "optionA":  "A: Choke",
+      "optionB":  "B: Inductor",
+      "optionC":  "C: Resistor",
+      "optionD":  "D: Capacitor"
+    },
+    {
+      "question": "The most common format for a home video recorder is VHS. VHS stands for...?",
+      "answer":   "A: Video Home System",
+      "optionA":  "A: Video Home System",
+      "optionB":  "B: Very high speed",
+      "optionC":  "C: Video horizontal standard",
+      "optionD":  "D: Voltage house standard"
+    },
+    {
+      "question": "What does VVVF stand for?",
+      "answer":   "D: Variable Voltage Variable Frequency",
+      "optionA":  "A: Variant Voltage Vile Frequency",
+      "optionB":  "B: Variable Velocity Variable Fun",
+      "optionC":  "C: Very Very Vicious Frequency",
+      "optionD":  "D: Variable Voltage Variable Frequency"
+    },
+    {
+      "question": "What frequency range is the High Frequency band?",
+      "answer":   "D: 3 to 30 MHz",
+      "optionA":  "A: 100 kHz",
+      "optionB":  "B: 1 GHz",
+      "optionC":  "C: 30 to 300 MHz",
+      "optionD":  "D: 3 to 30 MHz"
+    },
+    {
+      "question": "The first step to getting output from a laser is to excite an active medium. What is this process called?",
+      "answer":   "A: Pumping",
+      "optionA":  "A: Pumping",
+      "optionB":  "B: Exciting",
+      "optionC":  "C: Priming",
+      "optionD":  "D: Raising"
+    },
+    {
+      "question": "What is the relationship between resistivity r and conductivity s?",
+      "answer":   "D: R = 1/s",
+      "optionA":  "A: R = s2",
+      "optionB":  "B: R = s",
+      "optionC":  "C: R > s",
+      "optionD":  "D: R = 1/s"
+    },
+    {
+      "question": "Which motor is NOT suitable for use as a DC machine?",
+      "answer":   "C: Squirrel cage motor",
+      "optionA":  "A: Permanent magnet motor",
+      "optionB":  "B: Series motor",
+      "optionC":  "C: Squirrel cage motor",
+      "optionD":  "D: Synchronous motor"
+    },
+    {
+      "question": "A given signal's second harmonic is twice the given signal's __________ frequency...?",
+      "answer":   "C: Fundamental",
+      "optionA":  "A: Fourier",
+      "optionB":  "B: Foundation",
+      "optionC":  "C: Fundamental",
+      "optionD":  "D: Field"
+    }
+
+
+
+  ]
+}

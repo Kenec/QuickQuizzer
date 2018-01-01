@@ -1,0 +1,78 @@
+{
+  "category": "random",
+  "questions":[
+    {
+      "question": "Random 1",
+      "answer":   "A: answer",
+      "optionA":  "A: answer",
+      "optionB":  "B: I don't know",
+      "optionC":  "C: Awesome wrong",
+      "optionD":  "D: Trailing"
+    },
+    {
+      "question": "Random 2",
+      "answer":   "B: I don't know",
+      "optionA":  "A: answer",
+      "optionB":  "B: I don't know",
+      "optionC":  "C: Awesome wrong",
+      "optionD":  "D: Trailing"
+    },
+    {
+      "question": "Random 3",
+      "answer":   "D: Jogging",
+      "optionA":  "A: answer",
+      "optionB":  "B: We dock",
+      "optionC":  "C: Enough",
+      "optionD":  "D: Jogging"
+    },
+    {
+      "question": "Random 4",
+      "answer":   "C: Mercy",
+      "optionA":  "A: Love",
+      "optionB":  "B: Glory",
+      "optionC":  "C: Mercy",
+      "optionD":  "D: Trailing"
+    },
+    {
+      "question": "Random 5",
+      "answer":   "D: Pretty",
+      "optionA":  "A: Apple",
+      "optionB":  "B: Happiness",
+      "optionC":  "C: Awu ma je",
+      "optionD":  "D: Pretty"
+    },
+    {
+      "question": "Random 6",
+      "answer":   "D: Flesh",
+      "optionA":  "A: Lift",
+      "optionB":  "B: Welldone",
+      "optionC":  "C: Laugh",
+      "optionD":  "D: Flesh"
+    },
+    {
+      "question": "Random 7",
+      "answer":   "A: Elohi",
+      "optionA":  "A: Elohi",
+      "optionB":  "B: Cry cry",
+      "optionC":  "C: Revival",
+      "optionD":  "D: Portion"
+    },
+    {
+      "question": "Random 8",
+      "answer":   "B: Lord",
+      "optionA":  "A: Raise",
+      "optionB":  "B: Lord",
+      "optionC":  "C: Says",
+      "optionD":  "D: Stripes"
+    },
+    {
+      "question": "Random 9",
+      "answer":   "C: Reading",
+      "optionA":  "A: Seriously?",
+      "optionB":  "B: Keep asking",
+      "optionC":  "C: Reading",
+      "optionD":  "D: Water"
+    }
+
+  ]
+}
