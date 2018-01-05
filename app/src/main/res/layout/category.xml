@@ -3,7 +3,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:baselineAligned="false"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/background">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -22,7 +23,11 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:layout_marginBottom="5dp"
-            android:onClick="chooseCategory"/>
+            android:onClick="chooseCategory"
+            android:background="@drawable/buttonshape"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="15dp"/>
 
         <Button
             android:id="@+id/tech"
@@ -34,7 +39,11 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:layout_marginBottom="5dp"
-            android:onClick="chooseCategory"/>
+            android:onClick="chooseCategory"
+            android:background="@drawable/buttonshape"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="15dp"/>
 
         <Button
             android:id="@+id/politics"
@@ -46,7 +55,11 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:layout_marginBottom="5dp"
-            android:onClick="chooseCategory"/>
+            android:onClick="chooseCategory"
+            android:background="@drawable/buttonshape"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="15dp"/>
 
         <Button
             android:id="@+id/science"
@@ -58,7 +71,11 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="5dp"
-            android:onClick="chooseCategory"/>
+            android:onClick="chooseCategory"
+            android:background="@drawable/buttonshape"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="15dp"/>
 
     </LinearLayout>
 
@@ -79,7 +96,11 @@
             android:layout_marginBottom="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
-            android:onClick="chooseCategory"/>
+            android:onClick="chooseCategory"
+            android:background="@drawable/buttonshape"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="15dp"/>
 
         <Button
             android:id="@+id/religion"
@@ -88,7 +109,11 @@
             android:layout_height="match_parent"
             android:text="Religion"
             android:layout_margin="10dp"
-            android:onClick="chooseCategory"/>
+            android:onClick="chooseCategory"
+            android:background="@drawable/buttonshape"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="15dp"/>
 
         <Button
             android:id="@+id/geography"
@@ -97,7 +122,11 @@
             android:layout_height="match_parent"
             android:text="Geography"
             android:layout_margin="10dp"
-            android:onClick="chooseCategory"/>
+            android:onClick="chooseCategory"
+            android:background="@drawable/buttonshape"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="15dp"/>
 
         <Button
             android:id="@+id/funny"
@@ -109,7 +138,11 @@
             android:layout_marginBottom="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="20dp"
-            android:onClick="chooseCategory"/>
+            android:onClick="chooseCategory"
+            android:background="@drawable/buttonshape"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="15dp"/>
 
     </LinearLayout>
 

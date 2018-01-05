@@ -160,8 +160,647 @@
       "optionB":  "B: Foundation",
       "optionC":  "C: Fundamental",
       "optionD":  "D: Field"
+    },
+    {
+      "question": "How many bits is a byte?",
+      "answer":   "B: 8",
+      "optionA":  "A: 4",
+      "optionB":  "B: 8",
+      "optionC":  "C: 16",
+      "optionD":  "D: 32"
+    },
+    {
+      "question": "What is an FET?",
+      "answer":   "C: Field Effect Transistor",
+      "optionA":  "A: Farad Effect Transformer",
+      "optionB":  "B: Field Effect Transformer",
+      "optionC":  "C: Field Effect Transistor",
+      "optionD":  "D: French Energy Transfer"
+    },
+    {
+      "question": "The speed of your net access is defined in terms of...",
+      "answer":   "C: Kbps",
+      "optionA":  "A: RAM",
+      "optionB":  "B: MHz",
+      "optionC":  "C: Kbps",
+      "optionD":  "D: Megabytes"
+    },
+    {
+      "question": "How many diodes are in a full wave bridge rectifier?",
+      "answer":   "C: 4",
+      "optionA":  "A: 8",
+      "optionB":  "B: 2",
+      "optionC":  "C: 4",
+      "optionD":  "D: 3"
+    },
+    {
+      "question": "Which of the following operating systems is produced by IBM?",
+      "answer":   "A: OS-2",
+      "optionA":  "A: OS-2",
+      "optionB":  "B: Windows",
+      "optionC":  "C: DOS",
+      "optionD":  "D: UNIX"
+    },
+    {
+      "question": "Which of the following is NOT a type of expansion slot or bus design used in Advanced-Technology class systems?",
+      "answer":   "C: PROM",
+      "optionA":  "A: PCMCIA",
+      "optionB":  "B: ISA",
+      "optionC":  "C: PROM",
+      "optionD":  "D: EISA"
+    },
+    {
+      "question": "What is a GPU?",
+      "answer":   "B: Graphics Processing Unit",
+      "optionA":  "A: Grouped Processing Unit",
+      "optionB":  "B: Graphics Processing Unit",
+      "optionC":  "C: Graphical Performance Utility",
+      "optionD":  "D: Graphical Portable Unit"
+    },
+    {
+      "question": "What does DOCSIS stand for?",
+      "answer":   "A: Data Over Cable Service Interface Specification",
+      "optionA":  "A: Data Over Cable Service Interface Specification",
+      "optionB":  "B: Data Over Cable Security Internet Std",
+      "optionC":  "C: Data Over Cable Secure International Stds",
+      "optionD":  "D: Data Over Cable Service Internet Standard"
+    },
+    {
+      "question": "What does SSL stand for?",
+      "answer":   "A: Secure Socket Layer",
+      "optionA":  "A: Secure Socket Layer",
+      "optionB":  "B: System Socket Layer",
+      "optionC":  "C: Superuser System Login",
+      "optionD":  "D: Secure System Login"
+    },
+    {
+      "question": "The Internet was developed in the  __________",
+      "answer":   "D: Late 1960s",
+      "optionA":  "A: Early 1990s",
+      "optionB":  "B: Late 1980s",
+      "optionC":  "C: Early 1970s",
+      "optionD":  "D: Late 1960s"
+    },
+    {
+      "question": "Which of these is a documented hoax virus?",
+      "answer":   "A: McDonalds screensaver",
+      "optionA":  "A: McDonalds screensaver",
+      "optionB":  "B: Alien.worm",
+      "optionC":  "C: Merry Xmas",
+      "optionD":  "D: Adolph"
+    },
+    {
+      "question": "What is FMD?",
+      "answer":   "C: Fluorescent Multi-Layer Disc",
+      "optionA":  "A: FastEthernet Measuring Device",
+      "optionB":  "B: Flashing Media Diode",
+      "optionC":  "C: Fluorescent Multi-Layer Disc",
+      "optionD":  "D: Flash Media Driver"
+    },
+    {
+      "question": "This virus activated every Friday the 13th, affects both .EXE and .COM files and deletes any programs run on that day. What is the name of that virus?",
+      "answer":   "B: Jerusalem",
+      "optionA":  "A: Chernobyl",
+      "optionB":  "B: Jerusalem",
+      "optionC":  "C: Melissa",
+      "optionD":  "D: I Love You"
+    },
+    {
+      "question": "A program that neither replicates or copies itself, but does damage or compromises the security of the computer. Which 'Computer Virus' it is?",
+      "answer":   "C: Trojan",
+      "optionA":  "A: Joke Program",
+      "optionB":  "B: Worm",
+      "optionC":  "C: Trojan",
+      "optionD":  "D: Hoax"
+    },
+    {
+      "question": "What is the Websites code for the country New Zealand?",
+      "answer":   "A: NZ",
+      "optionA":  "A: NZ",
+      "optionB":  "B: NW",
+      "optionC":  "C: NE",
+      "optionD":  "D: ZL"
+    },
+    {
+      "question": "Which Intel chip was the first to support a 32-bit bus architecture?",
+      "answer":   "D: 386DX",
+      "optionA":  "A: 486SI",
+      "optionB":  "B: Pentium",
+      "optionC":  "C: 286",
+      "optionD":  "D: 386DX"
+    },
+    {
+      "question": "What does ECP stand for?",
+      "answer":   "A: Extended Capabilities Port",
+      "optionA":  "A: Extended Capabilities Port",
+      "optionB":  "B: Extra Compatible Part",
+      "optionC":  "C: Extended Connection Port",
+      "optionD":  "D: External Cordless Peripheral"
+    },
+    {
+      "question": "In 1983, which person was the first to offer a definition of the term 'computer virus'?",
+      "answer":   "C: Cohen",
+      "optionA":  "A: McAfee",
+      "optionB":  "B: Smith",
+      "optionC":  "C: Cohen",
+      "optionD":  "D: Norton"
+    },
+    {
+      "question": "What is a MAC?",
+      "answer":   "D: Media Access Control",
+      "optionA":  "A: A Computer made by Apple",
+      "optionB":  "B: Memory Address Corruption",
+      "optionC":  "C: Mediocre Apple Computer",
+      "optionD":  "D: Media Access Control"
+    },
+    {
+      "question": "What does PPTP stand for?",
+      "answer":   "C: Point to Point Tunneling Protocol",
+      "optionA":  "A: Point to Point Transmission Protocol",
+      "optionB":  "B: Point to Point Transfer Protocol",
+      "optionC":  "C: Point to Point Tunneling Protocol",
+      "optionD":  "D: Point to Point Traffic Protocol"
+    },
+    {
+      "question": "The IBM PC-XT was the first to include a hard drive. What was the capacity of this disk?",
+      "answer":   "C: 10 MB",
+      "optionA":  "A: 20 MB",
+      "optionB":  "B: 1.44 MB",
+      "optionC":  "C: 10 MB",
+      "optionD":  "D: 750 KB"
+    },
+    {
+      "question": "What is NAT?",
+      "answer":   "A: Network Address Translation",
+      "optionA":  "A: Network Address Translation",
+      "optionB":  "B: Network Administration Tool",
+      "optionC":  "C: Novell Address Transfer",
+      "optionD":  "D: Newly Added Technology"
+    },
+    {
+      "question": "What was the active medium used in the first working laser ever constructed?",
+      "answer":   "A: A ruby rod",
+      "optionA":  "A: A ruby rod",
+      "optionB":  "B: A diamond block",
+      "optionC":  "C: Helium-neon gas",
+      "optionD":  "D: Carbon dioxide gas"
+    },
+    {
+      "question": "'.BAT' extension refers usually to what kind of file?",
+      "answer":   "B: System file",
+      "optionA":  "A: Compressed Archive file",
+      "optionB":  "B: System file",
+      "optionC":  "C: Audio file",
+      "optionD":  "D: Backup file"
+    },
+    {
+      "question": "What is the term to ask the computer to put information in order numerically or alphabetically?",
+      "answer":   "D: Sort",
+      "optionA":  "A: Crop",
+      "optionB":  "B: Report",
+      "optionC":  "C: Record",
+      "optionD":  "D: Sort"
+    },
+    {
+      "question": "The input used by an antenna or cable to a TV set uses frequencies called...?",
+      "answer":   "B: RF",
+      "optionA":  "A: IF",
+      "optionB":  "B: RF",
+      "optionC":  "C: AF",
+      "optionD":  "D: SAP"
+    },
+    {
+      "question": "'.BAK' extension refers usually to what kind of file?",
+      "answer":   "A: Backup file",
+      "optionA":  "A: Backup file",
+      "optionB":  "B: Audio file",
+      "optionC":  "C: Animation/movie file",
+      "optionD":  "D: MS Encarta document"
+    },
+    {
+      "question": "Who co-created the UNIX operating system in 1969 with Dennis Ritchie?",
+      "answer":   "C: Ken Thompson",
+      "optionA":  "A: Bjarne Stroustrup",
+      "optionB":  "B: Steve Wozniak",
+      "optionC":  "C: Ken Thompson",
+      "optionD":  "D: Niklaus Wirth"
+    },
+    {
+      "question": "Once the active medium is excited, the first photons of light are produced by which physical process?",
+      "answer":   "B: Spontaneous emission",
+      "optionA":  "A: Blackbody radiation",
+      "optionB":  "B: Spontaneous emission",
+      "optionC":  "C: Synchrotron radiation",
+      "optionD":  "D: Planck’s oscillation"
+    },
+    {
+      "question": "The average power (in watts) used by a 20 to 25 inch home color television is...?",
+      "answer":   "A: 70-100",
+      "optionA":  "A: 70-100",
+      "optionB":  "B: 25-50",
+      "optionC":  "C: 500-800",
+      "optionD":  "D: Over 1000"
+    },
+    {
+      "question": "At Dartmouth College in 1964 John Kemeny and Thomas Kurtz invented _____ ?",
+      "answer":   "B: BASIC",
+      "optionA":  "A: ALGOL",
+      "optionB":  "B: BASIC",
+      "optionC":  "C: FORTRAN",
+      "optionD":  "D: JAVA"
+    },
+    {
+      "question": "Complete this quote “Computers are useless. They can only give you _____” (Pablo Picasso)",
+      "answer":   "D: answers",
+      "optionA":  "A: numbers",
+      "optionB":  "B: pictures",
+      "optionC":  "C: headaches",
+      "optionD":  "D: answers"
+    },
+    {
+      "question": "Who invented C++ ?",
+      "answer":   "D: Bjarne Stroustrup",
+      "optionA":  "A: Larry Wall",
+      "optionB":  "B: Anders Hejlsberg",
+      "optionC":  "C: Grace Hopper",
+      "optionD":  "D: Bjarne Stroustrup"
+    },
+    {
+      "question": "Which of these is not a functional programming language",
+      "answer":   "C: Fortran",
+      "optionA":  "A: F#",
+      "optionB":  "B: Erlang",
+      "optionC":  "C: Fortran",
+      "optionD":  "D: LISP"
+    },
+    {
+      "question": "Dylan, Erlang, Haskell and ML are examples of ... ?",
+      "answer":   "C: functional languages",
+      "optionA":  "A: web languages",
+      "optionB":  "B: declarative languages",
+      "optionC":  "C: functional languages",
+      "optionD":  "D: visual languages"
+    },
+    {
+      "question": "A true or false statement put into code that the programmer expects to always be true is an ____",
+      "answer":   "C: assertion",
+      "optionA":  "A: exception",
+      "optionB":  "B: harness",
+      "optionC":  "C: assertion",
+      "optionD":  "D: expression"
+    },
+    {
+      "question": "EBNF is ____",
+      "answer":   "C: a syntax for defining grammar",
+      "optionA":  "A: Extensible Book Notation Format",
+      "optionB":  "B: a replacement for the SAX XML parser",
+      "optionC":  "C: a syntax for defining grammar",
+      "optionD":  "D: the leader of the free software foundation"
+    },
+    {
+      "question": "A section of code that responds to a particular interaction of the user with a gui control is called a ____?",
+      "answer":   "B: event handler",
+      "optionA":  "A: dispatch function",
+      "optionB":  "B: event handler",
+      "optionC":  "C: control structure",
+      "optionD":  "D: exception handler"
+    },
+    {
+      "question": "RISC is ____",
+      "answer":   "D: a CPU design strategy",
+      "optionA":  "A: a defensive programming style",
+      "optionB":  "B: a web framework",
+      "optionC":  "C: a threading library",
+      "optionD":  "D: a CPU design strategy"
+    },
+    {
+      "question": "You could use XSLT to ____",
+      "answer":   "C: transform XML into HTML",
+      "optionA":  "A: speed up database queries",
+      "optionB":  "B: encrypt passwords",
+      "optionC":  "C: transform XML into HTML",
+      "optionD":  "D: cache html pages"
+    },
+    {
+      "question": "Who built the world's first binary digit computer: Z1 ____?",
+      "answer":   "A: Konrad Zuse",
+      "optionA":  "A: Konrad Zuse",
+      "optionB":  "B: Ken Thompson",
+      "optionC":  "C: Alan Turing",
+      "optionD":  "D: George Boole"
+    },
+    {
+      "question": "What will a UPS be used for in a building?",
+      "answer":   "A: To provide power to essential equipment",
+      "optionA":  "A: To provide power to essential equipment",
+      "optionB":  "B: To monitor building electricity use",
+      "optionC":  "C: To carry messages between departments",
+      "optionD":  "D: To control lighting and power systems"
+    },
+    {
+      "question": "What are three types of lasers?",
+      "answer":   "D: Gas, solid state, diode",
+      "optionA":  "A: Gas, metal vapor, rock",
+      "optionB":  "B: Pointer, diode, CD",
+      "optionC":  "C: Diode, inverted, pointer",
+      "optionD":  "D: Gas, solid state, diode"
+    },
+    {
+      "question": "'FET' is a type of transistor, Its full name is ________ Effect Transistor...?",
+      "answer":   "A: Field",
+      "optionA":  "A: Field",
+      "optionB":  "B: Factor",
+      "optionC":  "C: Flash",
+      "optionD":  "D: Force"
+    },
+    {
+      "question": "The NTSC (National Television Standards Committee) is also used in the country of ____?",
+      "answer":   "A: Japan",
+      "optionA":  "A: Japan",
+      "optionB":  "B: France",
+      "optionC":  "C: Germany",
+      "optionD":  "D: England"
+    },
+    {
+      "question": "In what year was the '@' chosen for its use in e-mail addresses?",
+      "answer":   "B: 1972",
+      "optionA":  "A: 1976",
+      "optionB":  "B: 1972",
+      "optionC":  "C: 1980",
+      "optionD":  "D: 1984"
+    },
+    {
+      "question": "'.TXT' extension refers usually to what kind of file?",
+      "answer":   "A: Text File",
+      "optionA":  "A: Text File",
+      "optionB":  "B: Image file",
+      "optionC":  "C: Audio file",
+      "optionD":  "D: Adobe Acrobat file"
+    },
+    {
+      "question": "What was the first ARPANET message?",
+      "answer":   "A: 'lo'",
+      "optionA":  "A: 'lo'",
+      "optionB":  "B: 'hello world'",
+      "optionC":  "C: 'mary had a little lamb'",
+      "optionD":  "D: 'cyberspace, the final frontier"
+    },
+    {
+      "question": "In the United States the television broadcast standard is _____?",
+      "answer":   "B: NTSC",
+      "optionA":  "A: PAL",
+      "optionB":  "B: NTSC",
+      "optionC":  "C: SECAM",
+      "optionD":  "D: RGB"
+    },
+    {
+      "question": "In a color television set using a picture tube a high voltage is used to accelerate electron beams to light the screen. That voltage is about ____?",
+      "answer":   "C: 25 thousand volts",
+      "optionA":  "A: 500 volts",
+      "optionB":  "B: 5 thousand volts",
+      "optionC":  "C: 25 thousand volts",
+      "optionD":  "D: 100 thousand volts"
+    },
+    {
+      "question": "The transformer that develops the high voltage in a home television is commonly called a ____?",
+      "answer":   "B: Flyback",
+      "optionA":  "A: Tesla coil",
+      "optionB":  "B: Flyback",
+      "optionC":  "C: Yoke",
+      "optionD":  "D: Van de Graaf"
+    },
+    {
+      "question": "Which consists of two plates separated by a dielectric and can store a charge?",
+      "answer":   "B: Capacitor",
+      "optionA":  "A: Inductor",
+      "optionB":  "B: Capacitor",
+      "optionC":  "C: Transistor",
+      "optionD":  "D: Relay"
+    },
+    {
+      "question": "What do we call a collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly?",
+      "answer":   "C: Local Area Network",
+      "optionA":  "A: Inernet",
+      "optionB":  "B: Interanet",
+      "optionC":  "C: Local Area Network",
+      "optionD":  "D: Wide Area Network"
+    },
+    {
+      "question": "Sometimes computers and cache registers in a foodmart are connected to a UPS system. What does UPS mean?",
+      "answer":   "D: Uninterruptable Power Supply",
+      "optionA":  "A: United Parcel Service",
+      "optionB":  "B: Uniform Product Support",
+      "optionC":  "C: Under Paneling Storage",
+      "optionD":  "D: Uninterruptable Power Supply"
+    },
+    {
+      "question": "Who co-founded Hotmail in 1996 and then sold the company to Microsoft?",
+      "answer":   "C: Sabeer Bhatia",
+      "optionA":  "A: Shawn Fanning",
+      "optionB":  "B: Ada Byron Lovelace",
+      "optionC":  "C: Sabeer Bhatia",
+      "optionD":  "D: Ray Tomlinson"
+    },
+    {
+      "question": "'.TMP' extension refers usually to what kind of file?",
+      "answer":   "C: Temporary file",
+      "optionA":  "A: Compressed Archive file",
+      "optionB":  "B: Image file",
+      "optionC":  "C: Temporary file",
+      "optionD":  "D: Audio file"
+    },
+    {
+      "question": "In the UK, what type of installation requires a fireman's switch?",
+      "answer":   "A: Neon Lighting",
+      "optionA":  "A: Neon Lighting",
+      "optionB":  "B: High Pressure Sodium Lighting",
+      "optionC":  "C: Water Features",
+      "optionD":  "D: Hotel Rooms"
+    },
+    {
+      "question": "The sampling rate, (how many samples per second are stored) for a CD is...?",
+      "answer":   "C: 44.1 kHz",
+      "optionA":  "A: 48.4 kHz",
+      "optionB":  "B: 22,050 Hz",
+      "optionC":  "C: 44.1 kHz",
+      "optionD":  "D: 48 kHz"
+    },
+    {
+      "question": "Who created Pretty Good Privacy (PGP)?",
+      "answer":   "A: Phil Zimmermann",
+      "optionA":  "A: Phil Zimmermann",
+      "optionB":  "B: Tim Berners-Lee",
+      "optionC":  "C: Marc Andreessen",
+      "optionD":  "D: Ken Thompson"
+    },
+    {
+      "question": "After the first photons of light are produced, which process is responsible for amplification of the light?",
+      "answer":   "B: Stimulated emission",
+      "optionA":  "A: Blackbody radiation",
+      "optionB":  "B: Stimulated emission",
+      "optionC":  "C: Planck's radiation",
+      "optionD":  "D: Einstein oscillation"
+    },
+    {
+      "question": "Which is NOT an acceptable method of distributing small power outlets throughout an open plan office area?",
+      "answer":   "D: Extension Cords",
+      "optionA":  "A: Power Poles",
+      "optionB":  "B: Power Skirting",
+      "optionC":  "C: Flush Floor Ducting",
+      "optionD":  "D: Extension Cords"
+    },
+    {
+      "question": "In which year was MIDI(Musical Instrument Digital Interface) introduced?",
+      "answer":   "B: 1983",
+      "optionA":  "A: 1987",
+      "optionB":  "B: 1983",
+      "optionC":  "C: 1973",
+      "optionD":  "D: 1977"
+    },
+    {
+      "question": "What does the term PLC stand for?",
+      "answer":   "C: Programmable Logic Controller",
+      "optionA":  "A: Programmable Lift Computer",
+      "optionB":  "B: Program List Control",
+      "optionC":  "C: Programmable Logic Controller",
+      "optionD":  "D: Piezo Lamp Connector"
+    },
+    {
+      "question": "When measuring the characteristics of a small-signal amplifier, say for a radio receiver, one might be concerned with its 'Noise ___'?",
+      "answer":   "D: Figure",
+      "optionA":  "A: Fundamental",
+      "optionB":  "B: Fall",
+      "optionC":  "C: Force",
+      "optionD":  "D: Figure"
+    },
+    {
+      "question": "'DB' computer abbreviation usually means ?",
+      "answer":   "A: Database",
+      "optionA":  "A: Database",
+      "optionB":  "B: Double Byte",
+      "optionC":  "C: Data Block",
+      "optionD":  "D: Driver Boot"
+    },
+    {
+      "question": "'.INI' extension refers usually to what kind of file?",
+      "answer":   "B: System file",
+      "optionA":  "A: Image file",
+      "optionB":  "B: System file",
+      "optionC":  "C: Hypertext related file",
+      "optionD":  "D: Image Color Matching Profile file"
+    },
+    {
+      "question": "Which of the following memories is an optical memory?",
+      "answer":   "C: CD–ROM",
+      "optionA":  "A: Floppy Disk",
+      "optionB":  "B: Bubble Memories",
+      "optionC":  "C: CD–ROM",
+      "optionD":  "D: Core Memories"
+    },
+    {
+      "question": "DNS refers to _____",
+      "answer":   "B: Digital Network Service",
+      "optionA":  "A: Data Number Sequence",
+      "optionB":  "B: Digital Network Service",
+      "optionC":  "C: Domain Name System",
+      "optionD":  "D: Disk Numbering System"
+    },
+    {
+      "question": "Java was originally invented by",
+      "answer":   "D: Sun",
+      "optionA":  "A: Oracle",
+      "optionB":  "B: Microsoft",
+      "optionC":  "C: Novell",
+      "optionD":  "D: Sun"
+    },
+    {
+      "question": "The unit of speed used for super computer is ____",
+      "answer":   "B: GELOPS",
+      "optionA":  "A: KELOPS",
+      "optionB":  "B: GELOPS",
+      "optionC":  "C: MELOPS",
+      "optionD":  "D: PELOPS"
+    },
+    {
+      "question": "Whose trademark is the operating system UNIX?",
+      "answer":   "C: BELL Laboratories",
+      "optionA":  "A: Motorola",
+      "optionB":  "B: Microsoft",
+      "optionC":  "C: BELL Laboratories",
+      "optionD":  "D: AshtonTate"
+    },
+    {
+      "question": "The first mechanical computer designed by Charles Babbage was called?",
+      "answer":   "B: Analytical Engine",
+      "optionA":  "A: Abacus",
+      "optionB":  "B: Analytical Engine",
+      "optionC":  "C: Calculator",
+      "optionD":  "D: Processor"
+    },
+    {
+      "question": "Which of the following is the most powerful type of computer?",
+      "answer":   "C: Super computer",
+      "optionA":  "A: Super–micro",
+      "optionB":  "B: Super conductor",
+      "optionC":  "C: Super computer",
+      "optionD":  "D: Megaframe"
+    },
+    {
+      "question": "Which gate is a single integrated circuit?",
+      "answer":   "A: Gate",
+      "optionA":  "A: Gate",
+      "optionB":  "B: Mother Board",
+      "optionC":  "C: Chip",
+      "optionD":  "D: CPU"
+    },
+    {
+      "question": "C is ____",
+      "answer":   "A: A third generation high level language",
+      "optionA":  "A: A third generation high level language",
+      "optionB":  "B: A machine language",
+      "optionC":  "C: An assembly language",
+      "optionD":  "D: All of the above"
+    },
+    {
+      "question": "Web pages are written using _____",
+      "answer":   "C: HTML",
+      "optionA":  "A: FTP",
+      "optionB":  "B: HTTP",
+      "optionC":  "C: HTML",
+      "optionD":  "D: URL"
+    },
+    {
+      "question": "The parity bit is added for the purpose of",
+      "answer":   "B: Error detection",
+      "optionA":  "A: Coding",
+      "optionB":  "B: Error detection",
+      "optionC":  "C: Controlling",
+      "optionD":  "D: Indexing"
+    },
+    {
+      "question": "India’s first super computer is ____",
+      "answer":   "C: Param",
+      "optionA":  "A: Agni",
+      "optionB":  "B: Flow solver",
+      "optionC":  "C: Param",
+      "optionD":  "D: Trisul"
+    },
+    {
+      "question": "The first movie released in 1982 with terrific computer animation and graphics was",
+      "answer":   "A: Star wars",
+      "optionA":  "A: Star wars",
+      "optionB":  "B: Tron",
+      "optionC":  "C: Forbidden planet",
+      "optionD":  "D: Dark star"
+    },
+    {
+      "question": "Which command combines the contents of one file with another?",
+      "answer":   "C: APPEND",
+      "optionA":  "A: RESTORE",
+      "optionB":  "B: RENAME",
+      "optionC":  "C: APPEND",
+      "optionD":  "D: ADD"
     }
-
 
 
   ]

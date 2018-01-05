@@ -6,19 +6,11 @@ import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.firstapp.quizzer.data.DbHelper;
-
-import org.json.JSONArray;
-import org.json.JSONObject;
-
-import java.io.IOException;
-import java.io.InputStream;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Random;
@@ -58,7 +50,7 @@ public class GameScreen extends AppCompatActivity {
         do  {
             int Result = r.nextInt(High-Low) + Low;
             questionIds.add(Result);
-        } while (questionIds.size() < 5);
+        } while (questionIds.size() < 15);
         question = questionIds.toArray(new Integer[questionIds.size()]);
 
         // get the game category save as an extras
@@ -113,7 +105,7 @@ public class GameScreen extends AppCompatActivity {
 
     public CountDownTimer timerStart(long timeLength) {
 
-        if (numberOfQuestions < 5) {
+        if (qid < 15) {
 
         enableButton(option1);
         enableButton(option2);
@@ -131,7 +123,7 @@ public class GameScreen extends AppCompatActivity {
 
             @Override
             public void onFinish() {
-                if (( qid < 7 ) && ( clicked == true )) {
+                if (( qid < 15 ) && ( clicked == true )) {
                     timerStart(15000);
                 } else {
 
@@ -203,7 +195,7 @@ public class GameScreen extends AppCompatActivity {
                 intent.putExtra("score", score);
                 startActivity(intent);
             }
-        }, 1000);
+        }, 1500);
     }
 
     public void submitAnswer(View view) {
@@ -222,6 +214,7 @@ public class GameScreen extends AppCompatActivity {
                 } else {
                     correct = false;
                     option1.setBackgroundColor(Color.RED);
+                    showCorrectOption();
                     timerPause();
                     displayStartGame();
                 }
@@ -237,6 +230,7 @@ public class GameScreen extends AppCompatActivity {
                 } else {
                     correct = false;
                     option2.setBackgroundColor(Color.RED);
+                    showCorrectOption();
                     timerPause();
                     displayStartGame();
                 }
@@ -252,6 +246,7 @@ public class GameScreen extends AppCompatActivity {
                 } else {
                     correct = false;
                     option3.setBackgroundColor(Color.RED);
+                    showCorrectOption();
                     timerPause();
                     displayStartGame();
                 }
@@ -267,6 +262,7 @@ public class GameScreen extends AppCompatActivity {
                 } else {
                     correct = false;
                     option4.setBackgroundColor(Color.RED);
+                    showCorrectOption();
                     timerPause();
                     displayStartGame();
                 }
@@ -279,7 +275,7 @@ public class GameScreen extends AppCompatActivity {
 
         game_score.setText("Score: $" + score);
 
-        if ((correct == true) && (qid < 7)) {
+        if ((correct == true) && (qid < 15)) {
             new Handler().postDelayed(new Runnable() {
                 @Override
                 public void run() {
@@ -292,5 +288,20 @@ public class GameScreen extends AppCompatActivity {
         }
     }
 
+    private void showCorrectOption() {
+        if (currentQuestion.getANSWER().toString().equals(option1.getText().toString())) {
+            option1.setBackgroundColor(Color.GREEN);
+            option1.setTextColor(Color.WHITE);
+        } else if (currentQuestion.getANSWER().toString().equals(option2.getText().toString())){
+            option2.setBackgroundColor(Color.GREEN);
+            option2.setTextColor(Color.WHITE);
+        } else if(currentQuestion.getANSWER().toString().equals(option3.getText().toString())){
+            option3.setBackgroundColor(Color.GREEN);
+            option3.setTextColor(Color.WHITE);
+        } else if (currentQuestion.getANSWER().toString().equals(option4.getText().toString())) {
+            option4.setBackgroundColor(Color.GREEN);
+            option4.setTextColor(Color.WHITE);
+        }
+    }
 
 }

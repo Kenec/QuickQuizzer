@@ -39,7 +39,7 @@ import static com.firstapp.quizzer.data.QuizContract.QuestionSchema.TABLE_QUEST;
 
 public class DbHelper extends SQLiteOpenHelper {
 
-    private static final int DATABASE_VERSION = 4;
+    private static final int DATABASE_VERSION = 5;
     private static final String DATABASE_NAME = "QuickQuizzer.db";
     private Resources mResources;
     Context context;
