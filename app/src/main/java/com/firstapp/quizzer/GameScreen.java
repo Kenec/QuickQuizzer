@@ -2,6 +2,7 @@ package com.firstapp.quizzer;
 
 import android.content.Intent;
 import android.graphics.Color;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.os.Handler;
@@ -26,7 +27,7 @@ public class GameScreen extends AppCompatActivity {
     private CountDownTimer timer;
     private long miliSecondsLeft;
     private TextView gameTimer, game_questions, game_score;
-    private Button game_pause, option1, option2, option3, option4;
+    private Button game_pause, option1, option2, option3, option4, game_screen_menu;
     private int numberOfQuestions = 1;
     private List<Question> questionList;
     private Question currentQuestion;
@@ -36,6 +37,7 @@ public class GameScreen extends AppCompatActivity {
     private int score;
     private String category = "";
     private boolean correct, clicked = false;
+    private MediaPlayer gameSound;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -66,6 +68,7 @@ public class GameScreen extends AppCompatActivity {
         game_score = (TextView) findViewById(R.id.game_score);
         game_questions = (TextView) findViewById(R.id.game_questions);
         game_pause = (Button) findViewById(R.id.game_pause);
+        game_screen_menu = (Button) findViewById(R.id.game_screen_menu);
 
         option1 = (Button) findViewById(R.id.option1);
         option2 = (Button) findViewById(R.id.option2);
@@ -80,6 +83,11 @@ public class GameScreen extends AppCompatActivity {
 
         // start the timer
         timerStart(15000);
+
+        // initialize game sound
+        gameSound = MediaPlayer.create(GameScreen.this, R.raw.quiz_sound);
+        gameSound.setLooping(true);
+        gameSound.start();
     }
 
     private void setQuestionView() {
@@ -91,15 +99,15 @@ public class GameScreen extends AppCompatActivity {
         option3.setText(currentQuestion.getOPTC());
         option4.setText(currentQuestion.getOPTD());
 
-        option1.setBackgroundResource(android.R.drawable.btn_default);
-        option2.setBackgroundResource(android.R.drawable.btn_default);
-        option3.setBackgroundResource(android.R.drawable.btn_default);
-        option4.setBackgroundResource(android.R.drawable.btn_default);
+        option1.setBackgroundResource(R.drawable.button_enabled);
+        option2.setBackgroundResource(R.drawable.button_enabled);
+        option3.setBackgroundResource(R.drawable.button_enabled);
+        option4.setBackgroundResource(R.drawable.button_enabled);
 
-        option1.setTextColor(Color.BLACK);
-        option2.setTextColor(Color.BLACK);
-        option3.setTextColor(Color.BLACK);
-        option4.setTextColor(Color.BLACK);
+        option1.setTextColor(Color.WHITE);
+        option2.setTextColor(Color.WHITE);
+        option3.setTextColor(Color.WHITE);
+        option4.setTextColor(Color.WHITE);
 
     }
 
@@ -126,7 +134,7 @@ public class GameScreen extends AppCompatActivity {
                 if (( qid < 15 ) && ( clicked == true )) {
                     timerStart(15000);
                 } else {
-
+                    gameSound.stop();
                     disableButton(option1);
                     disableButton(option2);
                     disableButton(option3);
@@ -164,10 +172,12 @@ public class GameScreen extends AppCompatActivity {
     public void pauseAndResume(View view) {
         if (game_pause.getText().toString().equals("Pause")) {
             game_pause.setText("Resume");
+            gameSound.pause();
             timerPause();
 
         } else if (game_pause.getText().toString().equals("Resume")) {
             game_pause.setText("Pause");
+            gameSound.start();
             timerResume();
         } else if (game_pause.getText().toString().equals("Restart")) {
             game_pause.setText("Pause");
@@ -193,6 +203,8 @@ public class GameScreen extends AppCompatActivity {
             public void run() {
                 Intent intent = new Intent(GameScreen.this, GameEnd.class);
                 intent.putExtra("score", score);
+                gameSound.stop();
+                finish();
                 startActivity(intent);
             }
         }, 1500);
@@ -210,10 +222,10 @@ public class GameScreen extends AppCompatActivity {
                     correct = true;
                     clicked = true;
                     score += 100;
-                    option1.setBackgroundColor(Color.GREEN);
+                    option1.setBackgroundResource(R.drawable.button_focused);
                 } else {
                     correct = false;
-                    option1.setBackgroundColor(Color.RED);
+                    option1.setBackgroundResource(R.drawable.button_disabled);
                     showCorrectOption();
                     timerPause();
                     displayStartGame();
@@ -226,10 +238,10 @@ public class GameScreen extends AppCompatActivity {
                     correct = true;
                     clicked = true;
                     score += 100;
-                    option2.setBackgroundColor(Color.GREEN);
+                    option2.setBackgroundResource(R.drawable.button_focused);
                 } else {
                     correct = false;
-                    option2.setBackgroundColor(Color.RED);
+                    option2.setBackgroundResource(R.drawable.button_disabled);
                     showCorrectOption();
                     timerPause();
                     displayStartGame();
@@ -242,10 +254,10 @@ public class GameScreen extends AppCompatActivity {
                     correct = true;
                     clicked = true;
                     score += 100;
-                    option3.setBackgroundColor(Color.GREEN);
+                    option3.setBackgroundResource(R.drawable.button_focused);
                 } else {
                     correct = false;
-                    option3.setBackgroundColor(Color.RED);
+                    option3.setBackgroundResource(R.drawable.button_disabled);
                     showCorrectOption();
                     timerPause();
                     displayStartGame();
@@ -258,10 +270,10 @@ public class GameScreen extends AppCompatActivity {
                     correct = true;
                     clicked = true;
                     score += 100;
-                    option4.setBackgroundColor(Color.GREEN);
+                    option4.setBackgroundResource(R.drawable.button_focused);
                 } else {
                     correct = false;
-                    option4.setBackgroundColor(Color.RED);
+                    option4.setBackgroundResource(R.drawable.button_disabled);
                     showCorrectOption();
                     timerPause();
                     displayStartGame();
@@ -274,6 +286,7 @@ public class GameScreen extends AppCompatActivity {
         }
 
         game_score.setText("Score: $" + score);
+        game_screen_menu.setText(qid + " / 15");
 
         if ((correct == true) && (qid < 15)) {
             new Handler().postDelayed(new Runnable() {
@@ -284,24 +297,31 @@ public class GameScreen extends AppCompatActivity {
                 }
             }, SPLASH_DISPLAY_LENGTH);
         } else {
+                gameSound.stop();
                 displayStartGame();
         }
     }
 
     private void showCorrectOption() {
         if (currentQuestion.getANSWER().toString().equals(option1.getText().toString())) {
-            option1.setBackgroundColor(Color.GREEN);
+            option1.setBackgroundResource(R.drawable.button_focused);
             option1.setTextColor(Color.WHITE);
-        } else if (currentQuestion.getANSWER().toString().equals(option2.getText().toString())){
-            option2.setBackgroundColor(Color.GREEN);
+        } else if (currentQuestion.getANSWER().toString().equals(option2.getText().toString())) {
+            option2.setBackgroundResource(R.drawable.button_focused);
             option2.setTextColor(Color.WHITE);
-        } else if(currentQuestion.getANSWER().toString().equals(option3.getText().toString())){
-            option3.setBackgroundColor(Color.GREEN);
+        } else if(currentQuestion.getANSWER().toString().equals(option3.getText().toString())) {
+            option3.setBackgroundResource(R.drawable.button_focused);
             option3.setTextColor(Color.WHITE);
         } else if (currentQuestion.getANSWER().toString().equals(option4.getText().toString())) {
-            option4.setBackgroundColor(Color.GREEN);
+            option4.setBackgroundResource(R.drawable.button_focused);
             option4.setTextColor(Color.WHITE);
         }
     }
 
+    @Override
+    public void onBackPressed() {
+        gameSound.pause();
+        Utility customDialog = new Utility(GameScreen.this, "Please don't go", gameSound);
+        customDialog.show();
+    }
 }

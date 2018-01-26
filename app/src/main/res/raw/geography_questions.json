@@ -2,77 +2,806 @@
   "category": "geography",
   "questions":[
     {
-      "question": "Geography 1",
-      "answer":   "A: answer",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "The Homolographic projection has the correct representation of",
+      "answer":   "B: area",
+      "optionA":  "A: shape",
+      "optionB":  "B: area",
+      "optionC":  "C: baring",
+      "optionD":  "D: distance"
     },
     {
-      "question": "Geography 2",
-      "answer":   "B: I don't know",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "The latitudinal differences in pressure delineate a number of major pressure zones, which correspond with",
+      "answer":   "A: zones of climate",
+      "optionA":  "A: zones of climate",
+      "optionB":  "B: zones of oceans",
+      "optionC":  "C: zones of land",
+      "optionD":  "D: zones of cyclonic depressions"
     },
     {
-      "question": "Geography 3",
-      "answer":   "D: Jogging",
-      "optionA":  "A: answer",
-      "optionB":  "B: We dock",
-      "optionC":  "C: Enough",
-      "optionD":  "D: Jogging"
+      "question": "The higher the wind speed and the longer the fetch or distance of open water across which the wind blows and waves travel, the ____ waves and the ____ energy they process.",
+      "answer":   "A: larger, more",
+      "optionA":  "A: larger, more",
+      "optionB":  "B: larger, less",
+      "optionC":  "C: smaller, more",
+      "optionD":  "D: smaller, less"
     },
     {
-      "question": "Geography 4",
-      "answer":   "C: Mercy",
-      "optionA":  "A: Love",
-      "optionB":  "B: Glory",
-      "optionC":  "C: Mercy",
-      "optionD":  "D: Trailing"
+      "question": "The hazards of radiation belts include",
+      "answer":   "D: All of the above",
+      "optionA":  "A: deterioration of electronic circuits",
+      "optionB":  "B: damage of solar cells of spacecraft",
+      "optionC":  "C: adverse effect on living organisms",
+      "optionD":  "D: All of the above"
     },
     {
-      "question": "Geography 5",
-      "answer":   "D: Pretty",
-      "optionA":  "A: Apple",
-      "optionB":  "B: Happiness",
-      "optionC":  "C: Awu ma je",
-      "optionD":  "D: Pretty"
+      "question": "The great Victoria Desert is located in",
+      "answer":   "C: Australia",
+      "optionA":  "A: Canada",
+      "optionB":  "B: West Africa",
+      "optionC":  "C: Australia",
+      "optionD":  "D: North America"
     },
     {
-      "question": "Geography 6",
-      "answer":   "D: Flesh",
-      "optionA":  "A: Lift",
-      "optionB":  "B: Welldone",
-      "optionC":  "C: Laugh",
-      "optionD":  "D: Flesh"
+      "question": "The intersecting lines drawn on maps and globes are",
+      "answer":   "C: geographic grids",
+      "optionA":  "A: latitudes",
+      "optionB":  "B: longitudes",
+      "optionC":  "C: geographic grids",
+      "optionD":  "D: None of the above"
     },
     {
-      "question": "Geography 7",
-      "answer":   "A: Elohi",
-      "optionA":  "A: Elohi",
-      "optionB":  "B: Cry cry",
-      "optionC":  "C: Revival",
-      "optionD":  "D: Portion"
+      "question": "The light of distant stars is affected by",
+      "answer":   "C: both (a) and (b)",
+      "optionA":  "A: the earth's atmosphere",
+      "optionB":  "B: interstellar dust",
+      "optionC":  "C: both (a) and (b)",
+      "optionD":  "D: None of the above"
     },
     {
-      "question": "Geography 8",
-      "answer":   "B: Lord",
-      "optionA":  "A: Raise",
-      "optionB":  "B: Lord",
-      "optionC":  "C: Says",
-      "optionD":  "D: Stripes"
+      "question": "The landmass of which of the following continents is the least?",
+      "answer":   "C: Australia",
+      "optionA":  "A: Africa",
+      "optionB":  "B: Asia",
+      "optionC":  "C: Australia",
+      "optionD":  "D: Europe"
     },
     {
-      "question": "Geography 9",
-      "answer":   "C: Reading",
-      "optionA":  "A: Seriously?",
-      "optionB":  "B: Keep asking",
-      "optionC":  "C: Reading",
-      "optionD":  "D: Water"
+      "question": "Without ____ the equator would be much hotter than it is while the poles would be much cooler.",
+      "answer":   "D: All are similar terms",
+      "optionA":  "A: latitudinal redistribution of heat",
+      "optionB":  "B: cycle of air circulation",
+      "optionC":  "C: global wind pattern",
+      "optionD":  "D: All are similar terms"
+    },
+    {
+      "question": "The habitats valuable for commercially harvested species are called",
+      "answer":   "B: sea grass bed",
+      "optionA":  "A: coral reefs",
+      "optionB":  "B: sea grass bed",
+      "optionC":  "C: hot spots",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "Which of the following is tropical grassland?",
+      "answer":   "B: Savannah",
+      "optionA":  "A: Taiga",
+      "optionB":  "B: Savannah",
+      "optionC":  "C: Pampas",
+      "optionD":  "D: Prairies"
+    },
+    {
+      "question": "With the disintegration of USSR in end 1991, comprised of ____ Union Republics.",
+      "answer":   "A: 15",
+      "optionA":  "A: 15",
+      "optionB":  "B: 10",
+      "optionC":  "C: 5",
+      "optionD":  "D: 25"
+    },
+    {
+      "question": "The iron and steel industries of which of the following countries are almost fully dependent on imported raw materials?",
+      "answer":   "B: Japan",
+      "optionA":  "A: Britain",
+      "optionB":  "B: Japan",
+      "optionC":  "C: Poland",
+      "optionD":  "D: Germany"
+    },
+    {
+      "question": "The temperature increases rapidly after",
+      "answer":   "A: ionosphere",
+      "optionA":  "A: ionosphere",
+      "optionB":  "B: exosphere",
+      "optionC":  "C: stratosphere",
+      "optionD":  "D: troposphere"
+    },
+    {
+      "question": "The humidity of the air depends upon",
+      "answer":   "D: All of the above",
+      "optionA":  "A: temperature",
+      "optionB":  "B: location",
+      "optionC":  "C: weather",
+      "optionD":  "D: All of the above"
+    },
+    {
+      "question": "The groundwater can become confined between two impermeable layers. This type of enclosed water is called",
+      "answer":   "A: artesian",
+      "optionA":  "A: artesian",
+      "optionB":  "B: artesian well",
+      "optionC":  "C: unconfined groundwater",
+      "optionD":  "D: confined groundwater"
+    },
+    {
+      "question": "The largest glaciers are",
+      "answer":   "C: continental glaciers",
+      "optionA":  "A: mountain glaciers",
+      "optionB":  "B: alpine glaciers",
+      "optionC":  "C: continental glaciers",
+      "optionD":  "D: piedmont glaciers"
+    },
+    {
+      "question": "The ionosphere includes",
+      "answer":   "C: thermosphere and exosphere",
+      "optionA":  "A: mesosphere",
+      "optionB":  "B: thermosphere",
+      "optionC":  "C: thermosphere and exosphere",
+      "optionD":  "D: thermosphere, exosphere and mesosphere"
+    },
+    {
+      "question": "The highest degree of concentration of mineral deposits are found in",
+      "answer":   "A: northeastern zone",
+      "optionA":  "A: northeastern zone",
+      "optionB":  "B: northwestern zone",
+      "optionC":  "C: southern zone",
+      "optionD":  "D: All of the above"
+    },
+    {
+      "question": "The group of minerals chemically containing hydrocarbons is",
+      "answer":   "B: organic group",
+      "optionA":  "A: silicate group",
+      "optionB":  "B: organic group",
+      "optionC":  "C: oxide group",
+      "optionD":  "D: hydride group"
+    },
+    {
+      "question": "The iron ore mined at Bailadila is mostly",
+      "answer":   "A: haematite",
+      "optionA":  "A: haematite",
+      "optionB":  "B: siderite",
+      "optionC":  "C: limonite",
+      "optionD":  "D: magnetic"
+    },
+    {
+      "question": "The leading state in producing paper is",
+      "answer":   "B: West Bengal",
+      "optionA":  "A: Bihar",
+      "optionB":  "B: West Bengal",
+      "optionC":  "C: Kerala",
+      "optionD":  "D: Orissa"
+    },
+    {
+      "question": "The largest dune files are found in",
+      "answer":   "C: both (a) and (b)",
+      "optionA":  "A: Middle East",
+      "optionB":  "B: North Africa",
+      "optionC":  "C: both (a) and (b)",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "The largest gold producing country in the world(in 2006) is",
+      "answer":   "C: South Africa",
+      "optionA":  "A: China",
+      "optionB":  "B: Canada",
+      "optionC":  "C: South Africa",
+      "optionD":  "D: USA"
+    },
+    {
+      "question": "The least explosive type of volcano is called",
+      "answer":   "A: Basalt plateau",
+      "optionA":  "A: Basalt plateau",
+      "optionB":  "B: Cinder cone",
+      "optionC":  "C: Shield volcanoes",
+      "optionD":  "D: Composite volcanoes"
+    },
+    {
+      "question": "The largest fish exporting region in the world is",
+      "answer":   "A: the north-east atlantic region",
+      "optionA":  "A: the north-east atlantic region",
+      "optionB":  "B: the north-east pacific region",
+      "optionC":  "C: the north-west pacific region",
+      "optionD":  "D: the south-east asian region"
+    },
+    {
+      "question": "The largest country of the world by geographical area is",
+      "answer":   "A: Russia",
+      "optionA":  "A: Russia",
+      "optionB":  "B: Vatican City",
+      "optionC":  "C: Australia",
+      "optionD":  "D: USA"
+    },
+    {
+      "question": "The hot and cold deserts together occupy nearly ____ land area of the world.",
+      "answer":   "C: 1/3rd",
+      "optionA":  "A: 1/2",
+      "optionB":  "B: 1/4th",
+      "optionC":  "C: 1/3rd",
+      "optionD":  "D: 3/4th"
+    },
+    {
+      "question": "The highest average salinity amongst the following seas is reported from",
+      "answer":   "A: Dead Sea",
+      "optionA":  "A: Dead Sea",
+      "optionB":  "B: Red Sea",
+      "optionC":  "C: Black Sea",
+      "optionD":  "D: Mediterranean Sea"
+    },
+    {
+      "question": "The Himalayan mountain system belongs to which of the following?",
+      "answer":   "D: Fold mountains",
+      "optionA":  "A: Volcanic mountains",
+      "optionB":  "B: Residual mountains",
+      "optionC":  "C: Block mountains",
+      "optionD":  "D: Fold mountains"
+    },
+    {
+      "question": "The heavy day soils that show significant expansion and contraction due to the presence or absence of moisture is called",
+      "answer":   "B: vertisols",
+      "optionA":  "A: aridsols",
+      "optionB":  "B: vertisols",
+      "optionC":  "C: histosols",
+      "optionD":  "D: andisols"
+    },
+    {
+      "question": "The highest mountains on earth namely Mount Everest, K2, Kanchenjanga are located in",
+      "answer":   "A: the greater Himalayas",
+      "optionA":  "A: the greater Himalayas",
+      "optionB":  "B: the Lesser Himalayas",
+      "optionC":  "C: the outer Himalayas",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "The infrared radiation by sun are strongly absorbed by",
+      "answer":   "A: carbon dioxide",
+      "optionA":  "A: carbon dioxide",
+      "optionB":  "B: water vapours",
+      "optionC":  "C: carbon dioxide and water vapours",
+      "optionD":  "D: ozone"
+    },
+    {
+      "question": "The latitude of a place expresses its angular position relative to the plane of",
+      "answer":   "D: equator",
+      "optionA":  "A: axis of earth",
+      "optionB":  "B: north pole",
+      "optionC":  "C: south pole",
+      "optionD":  "D: equator"
+    },
+    {
+      "question": "The landforms that are influences by several process namely, weathering, erosion, deposition are known as",
+      "answer":   "A: polygenetic landforms",
+      "optionA":  "A: polygenetic landforms",
+      "optionB":  "B: structural landforms",
+      "optionC":  "C: polycyclic landforms",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "The island state of Australia is",
+      "answer":   "C: Tasmania",
+      "optionA":  "A: Victoria",
+      "optionB":  "B: Queensland",
+      "optionC":  "C: Tasmania",
+      "optionD":  "D: New South Wales"
+    },
+    {
+      "question": "The Ice age ended about ____ years ago.",
+      "answer":   "C: 14,000",
+      "optionA":  "A: 140",
+      "optionB":  "B: 1,400",
+      "optionC":  "C: 14,000",
+      "optionD":  "D: 140,000"
+    },
+    {
+      "question": "The languages used in China is",
+      "answer":   "A: Chinese, English",
+      "optionA":  "A: Chinese, English",
+      "optionB":  "B: Chinese, Arabic",
+      "optionC":  "C: Chinese, French",
+      "optionD":  "D: Chinese, Korean"
+    },
+    {
+      "question": "The islands with coral covered surfaces in Bay of Bengal are",
+      "answer":   "B: Nicobar islands",
+      "optionA":  "A: Andaman islands",
+      "optionB":  "B: Nicobar islands",
+      "optionC":  "C: both (a) and (b)",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "Within the transporting medium, transport can occur by",
+      "answer":   "D: All of the above",
+      "optionA":  "A: suspension",
+      "optionB":  "B: solution and traction",
+      "optionC":  "C: solution",
+      "optionD":  "D: All of the above"
+    },
+    {
+      "question": "The length of the day is determined in",
+      "answer":   "A: astronomical units",
+      "optionA":  "A: astronomical units",
+      "optionB":  "B: solar terms",
+      "optionC":  "C: length of the hours",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "The hot, dry wind on the east or leeward side of the Rocky mountains (North America) is called",
+      "answer":   "A: the Chinook",
+      "optionA":  "A: the Chinook",
+      "optionB":  "B: the Sirocco",
+      "optionC":  "C: the Harmattan",
+      "optionD":  "D: the Loo"
+    },
+    {
+      "question": "The islands of Seychelles are located in the",
+      "answer":   "C: Indian Ocean",
+      "optionA":  "A: Arctic Ocean",
+      "optionB":  "B: Atlantic Ocean",
+      "optionC":  "C: Indian Ocean",
+      "optionD":  "D: Pacific Ocean"
+    },
+    {
+      "question": "The island of Sri Lanka formerly known as",
+      "answer":   "C: Ceylon",
+      "optionA":  "A: Madagascar",
+      "optionB":  "B: Tasmania",
+      "optionC":  "C: Ceylon",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "The highest sand dunes are found is",
+      "answer":   "A: the Sahara desert",
+      "optionA":  "A: the Sahara desert",
+      "optionB":  "B: the Atacama desert",
+      "optionC":  "C: the Kalahari desert",
+      "optionD":  "D: the Gobi desert"
+    },
+    {
+      "question": "The greatest variety of animal and plant species is fund in",
+      "answer":   "B: tropical moist forests",
+      "optionA":  "A: temperate grasslands",
+      "optionB":  "B: tropical moist forests",
+      "optionC":  "C: tundra regions",
+      "optionD":  "D: in hot deserts"
+    },
+    {
+      "question": "The layer of the earth, immediately below the crust, is called",
+      "answer":   "D: outer mantle",
+      "optionA":  "A: outer core",
+      "optionB":  "B: inner core",
+      "optionC":  "C: inner mantle",
+      "optionD":  "D: outer mantle"
+    },
+    {
+      "question": "The highest mountains in Africa, which is not part of any mountains chain, is",
+      "answer":   "B: Mt. Kilimanjaro",
+      "optionA":  "A: Mt. Aconcagua",
+      "optionB":  "B: Mt. Kilimanjaro",
+      "optionC":  "C: Mt. Kosciuszko",
+      "optionD":  "D: Mont Blanc"
+    },
+    {
+      "question": "The heavier silicates named as 'Sima' or silica + magnesium are most abundant in the",
+      "answer":   "D: ocean floors",
+      "optionA":  "A: crust",
+      "optionB":  "B: core",
+      "optionC":  "C: mantle",
+      "optionD":  "D: ocean floors"
+    },
+    {
+      "question": "The imaginary line on the earth's surface, which closely follows the 180 Âº meridian, is called the",
+      "answer":   "A: International Date Line",
+      "optionA":  "A: International Date Line",
+      "optionB":  "B: Tropic of Cancer",
+      "optionC":  "C: Equator",
+      "optionD":  "D: Prime Meridian"
+    },
+    {
+      "question": "The largest part of our hydrosphere is",
+      "answer":   "C: Pacific ocean",
+      "optionA":  "A: Atlantic Ocean",
+      "optionB":  "B: Indian Ocean",
+      "optionC":  "C: Pacific ocean",
+      "optionD":  "D: Antarctica ocean"
+    },
+    {
+      "question": "The limit beyond which the stars suffer internal collapse is called the",
+      "answer":   "B: Chandrasekhar limit",
+      "optionA":  "A: Raman Effect",
+      "optionB":  "B: Chandrasekhar limit",
+      "optionC":  "C: Aurora Borealis",
+      "optionD":  "D: Quasan Zone"
+    },
+    {
+      "question": "The ground water that occurs when flow of the subterranean water is not confined by the presence of impermeable layers is called",
+      "answer":   "A: unconfined groundwater",
+      "optionA":  "A: unconfined groundwater",
+      "optionB":  "B: confined groundwater",
+      "optionC":  "C: aquifer",
+      "optionD":  "D: artesian"
+    },
+    {
+      "question": "The gulf that separates Finland and Sweden in Europe is",
+      "answer":   "A: the Gulf of Bothnia",
+      "optionA":  "A: the Gulf of Bothnia",
+      "optionB":  "B: the Gulf of Lions",
+      "optionC":  "C: the Gulf of Genoa",
+      "optionD":  "D: the Gulf of Venice"
+    },
+    {
+      "question": "The largest continent in the world is",
+      "answer":   "B: Asia",
+      "optionA":  "A: Africa",
+      "optionB":  "B: Asia",
+      "optionC":  "C: Australia",
+      "optionD":  "D: Antarctica"
+    },
+    {
+      "question": "The landforms that are created by massive earth movements due to place tectonics are called",
+      "answer":   "A: structural landforms",
+      "optionA":  "A: structural landforms",
+      "optionB":  "B: weathering landforms",
+      "optionC":  "C: erosional landforms",
+      "optionD":  "D: depositional landforms"
+    },
+    {
+      "question": "The largest production of mica in Asia is from",
+      "answer":   "D: India",
+      "optionA":  "A: Indonesia",
+      "optionB":  "B: Malaysia",
+      "optionC":  "C: Myanmar",
+      "optionD":  "D: India"
+    },
+    {
+      "question": "The latitude 'AA' on the map represents the",
+      "answer":   "C: Equator",
+      "optionA":  "A: Tropic of Cancer",
+      "optionB":  "B: Tropic of Capricorn",
+      "optionC":  "C: Equator",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "The largest fresh water lake of Africa, area wise is",
+      "answer":   "A: lake Victoria",
+      "optionA":  "A: lake Victoria",
+      "optionB":  "B: lake Tanganyika",
+      "optionC":  "C: lake Malawi",
+      "optionD":  "D: Lake Rudolf"
+    },
+    {
+      "question": "The important mountains of Europe include",
+      "answer":   "B: Alps, Carpathians, Pyrenees, Apennines",
+      "optionA":  "A: Andes, Alps, Pyrenees",
+      "optionB":  "B: Alps, Carpathians, Pyrenees, Apennines",
+      "optionC":  "C: Alps, Himalayas, Rock mountains",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "The last major glacial period began about 2,000,000 years before present and is commonly known as",
+      "answer":   "A: Pleistocene or ice age",
+      "optionA":  "A: Pleistocene or ice age",
+      "optionB":  "B: Paleocene or ice age",
+      "optionC":  "C: Pliocene or ice age",
+      "optionD":  "D: Holocene or ice age"
+    },
+    {
+      "question": "The imaginary axis at which the earth rotates remains inclined at an angle of ____ to the plane of earth's orbit.",
+      "answer":   "C: 66 1/2 °",
+      "optionA":  "A: 44 1/2 °",
+      "optionB":  "B: 55 1/2 °",
+      "optionC":  "C: 66 1/2 °",
+      "optionD":  "D: 0 °"
+    },
+    {
+      "question": "The ionosphere contains ionized air that protects the earth from",
+      "answer":   "C: the falling meteorites",
+      "optionA":  "A: the ultraviolet rays of the sun",
+      "optionB":  "B: the infrared rays of the sun",
+      "optionC":  "C: the falling meteorites",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "The largest city in Latin America is",
+      "answer":   "A: the Gulf of Bothnia",
+      "optionA":  "A: Mexico city",
+      "optionB":  "B: Caracas",
+      "optionC":  "C: Rio-de-Janeiro",
+      "optionD":  "D: Buenos Aires"
+    },
+    {
+      "question": "The highest and lowest values of a weather element observed over the entire period of record are",
+      "answer":   "C: absolute extremes",
+      "optionA":  "A: extremes",
+      "optionB":  "B: average extremes",
+      "optionC":  "C: absolute extremes",
+      "optionD":  "D: relative extremes"
+    },
+    {
+      "question": "The highest mountain peak of Oceania is",
+      "answer":   "D: Puncak Jaya, Indonesia.",
+      "optionA":  "A: Mt. Victoria, Papua New Guinea",
+      "optionB":  "B: Mt. Kosciusko, Australia",
+      "optionC":  "C: Mt. Cook, South Island (New Zealand)",
+      "optionD":  "D: Puncak Jaya, Indonesia."
+    },
+    {
+      "question": "The largest gulf in the world is",
+      "answer":   "A: Gulf of Mexico",
+      "optionA":  "A: Gulf of Mexico",
+      "optionB":  "B: Persian Gulf",
+      "optionC":  "C: Gulf of Carpentaria",
+      "optionD":  "D: Gulf of Mannar"
+    },
+    {
+      "question": "The hunting and gathering economy can support only",
+      "answer":   "A: 1 person per sq. km",
+      "optionA":  "A: 1 person per sq. km",
+      "optionB":  "B: 3 persons per sq. km",
+      "optionC":  "C: 5 persons per sq. km",
+      "optionD":  "D: 7 persons per sq. km"
+    },
+    {
+      "question": "The import of crude oil and petroleum done from national oil companies of producer countries, which have a net exportable surplus of oil is by",
+      "answer":   "A: term contracts",
+      "optionA":  "A: term contracts",
+      "optionB":  "B: term tenders",
+      "optionC":  "C: monthly tenders",
+      "optionD":  "D: All the above"
+    },
+    {
+      "question": "The knowledge about the topography of the ocean basins has been derived from",
+      "answer":   "D: side-scan sonar",
+      "optionA":  "A: seismic surveying",
+      "optionB":  "B: echo sounder",
+      "optionC":  "C: side-scan sonar",
+      "optionD":  "D: side-scan sonar"
+    },
+    {
+      "question": "Which is the Land of the Rising Sun?",
+      "answer":   "D: Japan",
+      "optionA":  "A: China",
+      "optionB":  "B: Taiwan",
+      "optionC":  "C: Australia",
+      "optionD":  "D: Japan"
+    },
+    {
+      "question": "Nangal is known for",
+      "answer":   "D: Fertilizers",
+      "optionA":  "A: Copper",
+      "optionB":  "B: Oil Refinery",
+      "optionC":  "C: Penicillin industry",
+      "optionD":  "D: Fertilizers"
+    },
+    {
+      "question": "The desert that lies on the boundary between India and Pakistan is",
+      "answer":   "B: Thar",
+      "optionA":  "A: Gobi",
+      "optionB":  "B: Thar",
+      "optionC":  "C: Sahara",
+      "optionD":  "D: one of these"
+    },
+    {
+      "question": "The tropical evergreen forest are found in the regions where the annual rainfall is more than,",
+      "answer":   "C: 200 cm.",
+      "optionA":  "A: 50 cm.",
+      "optionB":  "B: 150 cm.",
+      "optionC":  "C: 200 cm.",
+      "optionD":  "D: 300 cm."
+    },
+    {
+      "question": "Due to dense growth of trees, the sunlight cannot reach the ground in",
+      "answer":   "B: Tropical Evergreen forest",
+      "optionA":  "A: Deciduous forest",
+      "optionB":  "B: Tropical Evergreen forest",
+      "optionC":  "C: Shrub and Thorn forests",
+      "optionD":  "D: Mountain forests"
+    },
+    {
+      "question": "The Mangroove forests of the Gangetic delta (West Bengal) are called",
+      "answer":   "C: Sunderbans",
+      "optionA":  "A: Sholas",
+      "optionB":  "B: Evergreen forest",
+      "optionC":  "C: Sunderbans",
+      "optionD":  "D: Kalibans"
+    },
+    {
+      "question": "In Nilgiris, the tropical forests are locally called",
+      "answer":   "A: Sholas",
+      "optionA":  "A: Sholas",
+      "optionB":  "B: Evergreen forest",
+      "optionC":  "C: Sunderbans",
+      "optionD":  "D: Kalibans"
+    },
+    {
+      "question": "Reserved forests are also known as",
+      "answer":   "B: Permanent forests",
+      "optionA":  "A: Mangrove forests",
+      "optionB":  "B: Permanent forests",
+      "optionC":  "C: Coniferous forests",
+      "optionD":  "D: Grass lands"
+    },
+    {
+      "question": "Felling trees are not allowed in",
+      "answer":   "D: Protected forests",
+      "optionA":  "A: Reserve forests",
+      "optionB":  "B: Coniferous forests",
+      "optionC":  "C: Mangrove forests",
+      "optionD":  "D: Protected forests"
+    },
+    {
+      "question": "The mineral which in described as the backbone of civilization is",
+      "answer":   "A: Iron",
+      "optionA":  "A: Iron",
+      "optionB":  "B: Copper",
+      "optionC":  "C: Gold",
+      "optionD":  "D: Silver"
+    },
+    {
+      "question": "The country which possesses largest reserves of Iron ore after Russia is",
+      "answer":   "C: India",
+      "optionA":  "A: Japan",
+      "optionB":  "B: USA",
+      "optionC":  "C: India",
+      "optionD":  "D: China"
+    },
+    {
+      "question": "Manganese dioxide is used for the manufacture of",
+      "answer":   "C: Dry batteries",
+      "optionA":  "A: Cement",
+      "optionB":  "B: Paint",
+      "optionC":  "C: Dry batteries",
+      "optionD":  "D: Electrical bulbs"
+    },
+    {
+      "question": "Petroleum is mined from the layers of",
+      "answer":   "C: Sedimentary rocks",
+      "optionA":  "A: Igneous rocks",
+      "optionB":  "B: Metamorphic rocks",
+      "optionC":  "C: Sedimentary rocks",
+      "optionD":  "D: Crystalline"
+    },
+    {
+      "question": "The mineral which is known as 'Black Gold' is",
+      "answer":   "B: Coal",
+      "optionA":  "A: Petroleum",
+      "optionB":  "B: Coal",
+      "optionC":  "C: Manganese",
+      "optionD":  "D: Mica"
+    },
+    {
+      "question": "Maps created by using aerial photographs are called",
+      "answer":   "A: Ortho photo maps",
+      "optionA":  "A: Ortho photo maps",
+      "optionB":  "B: Aerial photo maps",
+      "optionC":  "C: Physical maps",
+      "optionD":  "D: Political maps"
+    },
+    {
+      "question": "Most people think that Geography is the study of",
+      "answer":   "D: Maps",
+      "optionA":  "A: Moon",
+      "optionB":  "B: Sun",
+      "optionC":  "C: Planets",
+      "optionD":  "D: Maps"
+    },
+    {
+      "question": "Which country is known as the sugar bowl of the world?",
+      "answer":   "D: Cuba",
+      "optionA":  "A: USSR",
+      "optionB":  "B: India",
+      "optionC":  "C: USA",
+      "optionD":  "D: Cuba"
+    },
+    {
+      "question": "Equinoxes occur on",
+      "answer":   "C: March 21 and September 23",
+      "optionA":  "A: March 21 and December 22",
+      "optionB":  "B: December 22 and June 21",
+      "optionC":  "C: March 21 and September 23",
+      "optionD":  "D: January 4 and September 22"
+    },
+    {
+      "question": "One Astronomical Unit is the average distance between",
+      "answer":   "D: Earth and the Sun",
+      "optionA":  "A: Pluto and the Sun",
+      "optionB":  "B: Jupiter and the Sun",
+      "optionC":  "C: Earth and the Moon",
+      "optionD":  "D: Earth and the Sun"
+    },
+    {
+      "question": "What is the unit of measurement of the distances of Stars from the earth?",
+      "answer":   "B: light years",
+      "optionA":  "A: nautical miles",
+      "optionB":  "B: light years",
+      "optionC":  "C: kilo meters",
+      "optionD":  "D: fathoms"
+    },
+    {
+      "question": "Light from the nearest star reaches the earth in",
+      "answer":   "C: 4.3 years",
+      "optionA":  "A: 4.3 minutes",
+      "optionB":  "B: 43 minutes",
+      "optionC":  "C: 4.3 years",
+      "optionD":  "D: 4.3 seconds"
+    },
+    {
+      "question": "Duncan pass is located between",
+      "answer":   "D: South and Little Andaman",
+      "optionA":  "A: Andaman and Nicobar",
+      "optionB":  "B: North and Middle Andaman",
+      "optionC":  "C: North and South Andaman",
+      "optionD":  "D: South and Little Andaman"
+    },
+    {
+      "question": "What is the importance of ozone in the atmosphere?",
+      "answer":   "D: it provides protection against ultraviolet radiation",
+      "optionA":  "A: it helps scatter blue ligh",
+      "optionB":  "B: it creates the green house effect on earth",
+      "optionC":  "C: it provides condensation nuclei",
+      "optionD":  "D: it provides protection against ultraviolet radiation"
+    },
+    {
+      "question": "The International Date Line passes through",
+      "answer":   "A: Bering Strait",
+      "optionA":  "A: Bering Strait",
+      "optionB":  "B: Malacca Strait",
+      "optionC":  "C: Florida Strait",
+      "optionD":  "D: Gibraltar Strait"
+    },
+    {
+      "question": "Which soil owes its colour to oxides of iron?",
+      "answer":   "A: laterite",
+      "optionA":  "A: laterite",
+      "optionB":  "B: black",
+      "optionC":  "C: alluvial",
+      "optionD":  "D: none of these"
+    },
+    {
+      "question": "Which soil swells when wet and develops cracks when dry?",
+      "answer":   "B: black",
+      "optionA":  "A: red",
+      "optionB":  "B: black",
+      "optionC":  "C: laterite",
+      "optionD":  "D: alluvial"
+    },
+    {
+      "question": "The busiest of sea trade routes is",
+      "answer":   "B: North Atlantic route",
+      "optionA":  "A: South Atlantic route",
+      "optionB":  "B: North Atlantic route",
+      "optionC":  "C: Cape of Good Hope route",
+      "optionD":  "D: Suez Canal"
+    },
+    {
+      "question": "The difference in the duration of day and night increases as one moves from",
+      "answer":   "B: equator to poles",
+      "optionA":  "A: poles to equator",
+      "optionB":  "B: equator to poles",
+      "optionC":  "C: west to east",
+      "optionD":  "D: east and west of the prime meridian"
+    },
+    {
+      "question": "The velocity of winds is governed by",
+      "answer":   "C: Pressure gradient",
+      "optionA":  "A: Farrel's law",
+      "optionB":  "B: Insolation",
+      "optionC":  "C: Pressure gradient",
+      "optionD":  "D: Rotation of earth"
+    },
+    {
+      "question": "The sun shines vertically over the equator on",
+      "answer":   "B: March 21",
+      "optionA":  "A: June 21",
+      "optionB":  "B: March 21",
+      "optionC":  "C: December 22",
+      "optionD":  "D: all days"
     }
+
 
   ]
 }

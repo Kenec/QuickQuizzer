@@ -7,5 +7,8 @@
     <string name="option2">B: Nigeria</string>
     <string name="option3">C: Egypt</string>
     <string name="option4">D: Togo</string>
+    <string name="game_sound"><a href="https://www.zapsplat.com/">https://www.zapsplat.com/</a></string>
+    <string name="game_question_scr2"><a href="http://www.meritexam.com/">http://www.meritexam.com/</a></string>
+    <string name="game_question_scr1"><a href="https://www.indiabix.com/">https://www.indiabix.com/</a></string>
 
 </resources>
