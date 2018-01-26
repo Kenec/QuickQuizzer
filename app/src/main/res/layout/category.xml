@@ -24,7 +24,7 @@
             android:layout_marginRight="10dp"
             android:layout_marginBottom="5dp"
             android:onClick="chooseCategory"
-            android:background="@drawable/buttonshape"
+            android:background="@drawable/button_enabled"
             android:textColor="#FFFFFF"
             android:textStyle="bold"
             android:textSize="15dp"/>
@@ -40,7 +40,7 @@
             android:layout_marginRight="10dp"
             android:layout_marginBottom="5dp"
             android:onClick="chooseCategory"
-            android:background="@drawable/buttonshape"
+            android:background="@drawable/button_enabled"
             android:textColor="#FFFFFF"
             android:textStyle="bold"
             android:textSize="15dp"/>
@@ -56,7 +56,7 @@
             android:layout_marginRight="10dp"
             android:layout_marginBottom="5dp"
             android:onClick="chooseCategory"
-            android:background="@drawable/buttonshape"
+            android:background="@drawable/button_enabled"
             android:textColor="#FFFFFF"
             android:textStyle="bold"
             android:textSize="15dp"/>
@@ -72,7 +72,7 @@
             android:layout_marginRight="20dp"
             android:layout_marginBottom="5dp"
             android:onClick="chooseCategory"
-            android:background="@drawable/buttonshape"
+            android:background="@drawable/button_enabled"
             android:textColor="#FFFFFF"
             android:textStyle="bold"
             android:textSize="15dp"/>
@@ -97,7 +97,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
             android:onClick="chooseCategory"
-            android:background="@drawable/buttonshape"
+            android:background="@drawable/button_enabled"
             android:textColor="#FFFFFF"
             android:textStyle="bold"
             android:textSize="15dp"/>
@@ -110,7 +110,7 @@
             android:text="Religion"
             android:layout_margin="10dp"
             android:onClick="chooseCategory"
-            android:background="@drawable/buttonshape"
+            android:background="@drawable/button_enabled"
             android:textColor="#FFFFFF"
             android:textStyle="bold"
             android:textSize="15dp"/>
@@ -123,7 +123,7 @@
             android:text="Geography"
             android:layout_margin="10dp"
             android:onClick="chooseCategory"
-            android:background="@drawable/buttonshape"
+            android:background="@drawable/button_enabled"
             android:textColor="#FFFFFF"
             android:textStyle="bold"
             android:textSize="15dp"/>
@@ -139,7 +139,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="20dp"
             android:onClick="chooseCategory"
-            android:background="@drawable/buttonshape"
+            android:background="@drawable/button_enabled"
             android:textColor="#FFFFFF"
             android:textStyle="bold"
             android:textSize="15dp"/>

@@ -2,77 +2,815 @@
   "category": "sports",
   "questions":[
     {
-      "question": "Sports 1",
-      "answer":   "A: answer",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "2010 Commonwealth Games held in ?",
+      "answer":   "B: India",
+      "optionA":  "A: Canada",
+      "optionB":  "B: India",
+      "optionC":  "C: Britian",
+      "optionD":  "D: Malaysia"
     },
     {
-      "question": "Sports 2",
-      "answer":   "B: I don't know",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "The term“Googly” is associated with ?",
+      "answer":   "A: Cricket",
+      "optionA":  "A: Cricket",
+      "optionB":  "B: Football",
+      "optionC":  "C: Badminton",
+      "optionD":  "D: Hockey"
     },
     {
-      "question": "Sports 3",
-      "answer":   "D: Jogging",
-      "optionA":  "A: answer",
-      "optionB":  "B: We dock",
-      "optionC":  "C: Enough",
-      "optionD":  "D: Jogging"
+      "question": "Aga Khan Cup is awarded to ?",
+      "answer":   "C: National Hockey in India",
+      "optionA":  "A: International Hockey",
+      "optionB":  "B: Asian Hockey",
+      "optionC":  "C: National Hockey in India",
+      "optionD":  "D: None of these"
     },
     {
-      "question": "Sports 4",
-      "answer":   "C: Mercy",
-      "optionA":  "A: Love",
-      "optionB":  "B: Glory",
-      "optionC":  "C: Mercy",
-      "optionD":  "D: Trailing"
+      "question": "Krishna Poonia is associated with ?",
+      "answer":   "C: Chess",
+      "optionA":  "A: Football",
+      "optionB":  "B: Hockey",
+      "optionC":  "C: Chess",
+      "optionD":  "D: Athletics"
     },
     {
-      "question": "Sports 5",
-      "answer":   "D: Pretty",
-      "optionA":  "A: Apple",
-      "optionB":  "B: Happiness",
-      "optionC":  "C: Awu ma je",
-      "optionD":  "D: Pretty"
+      "question": "In 1924 the first winter Olympics was held in ?",
+      "answer":   "B: France",
+      "optionA":  "A: Italy",
+      "optionB":  "B: France",
+      "optionC":  "C: Austria",
+      "optionD":  "D: Canada"
     },
     {
-      "question": "Sports 6",
-      "answer":   "D: Flesh",
-      "optionA":  "A: Lift",
-      "optionB":  "B: Welldone",
-      "optionC":  "C: Laugh",
-      "optionD":  "D: Flesh"
+      "question": "Which is the national sport of Canada? ",
+      "answer":   "A: Lacrosse/Ice hockey",
+      "optionA":  "A: Lacrosse/Ice hockey",
+      "optionB":  "B: Cricket",
+      "optionC":  "C: Field hockey",
+      "optionD":  "D: Volleyball"
     },
     {
-      "question": "Sports 7",
-      "answer":   "A: Elohi",
-      "optionA":  "A: Elohi",
-      "optionB":  "B: Cry cry",
-      "optionC":  "C: Revival",
-      "optionD":  "D: Portion"
+      "question": "Archery is the national sport of which country?",
+      "answer":   "B: Bhutan",
+      "optionA":  "A: Afghanistan",
+      "optionB":  "B: Bhutan",
+      "optionC":  "C: Japan",
+      "optionD":  "D: India"
     },
     {
-      "question": "Sports 8",
-      "answer":   "B: Lord",
-      "optionA":  "A: Raise",
-      "optionB":  "B: Lord",
-      "optionC":  "C: Says",
-      "optionD":  "D: Stripes"
+      "question": "____________ has Cricket as its national sports.",
+      "answer":   "B: Jamaica",
+      "optionA":  "A: India",
+      "optionB":  "B: Jamaica",
+      "optionC":  "C: Sri Lanka",
+      "optionD":  "D: United States"
     },
     {
-      "question": "Sports 9",
-      "answer":   "C: Reading",
-      "optionA":  "A: Seriously?",
-      "optionB":  "B: Keep asking",
-      "optionC":  "C: Reading",
-      "optionD":  "D: Water"
+      "question": "_____________ is the national sport of Turkey",
+      "answer":   "A: Wrestling",
+      "optionA":  "A: Wrestling",
+      "optionB":  "B: Rugby union",
+      "optionC":  "C: Golf",
+      "optionD":  "D: Basketball"
+    },
+    {
+      "question": "When was the Commonwealth game started?",
+      "answer":   "A: 1930",
+      "optionA":  "A: 1930",
+      "optionB":  "B: 1934",
+      "optionC":  "C: 1938",
+      "optionD":  "D: 1950"
+    },
+
+    {
+      "question": "Which was the host country in 1998 for Asian Games?",
+      "answer":   "A: Thailand",
+      "optionA":  "A: Thailand",
+      "optionB":  "B: Philippines",
+      "optionC":  "C: South Korea",
+      "optionD":  "D: China"
+    },
+    {
+      "question": "Which city has hosted Asian Games in 2006?",
+      "answer":   "D: Doha",
+      "optionA":  "A: Tokyo",
+      "optionB":  "B: Bangkok",
+      "optionC":  "C: New Delhi",
+      "optionD":  "D: Doha"
+    },
+    {
+      "question": "First Olympic Games was held in ________",
+      "answer":   "C: Canada",
+      "optionA":  "A: England",
+      "optionB":  "B: Australia",
+      "optionC":  "C: Canada",
+      "optionD":  "D: Jamacia"
+    },
+    {
+      "question": "If we are using the following words in a game: Break, Cannons, Cue, In off, Jigger, Scratch. Which game are we playing?",
+      "answer":   "B: Billiards",
+      "optionA":  "A: Bridge",
+      "optionB":  "B: Billiards",
+      "optionC":  "C: Polo",
+      "optionD":  "D: Baseball"
+    },
+    {
+      "question": "Who was the winner of Football World Cup in 2010?",
+      "answer":   "D: Spain",
+      "optionA":  "A: Italy",
+      "optionB":  "B: Brazil",
+      "optionC":  "C: France",
+      "optionD":  "D: Spain"
+    },
+    {
+      "question": "Which of the following terms is used in the game of Lawn Tennis?",
+      "answer":   "A: Deuce",
+      "optionA":  "A: Deuce",
+      "optionB":  "B: Jockey",
+      "optionC":  "C: Punter",
+      "optionD":  "D: Scoop"
+    },
+    {
+      "question": "The term 'Tee' is connected with",
+      "answer":   "B: Golf",
+      "optionA":  "A: Badminton",
+      "optionB":  "B: Golf",
+      "optionC":  "C: Bridge",
+      "optionD":  "D: Polo"
+    },
+    {
+      "question": "The name of the Mascot for 1996 Olympics held at Atlanta was",
+      "answer":   "C: SWHATZ IT",
+      "optionA":  "A: Matari",
+      "optionB":  "B: APPU",
+      "optionC":  "C: SWHATZ IT",
+      "optionD":  "D: Uncle Sam"
+    },
+    {
+      "question": "The Olympic museum was opened at which of the following places?",
+      "answer":   "A: Lausanne",
+      "optionA":  "A: Lausanne",
+      "optionB":  "B: Istanbul",
+      "optionC":  "C: Athens",
+      "optionD":  "D: Rome"
+    },
+    {
+      "question": "'Ashes' is the term associates with which sports?",
+      "answer":   "B: Cricket",
+      "optionA":  "A: Basketball",
+      "optionB":  "B: Cricket",
+      "optionC":  "C: Hockey",
+      "optionD":  "D: Volleyball"
+    },
+
+    {
+      "question": "The term 'Butterfly Stroke' is associated with",
+      "answer":   "D: Swimming",
+      "optionA":  "A: Wrestling",
+      "optionB":  "B: Boxing",
+      "optionC":  "C: Kabaddi",
+      "optionD":  "D: Swimming"
+    },
+    {
+      "question": "Prakash Padukone is associated with which games?",
+      "answer":   "D: Badminton",
+      "optionA":  "A: Cricket",
+      "optionB":  "B: Table Tennis",
+      "optionC":  "C: Judo",
+      "optionD":  "D: Badminton"
+    },
+    {
+      "question": "Major R.S. Brar is associated with",
+      "answer":   "C: Equestrian",
+      "optionA":  "A: Boxing",
+      "optionB":  "B: Golf",
+      "optionC":  "C: Equestrian",
+      "optionD":  "D: Tennis"
+    },
+    {
+      "question": "Crame Trophy Tennis final held in May 2003 was played between",
+      "answer":   "C: Boris Becker and John McEnroe",
+      "optionA":  "A: Leander Paes and David Rickle",
+      "optionB":  "B: John McEnore and David Rickle",
+      "optionC":  "C: Boris Becker and John McEnroe",
+      "optionD":  "D: Boris Becker and Leander Paes"
+    },
+    {
+      "question": "Which of the following games originated from England?",
+      "answer":   "C: Cricket",
+      "optionA":  "A: Baseball",
+      "optionB":  "B: Archery",
+      "optionC":  "C: Cricket",
+      "optionD":  "D: Hockey"
+    },
+    {
+      "question": "Grand Slam in Tennis means a player has to win",
+      "answer":   "A: Australian open, French open, U.S. open and Wimbledon",
+      "optionA":  "A: Australian open, French open, U.S. open and Wimbledon",
+      "optionB":  "B: Australian open, U.S. Open and Wimbledon",
+      "optionC":  "C: Australian open, French open and Wimbledon",
+      "optionD":  "D: French open, Wimbledon"
+    },
+    {
+      "question": "Who won the maximum number of gold medals in Hiroshima Asian Games?",
+      "answer":   "A: China",
+      "optionA":  "A: China",
+      "optionB":  "B: India",
+      "optionC":  "C: South Korea",
+      "optionD":  "D: Japan"
+    },
+    {
+      "question": "What is the length of each stump in the cricket?",
+      "answer":   "C: 28 inches",
+      "optionA":  "A: 35 inches",
+      "optionB":  "B: 22 inches",
+      "optionC":  "C: 28 inches",
+      "optionD":  "D: 33 inches"
+    },
+    {
+      "question": "If you scored a cannon, which game would you be playing?",
+      "answer":   "B: Billiards",
+      "optionA":  "A: football",
+      "optionB":  "B: Billiards",
+      "optionC":  "C: Cricket",
+      "optionD":  "D: Hockey"
+    },
+    {
+      "question": "How many players are there in Water Polo team?",
+      "answer":   "D: 7",
+      "optionA":  "A: 4",
+      "optionB":  "B: 5",
+      "optionC":  "C: 6",
+      "optionD":  "D: 7"
+    },
+
+    {
+      "question": "Who was the first non-European to win the Ballon d'Or?",
+      "answer":   "C: George Weah",
+      "optionA":  "A: Ronaldo",
+      "optionB":  "B: Pelé",
+      "optionC":  "C: George Weah",
+      "optionD":  "D: Rivaldo"
+    },
+    {
+      "question": "Rangers have been Scottish league champions 54 times. With which club did they share the title in 1890–91?",
+      "answer":   "C: Dumbarton",
+      "optionA":  "A: Celtic",
+      "optionB":  "B: Aberdeen",
+      "optionC":  "C: Dumbarton",
+      "optionD":  "D: Dundee United"
+    },
+    {
+      "question": "What was the score in the Euro 2012 final?",
+      "answer":   "B: 4-0",
+      "optionA":  "A: 5-0",
+      "optionB":  "B: 4-0",
+      "optionC":  "C: 3-0",
+      "optionD":  "D: 2-0"
+    },
+    {
+      "question": "Who won the man of the match award for the 2014 World Cup final?",
+      "answer":   "A: Mario Götze",
+      "optionA":  "A: Mario Götze",
+      "optionB":  "B: Sergio Romero",
+      "optionC":  "C: Martín Demichelis",
+      "optionD":  "D: Lionel Messi"
+    },
+    {
+      "question": "The 2022 World Cup will be held in Qatar. Name the only other side to host the tournament without previously competing in the competition?",
+      "answer":   "C: Uruguay",
+      "optionA":  "A: South Africa",
+      "optionB":  "B: Switzerland",
+      "optionC":  "C: Uruguay",
+      "optionD":  "D: Chile"
+    },
+    {
+      "question": "Against which country did Wayne Rooney break the England goalscoring record?",
+      "answer":   "B: Switzerland",
+      "optionA":  "A: Slovenia",
+      "optionB":  "B: Switzerland",
+      "optionC":  "C: Lithuania",
+      "optionD":  "D: San Marino"
+    },
+    {
+      "question": "Former Ballon d'Or winner Andriy Shevchenko is from which nation?",
+      "answer":   "D: Ukraine",
+      "optionA":  "A: Belarus",
+      "optionB":  "B: Russia",
+      "optionC":  "C: Estonia",
+      "optionD":  "D: Ukraine"
+    },
+    {
+      "question": "What is width of goal post in the game of football?",
+      "answer":   "C: 24 feet",
+      "optionA":  "A: 20 feet",
+      "optionB":  "B: 22 feet",
+      "optionC":  "C: 24 feet",
+      "optionD":  "D: 26 feet"
+    },
+    {
+      "question": "Who is the goal-keeper who played in five Football World Cup tournaments?",
+      "answer":   "B: Antonio Carbajal",
+      "optionA":  "A: Gerd Muller",
+      "optionB":  "B: Antonio Carbajal",
+      "optionC":  "C: Bryan Robson",
+      "optionD":  "D: Lothar Matthaeus"
+    },
+    {
+      "question": "“Bull’s eye” is used in the game of",
+      "answer":   "A: Shooting",
+      "optionA":  "A: Shooting",
+      "optionB":  "B: Boxing",
+      "optionC":  "C: Polo",
+      "optionD":  "D: Baseball"
+    },
+
+    {
+      "question": "What is the distance between the popping crease and the stumps on a cricket pitch?",
+      "answer":   "D: 4 feet",
+      "optionA":  "A: 2 ½ feet",
+      "optionB":  "B: 3 feet",
+      "optionC":  "C: 3 ½ feet",
+      "optionD":  "D: 4 feet"
+    },
+    {
+      "question": "Jahangir Khan is famous in which sport?",
+      "answer":   "A: Squash",
+      "optionA":  "A: Squash",
+      "optionB":  "B: Boxing",
+      "optionC":  "C: Cricket",
+      "optionD":  "D: Hockey"
+    },
+    {
+      "question": "Which of the following terms is not associated with Foot-ball?",
+      "answer":   "C: Penalty Kick",
+      "optionA":  "A: Free Kick",
+      "optionB":  "B: Off Side",
+      "optionC":  "C: Penalty Kick",
+      "optionD":  "D: Penalty Stroke"
+    },
+    {
+      "question": "Which cricketer holds the record for scoring highest number of runs in a test match innings?",
+      "answer":   "A: Brian Lara",
+      "optionA":  "A: Brian Lara",
+      "optionB":  "B: Sunil Gavaskar",
+      "optionC":  "C: Gary Sobers",
+      "optionD":  "D: Vivian Richards"
+    },
+    {
+      "question": "Serena Williams is one of the top ranked sportswomen of",
+      "answer":   "B: Tennis",
+      "optionA":  "A: Chess",
+      "optionB":  "B: Tennis",
+      "optionC":  "C: Shooting",
+      "optionD":  "D: Badminton"
+    },
+    {
+      "question": "Which is the first of the four Grand slam tennis tournaments to be held each year?",
+      "answer":   "D: Australian open",
+      "optionA":  "A: U.S. Open",
+      "optionB":  "B: Wimbledon",
+      "optionC":  "C: French Open",
+      "optionD":  "D: Australian open"
+    },
+    {
+      "question": "‘Lay-up shot’ is a term associated with which of the following games?",
+      "answer":   "B: Basketball",
+      "optionA":  "A: Handball",
+      "optionB":  "B: Basketball",
+      "optionC":  "C: Throw ball",
+      "optionD":  "D: Volleyball"
+    },
+    {
+      "question": "‘Subroto Cup’ is associated with which game/sports?",
+      "answer":   "B: Football",
+      "optionA":  "A: Hockey",
+      "optionB":  "B: Football",
+      "optionC":  "C: Basketball",
+      "optionD":  "D: Badminton"
+    },
+    {
+      "question": "Rangaswami Cup is associated with",
+      "answer":   "B: Hockey",
+      "optionA":  "A: Golf",
+      "optionB":  "B: Hockey",
+      "optionC":  "C: Football",
+      "optionD":  "D: Wrestling"
+    },
+    {
+      "question": "How many players are there on each side in the game of basketball?",
+      "answer":   "A: 5",
+      "optionA":  "A: 5",
+      "optionB":  "B: 6",
+      "optionC":  "C: 7",
+      "optionD":  "D: 8"
+    },
+
+    {
+      "question": "Which of the following trophies is not awarded in cricket?",
+      "answer":   "B: Ryder Cup",
+      "optionA":  "A: Ashes",
+      "optionB":  "B: Ryder Cup",
+      "optionC":  "C: Ranji Trophy",
+      "optionD":  "D: Deodhar Trophy"
+    },
+    {
+      "question": "2018 FIFA World Cup would be held in",
+      "answer":   "C: Russia",
+      "optionA":  "A: Qatar",
+      "optionB":  "B: France",
+      "optionC":  "C: Russia",
+      "optionD":  "D: Netherlands"
+    },
+    {
+      "question": "The term ‘Pitcher’ is associated with:",
+      "answer":   "B: Baseball",
+      "optionA":  "A: Basketball",
+      "optionB":  "B: Baseball",
+      "optionC":  "C: Boxing",
+      "optionD":  "D: Wrestling"
+    },
+    {
+      "question": "Which of the following International Tennis Tournaments is not held at the same venue year after year?",
+      "answer":   "A: Davis Cup",
+      "optionA":  "A: Davis Cup",
+      "optionB":  "B: U.S. Open",
+      "optionC":  "C: French Open",
+      "optionD":  "D: Australian open"
+    },
+    {
+      "question": "The first World Cup in cricket was held in",
+      "answer":   "C: 1975",
+      "optionA":  "A: 1971",
+      "optionB":  "B: 1973",
+      "optionC":  "C: 1975",
+      "optionD":  "D: 1977"
+    },
+    {
+      "question": "The word “Jump ball” is associated with",
+      "answer":   "B: Basketbal",
+      "optionA":  "A: Softball",
+      "optionB":  "B: Basketbal",
+      "optionC":  "C: Netball",
+      "optionD":  "D: Baseball"
+    },
+    {
+      "question": "Where did the game of Chess originate?",
+      "answer":   "A: India",
+      "optionA":  "A: India",
+      "optionB":  "B: Persia",
+      "optionC":  "C: Arabia",
+      "optionD":  "D: Europe"
+    },
+    {
+      "question": "Nine time Wimbledon Champion of Women’s Singles Match in Tennis is:",
+      "answer":   "C: Martina Navratilova",
+      "optionA":  "A: Iva Majoli",
+      "optionB":  "B: Jana Novotna",
+      "optionC":  "C: Martina Navratilova",
+      "optionD":  "D: Mary Joe Fernandaz"
+    },
+    {
+      "question": "Who won the goal medal for 400 meters run at two consecutive Olympic Games?",
+      "answer":   "B: Michael Johnson",
+      "optionA":  "A: Carl Lawis",
+      "optionB":  "B: Michael Johnson",
+      "optionC":  "C: Gregory Haughton",
+      "optionD":  "D: Alvin Harrison"
+    },
+    {
+      "question": "‘Free throw’ is associated with:",
+      "answer":   "A: Basketball",
+      "optionA":  "A: Basketball",
+      "optionB":  "B: Hockey",
+      "optionC":  "C: Volleyball",
+      "optionD":  "D: Football"
+    },
+
+    {
+      "question": "Badminton is National game of which country?",
+      "answer":   "D: Malaysia",
+      "optionA":  "A: Russia",
+      "optionB":  "B: Japan",
+      "optionC":  "C: India",
+      "optionD":  "D: Malaysia"
+    },
+    {
+      "question": "The number of players on each side in baseball is _______",
+      "answer":   "C: Nine",
+      "optionA":  "A: Seven",
+      "optionB":  "B: Eight",
+      "optionC":  "C: Nine",
+      "optionD":  "D: Ten"
+    },
+    {
+      "question": "'Cue ball, break shot, pool table' are terms associated with which of the following games?",
+      "answer":   "A: Billiards",
+      "optionA":  "A: Billiards",
+      "optionB":  "B: Football",
+      "optionC":  "C: Cricket",
+      "optionD":  "D: Squash"
+    },
+    {
+      "question": "Which batsman started his international cricketing career at the age of 16?",
+      "answer":   "D: Sachin Tendulkar",
+      "optionA":  "A: Kapil Dev",
+      "optionB":  "B: Piyush Chawla",
+      "optionC":  "C: Rahul Dravid",
+      "optionD":  "D: Sachin Tendulkar"
+    },
+    {
+      "question": "A Kabaddi team usually has ______",
+      "answer":   "C: Seven players",
+      "optionA":  "A: Nine players",
+      "optionB":  "B: Eleven players",
+      "optionC":  "C: Seven players",
+      "optionD":  "D: Eight players"
+    },
+    {
+      "question": "Which Indian cricketer has written the book, ‘One Day Wonders’?",
+      "answer":   "B: Sunil Gavaskar",
+      "optionA":  "A: Kapil Dev",
+      "optionB":  "B: Sunil Gavaskar",
+      "optionC":  "C: Ravi Shastri",
+      "optionD":  "D: Sachin Tendulkar"
+    },
+    {
+      "question": "Which player got stripped of his seven Tour de France titles and got banned for life by the International Cycling Union?",
+      "answer":   "D: Lance Armstrong",
+      "optionA":  "A: Chris Hoy",
+      "optionB":  "B: Nicola Adams",
+      "optionC":  "C: Jason Kenny",
+      "optionD":  "D: Lance Armstrong"
+    },
+    {
+      "question": "Which of the following is not correct?",
+      "answer":   "B: Jeev Milkha Singh (Football)",
+      "optionA":  "A: Sania Mirza (Tennis)",
+      "optionB":  "B: Jeev Milkha Singh (Football)",
+      "optionC":  "C: Saina Nehwal (Badminton)",
+      "optionD":  "D: Vishwanathan Anand (Chess)"
+    },
+    {
+      "question": "The famous woman Tennis player, who was stabbed during a match, is",
+      "answer":   "C: Monica Seles",
+      "optionA":  "A: Mary Pierce",
+      "optionB":  "B: Steffi Graf",
+      "optionC":  "C: Monica Seles",
+      "optionD":  "D: Aranta Sanchez Vicario"
+    },
+    {
+      "question": "Who is the athlete who set the maximum number (6) of the world records in a span of 45 minutes?",
+      "answer":   "D: “Jesse” (John Cleveland) Owens",
+      "optionA":  "A: Carl Lewis",
+      "optionB":  "B: Michael Johnson",
+      "optionC":  "C: Florence G. Joyner",
+      "optionD":  "D: “Jesse” (John Cleveland) Owens"
+    },
+
+    {
+      "question": "For which game Tiger Woods is famous?",
+      "answer":   "A: Golf",
+      "optionA":  "A: Golf",
+      "optionB":  "B: Football",
+      "optionC":  "C: Pole-vault",
+      "optionD":  "D: Basketball"
+    },
+    {
+      "question": "Nehru Trophy is associated with",
+      "answer":   "A: Football",
+      "optionA":  "A: Football",
+      "optionB":  "B: Kabbadi",
+      "optionC":  "C: Hockey",
+      "optionD":  "D: Table Tennis (Women)"
+    },
+    {
+      "question": "The first women to swim across seven important seas is:",
+      "answer":   "C: Bula Choudhary",
+      "optionA":  "A: Chandini",
+      "optionB":  "B: Mridula Rajiv",
+      "optionC":  "C: Bula Choudhary",
+      "optionD":  "D: Priya Shanbhag"
+    },
+    {
+      "question": "Which one of the following players has the unique distinction of winning 50 Doubles Titles in A.T.P. tour history?",
+      "answer":   "A: Leander Paes",
+      "optionA":  "A: Leander Paes",
+      "optionB":  "B: Andy Roddick",
+      "optionC":  "C: Rafael Nadal",
+      "optionD":  "D: Novae Djokovic"
+    },
+    {
+      "question": "Who made history by winning 8 gold medals in the Beijing Olympics in one event?",
+      "answer":   "B: Michael Phelps of U.S.A.",
+      "optionA":  "A: Ian Kraken of U.S.A.",
+      "optionB":  "B: Michael Phelps of U.S.A.",
+      "optionC":  "C: Van Lee Chu of China",
+      "optionD":  "D: Marcus Michael of France"
+    },
+    {
+      "question": "How many outstanding cricket players have been awarded the Rajiv Gandhi Khel Ratna Award so far?",
+      "answer":   "C: Two (2)",
+      "optionA":  "A: Nil",
+      "optionB":  "B: One only",
+      "optionC":  "C: Two (2)",
+      "optionD":  "D: Five (5)"
+    },
+    {
+      "question": "Who among the following bowlers has taken more than 500 wickets in Test cricket?",
+      "answer":   "C: Glenn McGrath",
+      "optionA":  "A: Kapil Dev",
+      "optionB":  "B: Wasim Akram",
+      "optionC":  "C: Glenn McGrath",
+      "optionD":  "D: Malcolm Marshall"
+    },
+    {
+      "question": "Lionel Messi, the winner of FIFA Ballion d’or and World Player of the year, belongs to",
+      "answer":   "D: Argentina",
+      "optionA":  "A: Spain",
+      "optionB":  "B: Brazil",
+      "optionC":  "C: Germany",
+      "optionD":  "D: Argentina"
+    },
+    {
+      "question": "Which of the following International Tennis Tournaments is held on grass court?",
+      "answer":   "D: Wimbledon",
+      "optionA":  "A: French Open",
+      "optionB":  "B: U.S. Open",
+      "optionC":  "C: Australian open",
+      "optionD":  "D: Wimbledon"
+    },
+    {
+      "question": "Name the sportsman who has made maximum centuries in one day cricket.",
+      "answer":   "C: Sachin Tendulkar",
+      "optionA":  "A: Brian Lara",
+      "optionB":  "B: Saeed Anwar",
+      "optionC":  "C: Sachin Tendulkar",
+      "optionD":  "D: Vivian Richards"
+    },
+
+    {
+      "question": "With which game is Geet Sethi associated?",
+      "answer":   "D: Billiards",
+      "optionA":  "A: Squash",
+      "optionB":  "B: Kabbadi",
+      "optionC":  "C: Lawn Tennis",
+      "optionD":  "D: Billiards"
+    },
+    {
+      "question": "Developed as a less strenuous alternative to basketball which game was invented in 1895 by William Morgan?",
+      "answer":   "B: Volleyball",
+      "optionA":  "A: Netball",
+      "optionB":  "B: Volleyball",
+      "optionC":  "C: Throwball",
+      "optionD":  "D: Softball"
+    },
+    {
+      "question": "In which sports is the participant called pugilist?",
+      "answer":   "B: Boxing",
+      "optionA":  "A: Sprinter",
+      "optionB":  "B: Boxing",
+      "optionC":  "C: Wrestling",
+      "optionD":  "D: Javelin throw"
+    },
+    {
+      "question": "Who finished 10th in the 2014/15 Premier League?",
+      "answer":   "A: Crystal Palace",
+      "optionA":  "A: Crystal Palace",
+      "optionB":  "B: Stoke",
+      "optionC":  "C: Everton",
+      "optionD":  "D: West Ham"
+    },
+    {
+      "question": "Track and field star Carl Lewis won how many gold medals at the 1984 Olympic games?",
+      "answer":   "C: Four",
+      "optionA":  "A: Two",
+      "optionB":  "B: Three",
+      "optionC":  "C: Four",
+      "optionD":  "D: Eight"
+    },
+    {
+      "question": "Which county did Ravi Shastri play for?",
+      "answer":   "A: Glamorgan",
+      "optionA":  "A: Glamorgan",
+      "optionB":  "B: Leicestershire",
+      "optionC":  "C: Gloucestershire",
+      "optionD":  "D: Lancashire"
+    },
+    {
+      "question": "Which two counties did Kapil Dev play?",
+      "answer":   "A: Northamptonshire & Worcestershire",
+      "optionA":  "A: Northamptonshire & Worcestershire",
+      "optionB":  "B: Northamptonshire & Warwickshire",
+      "optionC":  "C: Nottinghamshire & Worcestershire",
+      "optionD":  "D: Nottinghamshire & Warwickshire"
+    },
+    {
+      "question": "Who did Stone Cold Steve Austin wrestle at the 1998 edition of 'Over the Edge'?",
+      "answer":   "C: Dude Love",
+      "optionA":  "A: Cactus Jack",
+      "optionB":  "B: Mankind",
+      "optionC":  "C: Dude Love",
+      "optionD":  "D: Mick Foley"
+    },
+    {
+      "question": "Ricky Ponting is also known as what?",
+      "answer":   "D: Punter",
+      "optionA":  "A: The Rickster",
+      "optionB":  "B: Ponts",
+      "optionC":  "C: Ponter",
+      "optionD":  "D: Punter"
+    },
+    {
+      "question": "How long are professional Golf Tour players allotted per shot?",
+      "answer":   "A: 45 seconds",
+      "optionA":  "A: 45 seconds",
+      "optionB":  "B: 25 seconds",
+      "optionC":  "C: 1 minute",
+      "optionD":  "D: 2 minutes"
+    },
+
+    {
+      "question": "Which NBA player scored 8 points in the final 7 seconds of a game to lead his team to victory?",
+      "answer":   "D: Reggie Miller",
+      "optionA":  "A: Baron Davis",
+      "optionB":  "B: Kevin Garnett",
+      "optionC":  "C: Stephon Maurbury",
+      "optionD":  "D: Reggie Miller"
+    },
+    {
+      "question": "The first hang gliders to be flown were flown in?",
+      "answer":   "C: 1800s",
+      "optionA":  "A: 1600s",
+      "optionB":  "B: 1700s",
+      "optionC":  "C: 1800s",
+      "optionD":  "D: 1900s"
+    },
+    {
+      "question": "Who won the 1993 'King of the Ring'?",
+      "answer":   "B: Bret Hart",
+      "optionA":  "A: Owen Hart",
+      "optionB":  "B: Bret Hart",
+      "optionC":  "C: Edge",
+      "optionD":  "D: Mabel"
+    },
+    {
+      "question": "What Major League Baseball player holds the record for all-time career high batting average?",
+      "answer":   "A: Ty Cobb",
+      "optionA":  "A: Ty Cobb",
+      "optionB":  "B: Larry Walker",
+      "optionC":  "C: Jeff Bagwell",
+      "optionD":  "D: Frank Thomas"
+    },
+    {
+      "question": " Undertaker wrestled in Casket Match at the 1998 'Royal Rumble'. Who did he wrestle?",
+      "answer":   "B: Shawn Michaels",
+      "optionA":  "A: Yokozuna",
+      "optionB":  "B: Shawn Michaels",
+      "optionC":  "C: Mabel",
+      "optionD":  "D: Triple H"
+    },
+    {
+      "question": "Who is the highest wicket taker in Test cricket?",
+      "answer":   "D: Muttiah Muralitharan",
+      "optionA":  "A: Shane Warne",
+      "optionB":  "B: Brian Lara",
+      "optionC":  "C: Courtney Walsh",
+      "optionD":  "D: Muttiah Muralitharan"
+    },
+    {
+      "question": "Who did The Rock wrestle in the main event at the 1999 edition of 'Wrestlemania'?",
+      "answer":   "A: Stone Cold Steve Austin",
+      "optionA":  "A: Stone Cold Steve Austin",
+      "optionB":  "B: Triple H",
+      "optionC":  "C: Mankind",
+      "optionD":  "D: Undertaker"
+    },
+    {
+      "question": "Which track and field star overcame childhood polio to become one of the greatest athletes of her time?",
+      "answer":   "A: Wilma Rudolph",
+      "optionA":  "A: Wilma Rudolph",
+      "optionB":  "B: Gail Devers",
+      "optionC":  "C: Florence Griffith Joyner",
+      "optionD":  "D: Jackie Robinson"
+    },
+    {
+      "question": "Which football hero was nicknamed 'The Sundance Kid'?",
+      "answer":   "A: Jim Kiick",
+      "optionA":  "A: Jim Kiick",
+      "optionB":  "B: Troy Aikman",
+      "optionC":  "C: Brett Favre",
+      "optionD":  "D: Joe Montana"
+    },
+    {
+      "question": "Who did Shawn Michaels beat to win his first Intercontinental Title?",
+      "answer":   "C: British Bulldog",
+      "optionA":  "A: Bret Hart",
+      "optionB":  "B: Marty Jannetty",
+      "optionC":  "C: British Bulldog",
+      "optionD":  "D: Tito Santana"
     }
+
 
   ]
 }

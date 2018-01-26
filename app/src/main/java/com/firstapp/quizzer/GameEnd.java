@@ -16,8 +16,8 @@ import android.widget.TextView;
 public class GameEnd extends AppCompatActivity {
 
     Button newGame,gameMenu, shareGameScore;
-    TextView gameEndScore;
-//    ImageView smileyImage;
+    TextView gameEndScore, grade;
+    int globalScore = 0;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -29,20 +29,24 @@ public class GameEnd extends AppCompatActivity {
         shareGameScore = (Button) findViewById(R.id.share_game_score);
 
         gameEndScore = (TextView) findViewById(R.id.end_game_score);
-//        smileyImage = (ImageView) findViewById(R.id.smiley_image);
+        grade = (TextView) findViewById(R.id.grade);
 
         Intent intent = getIntent();
         int score = intent.getIntExtra("score", 0);
-
-//        if (score > 1000){
-//            smileyImage.setImageResource(R.drawable.trophy_winner);
-//        } else if (score > 500) {
-//            smileyImage.setImageResource(R.drawable.average_score);
-//        } else {
-//            smileyImage.setImageResource(R.drawable.work_harder);
-//        }
+        globalScore = score;
 
         gameEndScore.setText("$"+score);
+        if (score == 1500) {
+            grade.setText("Wow!! Ain't you a genius! \n You got "+ score/100 + " out of 15 questions");
+        } else if (score > 900){
+            grade.setText("Nice work!! \n You got "+ score/100 + " out of 15 questions");
+        } else if (score > 600) {
+            grade.setText("Try harder next time! \n You got "+ score/100 + " out of 15 questions");
+        } else if (score > 300 ){
+            grade.setText("That's really poor! \n You got "+ score/100 + " out of 15 questions");
+        } else {
+            grade.setText("That's a horrible score. Just try Again! \n You got "+ score/100 + " out of 15 questions");
+        }
     }
 
     public void gameEndAction(View view) {
@@ -58,7 +62,14 @@ public class GameEnd extends AppCompatActivity {
                 break;
 
             case R.id.share_game_score:
-
+                Intent share = new Intent(Intent.ACTION_SEND);
+                share.setType("text/plain");
+                String shareBody = "Hey look! I just played QuickQuizzer and got "+ globalScore / 100
+                        + " out of 15 questions \n See if you can beat that score";
+                String shareSubject = "QuickQuizzer Game";
+                share.putExtra(Intent.EXTRA_SUBJECT, shareSubject);
+                share.putExtra(Intent.EXTRA_TEXT, shareBody);
+                startActivity(Intent.createChooser(share, "Share Using"));
                 break;
         }
     }
