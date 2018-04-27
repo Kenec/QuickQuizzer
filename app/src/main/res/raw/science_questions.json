@@ -2,77 +2,822 @@
   "category": "science",
   "questions":[
     {
-      "question": "Science 1",
-      "answer":   "A: answer",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "What is the physical phase of life called?",
+      "answer":   "A: Protoplasm",
+      "optionA":  "A: Protoplasm",
+      "optionB":  "B: Cytoplasm",
+      "optionC":  "C: Organelles",
+      "optionD":  "D: None of the above"
     },
     {
-      "question": "Science 2",
-      "answer":   "B: I don't know",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "The largest cell is ________________",
+      "answer":   "C: The egg of an Ostrich",
+      "optionA":  "A: Nerve Cell",
+      "optionB":  "B: Ovum",
+      "optionC":  "C: The egg of an Ostrich",
+      "optionD":  "D: None of the above"
     },
     {
-      "question": "Science 3",
-      "answer":   "D: Jogging",
-      "optionA":  "A: answer",
-      "optionB":  "B: We dock",
-      "optionC":  "C: Enough",
-      "optionD":  "D: Jogging"
+      "question": "Which is the largest human cell?",
+      "answer":   "D: Ovum",
+      "optionA":  "A: Liver",
+      "optionB":  "B: Skin",
+      "optionC":  "C: Spleen",
+      "optionD":  "D: Ovum"
     },
     {
-      "question": "Science 4",
-      "answer":   "C: Mercy",
-      "optionA":  "A: Love",
-      "optionB":  "B: Glory",
-      "optionC":  "C: Mercy",
-      "optionD":  "D: Trailing"
+      "question": "_________________ is the longest cell.",
+      "answer":   "A: Nerve Cell",
+      "optionA":  "A: Nerve Cell",
+      "optionB":  "B: Skin",
+      "optionC":  "C: Spleen",
+      "optionD":  "D: None of the above"
     },
     {
-      "question": "Science 5",
-      "answer":   "D: Pretty",
-      "optionA":  "A: Apple",
-      "optionB":  "B: Happiness",
-      "optionC":  "C: Awu ma je",
-      "optionD":  "D: Pretty"
+      "question": "What is the name of the cells in the body that engulf foreign particles like bacteria?",
+      "answer":   "A: Phagocytes",
+      "optionA":  "A: Phagocytes",
+      "optionB":  "B: Globulin",
+      "optionC":  "C: Fibrinogen",
+      "optionD":  "D: Albumin"
     },
     {
-      "question": "Science 6",
-      "answer":   "D: Flesh",
-      "optionA":  "A: Lift",
-      "optionB":  "B: Welldone",
-      "optionC":  "C: Laugh",
-      "optionD":  "D: Flesh"
+      "question": "There are _____ number of muscles in human.",
+      "answer":   "C: 639",
+      "optionA":  "A: 638",
+      "optionB":  "B: 637",
+      "optionC":  "C: 639",
+      "optionD":  "D: 640"
     },
     {
-      "question": "Science 7",
-      "answer":   "A: Elohi",
-      "optionA":  "A: Elohi",
-      "optionB":  "B: Cry cry",
-      "optionC":  "C: Revival",
-      "optionD":  "D: Portion"
+      "question": "What is the life span of RBC?",
+      "answer":   "D: 120 days",
+      "optionA":  "A: 130 days",
+      "optionB":  "B: 110 days",
+      "optionC":  "C: 100 days",
+      "optionD":  "D: 120 days"
     },
     {
-      "question": "Science 8",
-      "answer":   "B: Lord",
-      "optionA":  "A: Raise",
-      "optionB":  "B: Lord",
-      "optionC":  "C: Says",
-      "optionD":  "D: Stripes"
+      "question": "What is the life span of WBC?",
+      "answer":   "A: 2-15 days",
+      "optionA":  "A: 2-15 days",
+      "optionB":  "B: 3-15 days",
+      "optionC":  "C: 4-15 days",
+      "optionD":  "D: 5-20 days"
     },
     {
-      "question": "Science 9",
-      "answer":   "C: Reading",
-      "optionA":  "A: Seriously?",
-      "optionB":  "B: Keep asking",
-      "optionC":  "C: Reading",
-      "optionD":  "D: Water"
-    }
+      "question": "Which is the vertebrate that has two chambered heart?",
+      "answer":   "A: Fish?",
+      "optionA":  "A: Fish?",
+      "optionB":  "B: Snake",
+      "optionC":  "C: Blue Whale",
+      "optionD":  "D: Crocodile"
+    },
+    {
+      "question": "The number of ribs in a human body is _____.",
+      "answer":   "B: 24",
+      "optionA":  "A: 23",
+      "optionB":  "B: 24",
+      "optionC":  "C: 25",
+      "optionD":  "D: 22"
+    },
 
+
+    {
+      "question": "Which is the smallest flightless bird?",
+      "answer":   "A: Kiwi",
+      "optionA":  "A: Kiwi",
+      "optionB":  "B: Penguin",
+      "optionC":  "C: Ostrich",
+      "optionD":  "D: Rhea"
+    },
+    {
+      "question": "Saurology is the study of ___________.",
+      "answer":   "C: Lizards",
+      "optionA":  "A: Mosquitoes",
+      "optionB":  "B: Snake",
+      "optionC":  "C: Lizards",
+      "optionD":  "D: Cockroach"
+    },
+    {
+      "question": "Hormones are produced by _____________",
+      "answer":   "A: Endocrine glands",
+      "optionA":  "A: Endocrine glands",
+      "optionB":  "B: Pituitary glands",
+      "optionC":  "C: Hypothalamus",
+      "optionD":  "D: Pancreas"
+    },
+    {
+      "question": "Which of the following is the ‘master gland’?",
+      "answer":   "D: Pituitary gland",
+      "optionA":  "A: Thymus gland",
+      "optionB":  "B: Pancreas",
+      "optionC":  "C: Pineal gland",
+      "optionD":  "D: Pituitary gland"
+    },
+    {
+      "question": "What is the full form of ADH?",
+      "answer":   "A: Anti Diuretic Hormone",
+      "optionA":  "A: Anti Diuretic Hormone",
+      "optionB":  "B: Adhesive Diuretic Hormone",
+      "optionC":  "C: Acidic Diuretic Hormone",
+      "optionD":  "D: Adenosine Double Hormone"
+    },
+    {
+      "question": "What is the normal value of blood sugar in the body?",
+      "answer":   "A: 80 to 120mg/100 ml of blood",
+      "optionA":  "A: 80 to 120mg/100 ml of blood",
+      "optionB":  "B: 70 to 120mg/100 ml of blood",
+      "optionC":  "C: 90 to 120mg/100 ml of blood",
+      "optionD":  "D: 60 to 120mg/100 ml of blood"
+    },
+    {
+      "question": "Which is the largest blood vessel in the body?",
+      "answer":   "C: Aorta",
+      "optionA":  "A: Alveoli",
+      "optionB":  "B: Artery",
+      "optionC":  "C: Aorta",
+      "optionD":  "D: Vein"
+    },
+    {
+      "question": "Which of the following carries impure blood?",
+      "answer":   "A: Pulmonary artery",
+      "optionA":  "A: Pulmonary artery",
+      "optionB":  "B: Pulmonary vein",
+      "optionC":  "C: Alveoli",
+      "optionD":  "D: Aorta"
+    },
+    {
+      "question": "Who had performed the world’s first heart transplant?",
+      "answer":   "C: Christian Bernard",
+      "optionA":  "A: Dr. Venugopal",
+      "optionB":  "B: William Harvey",
+      "optionC":  "C: Christian Bernard",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "Which of the following is not an allotrope of Carbon?",
+      "answer":   "D: Glass",
+      "optionA":  "A: Diamond",
+      "optionB":  "B: Graphite",
+      "optionC":  "C: Fullerenes",
+      "optionD":  "D: Glass"
+    },
+
+
+    {
+      "question": "What is the formula of Sulfuric acid?",
+      "answer":   "A: H2SO4",
+      "optionA":  "A: H2SO4",
+      "optionB":  "B: SO2",
+      "optionC":  "C: Na2SO4",
+      "optionD":  "D: K2SO4"
+    },
+    {
+      "question": "How are the following elements arranged in the Periodic table? H, He, Li, Be and B",
+      "answer":   "A: H, He, Li, Be and B",
+      "optionA":  "A: H, He, Li, Be and B",
+      "optionB":  "B: H, Li, He, Be and B",
+      "optionC":  "C: H, He, Be, Li and B",
+      "optionD":  "D: H, Be, He, B and Li"
+    },
+    {
+      "question": "What is the number of periods in which Periodic table is divided?",
+      "answer":   "B: 7",
+      "optionA":  "A: 6",
+      "optionB":  "B: 7",
+      "optionC":  "C: 8",
+      "optionD":  "D: 9"
+    },
+    {
+      "question": "There are ___ Groups in the Periodic table.",
+      "answer":   "A: 18",
+      "optionA":  "A: 18",
+      "optionB":  "B: 17",
+      "optionC":  "C: 16",
+      "optionD":  "D: 15"
+    },
+    {
+      "question": "Which of the following is not a mixture?",
+      "answer":   "C: Graphite",
+      "optionA":  "A: Steel",
+      "optionB":  "B: Aluminium",
+      "optionC":  "C: Graphite",
+      "optionD":  "D: Glass"
+    },
+    {
+      "question": "Alloys are ________",
+      "answer":   "A: Harder than the pure metal",
+      "optionA":  "A: Harder than the pure metal",
+      "optionB":  "B: Harder than the impure metal",
+      "optionC":  "C: Softer than the pure metal",
+      "optionD":  "D: Softer than the impure metal"
+    },
+    {
+      "question": "What is the name of that process in which oxygen is removed?",
+      "answer":   "D: Reduction",
+      "optionA":  "A: Oxidation",
+      "optionB":  "B: Electrolysis",
+      "optionC":  "C: Ionization",
+      "optionD":  "D: Reduction"
+    },
+    {
+      "question": " Rusting is an ___________ reaction.",
+      "answer":   "B: Oxidation",
+      "optionA":  "A: Ionization",
+      "optionB":  "B: Oxidation",
+      "optionC":  "C: Reduction",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "All acids are ________________",
+      "answer":   "A: Corrosive when they are strong",
+      "optionA":  "A: Corrosive when they are strong",
+      "optionB":  "B: Corrosive when they are weak",
+      "optionC":  "C: Irritant when they are strong",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "Which one is an alkaline among the following?",
+      "answer":   "C: Ammonia",
+      "optionA":  "A: Vinegar",
+      "optionB":  "B: Saliva",
+      "optionC":  "C: Ammonia",
+      "optionD":  "D: Acid rain"
+    },
+
+
+    {
+      "question": "Atomic number is represented by which letter?",
+      "answer":   "D: Z",
+      "optionA":  "A: A",
+      "optionB":  "B: M",
+      "optionC":  "C: X",
+      "optionD":  "D: Z"
+    },
+    {
+      "question": "Which science is sometimes called ‘central science’?",
+      "answer":   "B: Chemistry",
+      "optionA":  "A: Physics",
+      "optionB":  "B: Chemistry",
+      "optionC":  "C: Biology",
+      "optionD":  "D: Geology"
+    },
+    {
+      "question": "Which acid is used in the body to help digestion?",
+      "answer":   "A: Hydrochloric Acid",
+      "optionA":  "A: Hydrochloric Acid",
+      "optionB":  "B: Sulphuric Acid",
+      "optionC":  "C: Acetic Acid",
+      "optionD":  "D: Boric Acid"
+    },
+    {
+      "question": "What is the scientific name of Laughing Gas?",
+      "answer":   "A: Nitrous Oxide",
+      "optionA":  "A: Nitrous Oxide",
+      "optionB":  "B: Phosphorous Pentoxide",
+      "optionC":  "C: Sodium Bicarbonate",
+      "optionD":  "D: Carbon Tetrachloride"
+    },
+    {
+      "question": "What is a young horse called?",
+      "answer":   "C: Foal",
+      "optionA":  "A: Colt",
+      "optionB":  "B: Filly",
+      "optionC":  "C: Foal",
+      "optionD":  "D: Hack"
+    },
+    {
+      "question": "What term is used to describe the cultivation of plants without soil?",
+      "answer":   "D: Hydroponics",
+      "optionA":  "A: Aeroponics",
+      "optionB":  "B: Aquaponics",
+      "optionC":  "C: Fogponics",
+      "optionD":  "D: Hydroponics"
+    },
+    {
+      "question": "What are the brighter areas on the sun's surface called?",
+      "answer":   "C: Faculae",
+      "optionA":  "A: Analemma",
+      "optionB":  "B: Corona",
+      "optionC":  "C: Faculae",
+      "optionD":  "D: Nanoflares"
+    },
+    {
+      "question": "What did \"x\" mean in \"x-rays\"?",
+      "answer":   "D: Unknown",
+      "optionA":  "A: Cross",
+      "optionB":  "B: Mark",
+      "optionC":  "C: Star",
+      "optionD":  "D: Unknown"
+    },
+    {
+      "question": "Which of the following is not a fertiliser product?",
+      "answer":   "A: Corrosive when they are strong",
+      "optionA":  "A: Di-ammonium Phosphate",
+      "optionB":  "B: Calcium Carbonate",
+      "optionC":  "C: Nitrogen Phosphorous Potassium complexes",
+      "optionD":  "D: Urea"
+    },
+    {
+      "question": "Which instrument determines specific gravity of liquids?",
+      "answer":   "B: Hydrometer",
+      "optionA":  "A: Gravimeter",
+      "optionB":  "B: Hydrometer",
+      "optionC":  "C: Hygrometer",
+      "optionD":  "D: Hypsometer"
+    },
+
+
+    {
+      "question": "In an atomic explosion, enormous energy is released which is due to",
+      "answer":   "C: conversion of mass into energy",
+      "optionA":  "A: conversion of chemical energy into heat energy",
+      "optionB":  "B: conversion of mechanical energy into nuclear energy",
+      "optionC":  "C: conversion of mass into energy",
+      "optionD":  "D: conversion of neutrons into protons"
+    },
+    {
+      "question": "Atoms are composed of _____",
+      "answer":   "D: electrons and nuclei",
+      "optionA":  "A: electrons and protons",
+      "optionB":  "B: electrons only",
+      "optionC":  "C: protons only",
+      "optionD":  "D: electrons and nuclei"
+    },
+    {
+      "question": "Which among the following is a positively charged particle emitted by a radioactive element?",
+      "answer":   "B: Alpha ray",
+      "optionA":  "A: Beta ray",
+      "optionB":  "B: Alpha ray",
+      "optionC":  "C: Cathode ray",
+      "optionD":  "D: Gamma ray"
+    },
+    {
+      "question": "Which of the following is used as a moderator in nuclear reactor?",
+      "answer":   "B: Graphite",
+      "optionA":  "A: Thorium",
+      "optionB":  "B: Graphite",
+      "optionC":  "C: Radium",
+      "optionD":  "D: Ordinary water"
+    },
+    {
+      "question": "Isotopes are separated by",
+      "answer":   "C: distillation",
+      "optionA":  "A: crystallisation",
+      "optionB":  "B: sublimation",
+      "optionC":  "C: distillation",
+      "optionD":  "D: filtration"
+    },
+    {
+      "question": "Bromine is a",
+      "answer":   "B: red liquid",
+      "optionA":  "A: black solid",
+      "optionB":  "B: red liquid",
+      "optionC":  "C: colourless gas",
+      "optionD":  "D: highly inflammable gas"
+    },
+    {
+      "question": "The variety of coal in which the deposit contains recognisable traces of the original plant material is",
+      "answer":   "D: peat",
+      "optionA":  "A: bitumen",
+      "optionB":  "B: anthracite",
+      "optionC":  "C: lignite",
+      "optionD":  "D: peat"
+    },
+    {
+      "question": "Tetraethyl lead is used as",
+      "answer":   "D: petrol additive",
+      "optionA":  "A: pain killer",
+      "optionB":  "B: fire extinguisher",
+      "optionC":  "C: mosquito repellent",
+      "optionD":  "D: petrol additive"
+    },
+    {
+      "question": "Which of the following is used as a lubricant?",
+      "answer":   "A: Graphite",
+      "optionA":  "A: Graphite",
+      "optionB":  "B: Silica",
+      "optionC":  "C: Iron Oxide",
+      "optionD":  "D: Diamond"
+    },
+    {
+      "question": "Brass gets discoloured in air because of the presence of which of the following gases in air?",
+      "answer":   "B: Hydrogen sulphide",
+      "optionA":  "A: Oxygen",
+      "optionB":  "B: Hydrogen sulphide",
+      "optionC":  "C: Carbon dioxide",
+      "optionD":  "D: Nitrogen"
+    },
+
+
+    {
+      "question": "Which of the following is a non metal that remains liquid at room temperature?",
+      "answer":   "B: Bromine",
+      "optionA":  "A: Phosphorous",
+      "optionB":  "B: Bromine",
+      "optionC":  "C: Chlorine",
+      "optionD":  "D: Helium"
+    },
+    {
+      "question": "Chlorophyll is a naturally occurring chelate compound in which central metal is",
+      "answer":   "B: magnesium",
+      "optionA":  "A: copper",
+      "optionB":  "B: magnesium",
+      "optionC":  "C: iron",
+      "optionD":  "D: calcium"
+    },
+    {
+      "question": "Which of the following is used in pencils?",
+      "answer":   "A: Graphite",
+      "optionA":  "A: Graphite",
+      "optionB":  "B: Silicon",
+      "optionC":  "C: Charcoal",
+      "optionD":  "D: Phosphorous"
+    },
+    {
+      "question": "Which of the following metals forms an amalgam with other metals?",
+      "answer":   "B: Mercury",
+      "optionA":  "A: Tin",
+      "optionB":  "B: Mercury",
+      "optionC":  "C: Lead",
+      "optionD":  "D: Zinc"
+    },
+    {
+      "question": "The wavelength of X-rays is of the order of",
+      "answer":   "B: 1 angstrom",
+      "optionA":  "A: 10 micron",
+      "optionB":  "B: 1 angstrom",
+      "optionC":  "C: 1 cm",
+      "optionD":  "D: 1 m"
+    },
+    {
+      "question": "Mesons are found in",
+      "answer":   "D: Cosmic rays",
+      "optionA":  "A: Laser beam",
+      "optionB":  "B: X-rays",
+      "optionC":  "C: Gamma rays",
+      "optionD":  "D: Cosmic rays"
+    },
+    {
+      "question": "Which radioactive pollutant has recently drawn to public, due to its occurrence in the building material?",
+      "answer":   "A: Thorium",
+      "optionA":  "A: Thorium",
+      "optionB":  "B: Radium",
+      "optionC":  "C: Plutonium",
+      "optionD":  "D: Radan"
+    },
+    {
+      "question": "Which of the following shows the masses of the three elementary particles in decreasing order?",
+      "answer":   "C: Baryons, Mesons, Leptons",
+      "optionA":  "A: Leptons, Baryons, Mesons",
+      "optionB":  "B: Mesons, Baryons, Leptons",
+      "optionC":  "C: Baryons, Mesons, Leptons",
+      "optionD":  "D: Leptons, Mesons Baryons"
+    },
+    {
+      "question": "What is the wavelength of visible spectrum?",
+      "answer":   "C: 3900 - 7600 angstrom",
+      "optionA":  "A: 8500 - 9800 angstrom",
+      "optionB":  "B: 7800 - 8000 angstrom",
+      "optionC":  "C: 3900 - 7600 angstrom",
+      "optionD":  "D: 1300 - 3000 angstrom"
+    },
+    {
+      "question": "Which of the following has a least penetrating power?",
+      "answer":   "C: Alpha particles",
+      "optionA":  "A: All have same penetrating power",
+      "optionB":  "B: Beta Particles",
+      "optionC":  "C: Alpha particles",
+      "optionD":  "D: Gamma rays"
+    },
+
+
+    {
+      "question": "The isotope of uranium capable of sustaining chain reaction is",
+      "answer":   "A: U-235",
+      "optionA":  "A: U-235",
+      "optionB":  "B: U-245",
+      "optionC":  "C: U-239",
+      "optionD":  "D: U-238"
+    },
+    {
+      "question": "The age of most ancient geological formations is estimated by",
+      "answer":   "D: Uranium - lead method",
+      "optionA":  "A: Ra - Si method",
+      "optionB":  "B: Potassium - argon method",
+      "optionC":  "C: C14 method",
+      "optionD":  "D: Uranium - lead method"
+    },
+    {
+      "question": "Who suggested that most of the mass of the atom is located in the nucleus?",
+      "answer":   "C: Rutherford",
+      "optionA":  "A: Thompson",
+      "optionB":  "B: Bohr",
+      "optionC":  "C: Rutherford",
+      "optionD":  "D: Einstein"
+    },
+    {
+      "question": "Which is/are the important raw material(s) required in cement industry?",
+      "answer":   "C: Limestone and Clay",
+      "optionA":  "A: Gypsum and Clay",
+      "optionB":  "B: Clay",
+      "optionC":  "C: Limestone and Clay",
+      "optionD":  "D: Limestone"
+    },
+    {
+      "question": "Which type of fire extinguisher is used for petroleum fire?",
+      "answer":   "A: Powder type",
+      "optionA":  "A: Powder type",
+      "optionB":  "B: Liquid type",
+      "optionC":  "C: Soda acid type",
+      "optionD":  "D: Foam type"
+    },
+    {
+      "question": "Which of the following is commonly called a 'polyamide'?",
+      "answer":   "B: Nylon",
+      "optionA":  "A: Terylene",
+      "optionB":  "B: Nylon",
+      "optionC":  "C: Rayon",
+      "optionD":  "D: Orlon"
+    },
+    {
+      "question": "Epoxy resins are used as",
+      "answer":   "C: adhesives",
+      "optionA":  "A: detergents",
+      "optionB":  "B: insecticides",
+      "optionC":  "C: adhesives",
+      "optionD":  "D: moth repellents"
+    },
+    {
+      "question": "Detergents used for cleaning clothes and utensils contain?",
+      "answer":   "C: sulphonates",
+      "optionA":  "A: bicarbonates",
+      "optionB":  "B: bismuthates",
+      "optionC":  "C: sulphonates",
+      "optionD":  "D: nitrates"
+    },
+    {
+      "question": "Which of the following is used for removing air bubbles from glass during its manufacture",
+      "answer":   "A: Arsenous oxide",
+      "optionA":  "A: Arsenous oxide",
+      "optionB":  "B: Potassium carbonate",
+      "optionC":  "C: Soda ash",
+      "optionD":  "D: Feldspar"
+    },
+    {
+      "question": "Which of the following is a protein?",
+      "answer":   "A: Natural rubber",
+      "optionA":  "A: Natural rubber",
+      "optionB":  "B: Starch",
+      "optionC":  "C: Cellulose",
+      "optionD":  "D: None of these"
+    },
+
+
+    {
+      "question": "Wood is the main raw material for the manufacture of",
+      "answer":   "B: Paper",
+      "optionA":  "A: Paint",
+      "optionB":  "B: Paper",
+      "optionC":  "C: ink",
+      "optionD":  "D: gun powder"
+    },
+    {
+      "question": "Rayon is chemically",
+      "answer":   "A: cellulose",
+      "optionA":  "A: cellulose",
+      "optionB":  "B: pectin",
+      "optionC":  "C: glucose",
+      "optionD":  "D: amylase"
+    },
+    {
+      "question": "Optic fibres are mainly used for which of the following?",
+      "answer":   "D: Communication",
+      "optionA":  "A: Musical instruments",
+      "optionB":  "B: Food industry",
+      "optionC":  "C: Weaving",
+      "optionD":  "D: Communication"
+    },
+    {
+      "question": "The major ingredient of leather is",
+      "answer":   "A: collagen",
+      "optionA":  "A: collagen",
+      "optionB":  "B: carbohydrate",
+      "optionC":  "C: polymer",
+      "optionD":  "D: nucleic acid"
+    },
+    {
+      "question": "What are the soaps?",
+      "answer":   "C: Sodium or potassium salts of heavier fatty acids",
+      "optionA":  "A: Salts of silicates",
+      "optionB":  "B: Mixture of glycerol and alcohols",
+      "optionC":  "C: Sodium or potassium salts of heavier fatty acids",
+      "optionD":  "D: Esters of heavy fatty acids"
+    },
+    {
+      "question": "How does common salt help in separating soap from the solution after saponification?",
+      "answer":   "B: By decreasing solubility of Soap",
+      "optionA":  "A: By decreasing density of Soap",
+      "optionB":  "B: By decreasing solubility of Soap",
+      "optionC":  "C: By increasing density of Soap",
+      "optionD":  "D: By increasing solubility of Soap"
+    },
+    {
+      "question": "In vulcanisation, natural rubber is heated with",
+      "answer":   "C: Sulphur",
+      "optionA":  "A: Carbon",
+      "optionB":  "B: Silicon",
+      "optionC":  "C: Sulphur",
+      "optionD":  "D: Phosphorous"
+    },
+    {
+      "question": "Deep blue colour is imparted to glass by the presence of",
+      "answer":   "C: cobalt oxide",
+      "optionA":  "A: cupric oxide",
+      "optionB":  "B: nickel oxide",
+      "optionC":  "C: cobalt oxide",
+      "optionD":  "D: iron oxide"
+    },
+    {
+      "question": "What is the unit for measuring the amplitude of a sound?",
+      "answer":   "A: Decibel",
+      "optionA":  "A: Decibel",
+      "optionB":  "B: Coulomb",
+      "optionC":  "C: Hum",
+      "optionD":  "D: Cycles"
+    },
+    {
+      "question": "Reading of a barometer going down is an indication of",
+      "answer":   "D: rainfall",
+      "optionA":  "A: snow",
+      "optionB":  "B: storm",
+      "optionC":  "C: intense heat",
+      "optionD":  "D: rainfall"
+    },
+
+
+    {
+      "question": "Decibel is the unit for",
+      "answer":   "C: intensity of sound",
+      "optionA":  "A: speed of light",
+      "optionB":  "B: radio wave frequency",
+      "optionC":  "C: intensity of sound",
+      "optionD":  "D: intensity of heat"
+    },
+    {
+      "question": "One fathom is equal to",
+      "answer":   "A: 6 feet",
+      "optionA":  "A: 6 feet",
+      "optionB":  "B: 6 meters",
+      "optionC":  "C: 60 feet",
+      "optionD":  "D: 100 cm"
+    },
+    {
+      "question": "Fathom is the unit of",
+      "answer":   "B: depth",
+      "optionA":  "A: sound",
+      "optionB":  "B: depth",
+      "optionC":  "C: frequency",
+      "optionD":  "D: distance"
+    },
+    {
+      "question": "Light year is a measurement of",
+      "answer":   "C: Stellar distances",
+      "optionA":  "A: speed of aeroplanes",
+      "optionB":  "B: speed of light",
+      "optionC":  "C: Stellar distances",
+      "optionD":  "D: speed of rockets"
+    },
+    {
+      "question": "Very small time intervals are accurately measure by",
+      "answer":   "C: Atomic clocks",
+      "optionA":  "A: White dwarfs",
+      "optionB":  "B: Quartz clocks",
+      "optionC":  "C: Atomic clocks",
+      "optionD":  "D: Pulsars"
+    },
+    {
+      "question": "One kilometre is equal to how many miles?",
+      "answer":   "D: 0.62",
+      "optionA":  "A: 0.84",
+      "optionB":  "B: 0.5",
+      "optionC":  "C: 1.6",
+      "optionD":  "D: 0.62"
+    },
+    {
+      "question": "kilohertz is a unit which measures",
+      "answer":   "B: electromagnetic radio wave frequencies",
+      "optionA":  "A: power used by a current of one ampere",
+      "optionB":  "B: electromagnetic radio wave frequencies",
+      "optionC":  "C: voltage",
+      "optionD":  "D: electric resistance"
+    },
+    {
+      "question": "One horse power is equal to",
+      "answer":   "A: 746 watts",
+      "optionA":  "A: 746 watts",
+      "optionB":  "B: 748 watts",
+      "optionC":  "C: 756 watts",
+      "optionD":  "D: 736 watts"
+    },
+    {
+      "question": "'Bar' is the unit of",
+      "answer":   "C: atmospheric pressure",
+      "optionA":  "A: temperature",
+      "optionB":  "B: heat",
+      "optionC":  "C: atmospheric pressure",
+      "optionD":  "D: current"
+    },
+    {
+      "question": "One Joule is equal to",
+      "answer":   "C: 10^7 ergs",
+      "optionA":  "A: 10^5 ergs",
+      "optionB":  "B: 10^3 ergs",
+      "optionC":  "C: 10^7 ergs",
+      "optionD":  "D: 10^11 ergs"
+    },
+
+
+    {
+      "question": "Kilowatt is a unit to measure",
+      "answer":   "B: power",
+      "optionA":  "A: work",
+      "optionB":  "B: power",
+      "optionC":  "C: electricity",
+      "optionD":  "D: current"
+    },
+    {
+      "question": "Electric current is measure by",
+      "answer":   "C: ammeter",
+      "optionA":  "A: commutator",
+      "optionB":  "B: anemometer",
+      "optionC":  "C: ammeter",
+      "optionD":  "D: voltmeter"
+    },
+    {
+      "question": "A chronometer measures",
+      "answer":   "C: time",
+      "optionA":  "A: colour contrast",
+      "optionB":  "B: sound waves",
+      "optionC":  "C: time",
+      "optionD":  "D: water waves"
+    },
+    {
+      "question": "Bromine is a",
+      "answer":   "B: red liquid",
+      "optionA":  "A: black solid",
+      "optionB":  "B: red liquid",
+      "optionC":  "C: colourless gas",
+      "optionD":  "D: highly inflammable gas"
+    },
+    {
+      "question": "The hardest substance available on earth is",
+      "answer":   "C: Diamond",
+      "optionA":  "A: Gold",
+      "optionB":  "B: Iron",
+      "optionC":  "C: Diamond",
+      "optionD":  "D: Platinum"
+    },
+    {
+      "question": "The variety of coal in which the deposit contains recognisable traces of the original plant material is",
+      "answer":   "D: peat",
+      "optionA":  "A: bitumen",
+      "optionB":  "B: anthracite",
+      "optionC":  "C: lignite",
+      "optionD":  "D: peat"
+    },
+    {
+      "question": "Tetraethyl lead is used as",
+      "answer":   "D: petrol additive",
+      "optionA":  "A: pain killer",
+      "optionB":  "B: fire extinguisher",
+      "optionC":  "C: mosquito repellen",
+      "optionD":  "D: petrol additive"
+    },
+    {
+      "question": "Which of the following is used as a lubricant?",
+      "answer":   "A: Graphite",
+      "optionA":  "A: Graphite",
+      "optionB":  "B: Silica",
+      "optionC":  "C: Iron Oxide",
+      "optionD":  "D: Diamond"
+    },
+    {
+      "question": "What is the fourth most abundant element in the universe in terms of mass?",
+      "answer":   "B: Carbon",
+      "optionA":  "A: Potassium",
+      "optionB":  "B: Carbon",
+      "optionC":  "C: Nitrogen",
+      "optionD":  "D: Argon"
+    },
+    {
+      "question": "A proton carries a positive charge",
+      "answer":   "D: True",
+      "optionA":  "A: Never",
+      "optionB":  "B: Sometimes",
+      "optionC":  "C: False",
+      "optionD":  "D: True"
+    }
   ]
 }

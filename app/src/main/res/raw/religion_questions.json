@@ -2,76 +2,813 @@
   "category": "religion",
   "questions":[
     {
-      "question": "Religion 1",
-      "answer":   "A: answer",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "The god Quetzalcoatl is recognized in",
+      "answer":   "D: Aztec religion",
+      "optionA":  "A: Cherokee religion",
+      "optionB":  "B: All Native American religions",
+      "optionC":  "C: Modoc religion",
+      "optionD":  "D: Aztec religion"
     },
     {
-      "question": "Religion 2",
-      "answer":   "B: I don't know",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "The ancestral spirits of the Pueblo peoples are known as",
+      "answer":   "B: Kachinas",
+      "optionA":  "A: The Hero Twins",
+      "optionB":  "B: Kachinas",
+      "optionC":  "C: Jump Dancers",
+      "optionD":  "D: None of the above"
     },
     {
-      "question": "Religion 3",
-      "answer":   "D: Jogging",
-      "optionA":  "A: answer",
-      "optionB":  "B: We dock",
-      "optionC":  "C: Enough",
-      "optionD":  "D: Jogging"
+      "question": "The cycle of birth, death and rebirth. You pay for good or bad deeds based on your behavior.",
+      "answer":   "B: reincarnation",
+      "optionA":  "A: karma",
+      "optionB":  "B: reincarnation",
+      "optionC":  "C: Hinduism",
+      "optionD":  "D: caste system"
     },
     {
-      "question": "Religion 4",
-      "answer":   "C: Mercy",
-      "optionA":  "A: Love",
-      "optionB":  "B: Glory",
-      "optionC":  "C: Mercy",
-      "optionD":  "D: Trailing"
+      "question": "Weekly day of rest and prayer. This is on Saturday for the Jews.",
+      "answer":   "A: Sabbath",
+      "optionA":  "A: Sabbath",
+      "optionB":  "B: Abraham",
+      "optionC":  "C: Moses",
+      "optionD":  "D: Diaspora"
     },
     {
-      "question": "Religion 5",
-      "answer":   "D: Pretty",
-      "optionA":  "A: Apple",
-      "optionB":  "B: Happiness",
-      "optionC":  "C: Awu ma je",
-      "optionD":  "D: Pretty"
+      "question": "The principles (Buddhism) that rule life and promise an end to suffering.",
+      "answer":   "A: 4 Noble Truths",
+      "optionA":  "A: 4 Noble Truths",
+      "optionB":  "B: 10 Commandments",
+      "optionC":  "C: 5 Pillars",
+      "optionD":  "D: Holy Grail"
     },
     {
-      "question": "Religion 6",
-      "answer":   "D: Flesh",
-      "optionA":  "A: Lift",
-      "optionB":  "B: Welldone",
-      "optionC":  "C: Laugh",
-      "optionD":  "D: Flesh"
+      "question": "A special leader sent by God in order to guide people and set up God's rule.",
+      "answer":   "A: Messiah",
+      "optionA":  "A: Messiah",
+      "optionB":  "B: disciple",
+      "optionC":  "C: apostle",
+      "optionD":  "D: parable"
     },
     {
-      "question": "Religion 7",
-      "answer":   "A: Elohi",
-      "optionA":  "A: Elohi",
-      "optionB":  "B: Cry cry",
-      "optionC":  "C: Revival",
-      "optionD":  "D: Portion"
+      "question": "The two civilizations of India where Hinduism originated",
+      "answer":   "C: Aryans & Harappans",
+      "optionA":  "A: Mecca",
+      "optionB":  "B: Jerusalem",
+      "optionC":  "C: Aryans & Harappans",
+      "optionD":  "D: Rome"
     },
     {
-      "question": "Religion 8",
-      "answer":   "B: Lord",
-      "optionA":  "A: Raise",
-      "optionB":  "B: Lord",
-      "optionC":  "C: Says",
-      "optionD":  "D: Stripes"
+      "question": "In Hinduism and Buddhism, the end result of all of a person's good and bad acts, which determines his or her rebirth.",
+      "answer":   "B: karma",
+      "optionA":  "A: reincarnation",
+      "optionB":  "B: karma",
+      "optionC":  "C: caste system",
+      "optionD":  "D: parable"
     },
     {
-      "question": "Religion 9",
-      "answer":   "C: Reading",
-      "optionA":  "A: Seriously?",
-      "optionB":  "B: Keep asking",
-      "optionC":  "C: Reading",
-      "optionD":  "D: Water"
+      "question": "The sacred text of the religion of Islam.",
+      "answer":   "C: Qu'ran",
+      "optionA":  "A: Torah?",
+      "optionB":  "B: Bible",
+      "optionC":  "C: Qu'ran",
+      "optionD":  "D: Vedas"
+    },
+    {
+      "question": "A journey to a place considered sacred for religious purposes.",
+      "answer":   "A: pilgrimage",
+      "optionA":  "A: pilgrimage",
+      "optionB":  "B: parable",
+      "optionC":  "C: hike",
+      "optionD":  "D: Penance"
+    },
+
+    {
+      "question": "What holiday ends Ramadan?",
+      "answer":   "C: Eid al-Fitr",
+      "optionA":  "A: Ashura",
+      "optionB":  "B: New Year",
+      "optionC":  "C: Eid al-Fitr",
+      "optionD":  "D: Rama Navami"
+    },
+    {
+      "question": "What is the Korean festival of the winter solstice?",
+      "answer":   "D: Dongji",
+      "optionA":  "A: Tet",
+      "optionB":  "B: New Year’s Eve",
+      "optionC":  "C: Yom Kippur",
+      "optionD":  "D: Dongji"
+    },
+    {
+      "question": "To whom is the Cambodian temple Angkor Wat dedicated?",
+      "answer":   "C: Vishnu",
+      "optionA":  "A: Moses",
+      "optionB":  "B: Buddha",
+      "optionC":  "C: Vishnu",
+      "optionD":  "D: Krishna"
+    },
+    {
+      "question": "Who is honored with the holiday Ganesha Chaturthi?",
+      "answer":   "C: Ganesha",
+      "optionA":  "A: Ganymede",
+      "optionB":  "B: Goliath",
+      "optionC":  "C: Ganesha",
+      "optionD":  "D: Gilgamesh"
+    },
+    {
+      "question": "What is the largest religious structure in the world?",
+      "answer":   "B: Angkor Wat",
+      "optionA":  "A: the Kremlin",
+      "optionB":  "B: Angkor Wat",
+      "optionC":  "C: Notre Dame Cathedral",
+      "optionD":  "D: the Temple of Heaven"
+    },
+    {
+      "question": "What religion do more than two-thirds of the people of India practice?",
+      "answer":   "A: Hinduism",
+      "optionA":  "A: Hinduism",
+      "optionB":  "B: Buddhism",
+      "optionC":  "C: Islam",
+      "optionD":  "D: Sufism"
+    },
+    {
+      "question": "What religion practices nonviolence?",
+      "answer":   "A: Jainism",
+      "optionA":  "A: Jainism",
+      "optionB":  "B: Jaundism",
+      "optionC":  "C: animism",
+      "optionD":  "D: shamanism"
+    },
+    {
+      "question": "In which part of the world did Buddhism first come into being?",
+      "answer":   "B: North East India",
+      "optionA":  "A: Japan",
+      "optionB":  "B: North East India",
+      "optionC":  "C: South America",
+      "optionD":  "D: West Africa"
+    },
+    {
+      "question": "What is the name of the religion of Jewish people?",
+      "answer":   "C: Judaism",
+      "optionA":  "A: Bar Mitzvah",
+      "optionB":  "B: Hebrewism",
+      "optionC":  "C: Judaism",
+      "optionD":  "D: Yiddishism"
+    },
+    {
+      "question": "The sacred scriptures of Hinduism are collectively known as what?",
+      "answer":   "C: The Veda",
+      "optionA":  "A: The Scrolls",
+      "optionB":  "B: The Siva",
+      "optionC":  "C: The Veda",
+      "optionD":  "D: The Vishnu"
+    },
+
+    {
+      "question": "Shinto is the indigenous religious belief and practice of which country ?",
+      "answer":   "B: Japan",
+      "optionA":  "A: Bhutan",
+      "optionB":  "B: Japan",
+      "optionC":  "C: Malaysia",
+      "optionD":  "D: Pakistan"
+    },
+    {
+      "question": "Sunnites and Shi'ites are followers of which religion?",
+      "answer":   "A: Islam",
+      "optionA":  "A: Islam",
+      "optionB":  "B: Judaism",
+      "optionC":  "C: Shintoism",
+      "optionD":  "D: Sikhism"
+    },
+    {
+      "question": "Devotees of which pre-Islamic religion from Iran are called Parsees?",
+      "answer":   "D: Zoroastrianism",
+      "optionA":  "A: Confucianism",
+      "optionB":  "B: Shintoism",
+      "optionC":  "C: Taoism",
+      "optionD":  "D: Zoroastrianism"
+    },
+    {
+      "question": "In which century did Sikhism originate?",
+      "answer":   "A: 15th",
+      "optionA":  "A: 15th",
+      "optionB":  "B: 16th",
+      "optionC":  "C: 17th",
+      "optionD":  "D: 18th"
+    },
+    {
+      "question": "When translated from Hebrew, what does the term 'rabbi' mean ?",
+      "answer":   "D: My teacher",
+      "optionA":  "A: My father",
+      "optionB":  "B: My guide",
+      "optionC":  "C: My inspiration",
+      "optionD":  "D: My teacher"
+    },
+    {
+      "question": "What is the name of the Hindu system of hierarchy based upon relative purity?",
+      "answer":   "A: Caste",
+      "optionA":  "A: Caste",
+      "optionB":  "B: Class",
+      "optionC":  "C: Demographic",
+      "optionD":  "D: Segmented"
+    },
+    {
+      "question": "What name is given to the Buddhist practice of mental concentration?",
+      "answer":   "B: Meditation",
+      "optionA":  "A: Mediation",
+      "optionB":  "B: Meditation",
+      "optionC":  "C: Moderation",
+      "optionD":  "D: Modification"
+    },
+    {
+      "question": "How many 'Pillars Of Islam' are Muslims asked to practice?",
+      "answer":   "C: 5",
+      "optionA":  "A: 3",
+      "optionB":  "B: 4",
+      "optionC":  "C: 5",
+      "optionD":  "D: 6"
+    },
+    {
+      "question": "How is the lunar-based Hindu calendar adjusted to the solar calendar?",
+      "answer":   "C: An extra month, every 30 months",
+      "optionA":  "A: An extra day, every third week",
+      "optionB":  "B: An extra minute, every 14 hours",
+      "optionC":  "C: An extra month, every 30 months",
+      "optionD":  "D: An extra week, every quarter"
+    },
+    {
+      "question": "What was said to be the essence of Buddha's early preaching?",
+      "answer":   "B: 4 Noble Truths",
+      "optionA":  "A: 4 Ethical Truths",
+      "optionB":  "B: 4 Noble Truths",
+      "optionC":  "C: 4 Fundamental Truths",
+      "optionD":  "D: 4 Undisputed Truths"
+    },
+
+    {
+      "question": "What does the Sikh surname 'Singh' mean?",
+      "answer":   "A: Lion",
+      "optionA":  "A: Lion",
+      "optionB":  "B: Master",
+      "optionC":  "C: Traveller",
+      "optionD":  "D: Worker"
+    },
+    {
+      "question": "How many males constitute a quorum at a Jewish public religious ceremony?",
+      "answer":   "D: 10",
+      "optionA":  "A: 4",
+      "optionB":  "B: 6",
+      "optionC":  "C: 8",
+      "optionD":  "D: 10"
+    },
+    {
+      "question": "Who was regarded as the 'Second Sage' of the Confucian heritage?",
+      "answer":   "C: Mencius",
+      "optionA":  "A: Chu Hsi",
+      "optionB":  "B: Hsun--tzu",
+      "optionC":  "C: Mencius",
+      "optionD":  "D: Tung Chung-shu"
+    },
+    {
+      "question": "Which word means \"mystical\", \"superior\" or \"divine\" in the Shinto faith?",
+      "answer":   "A: Kami",
+      "optionA":  "A: Kami",
+      "optionB":  "B: Shojiki",
+      "optionC":  "C: Tenri",
+      "optionD":  "D: Ujigami"
+    },
+    {
+      "question": "For how long has Taoism shaped Chinese life?",
+      "answer":   "D: Over 2000 years",
+      "optionA":  "A: Over 500 years",
+      "optionB":  "B: Over 1000 years",
+      "optionC":  "C: Over 1500 years",
+      "optionD":  "D: Over 2000 years"
+    },
+    {
+      "question": "Approximately how many Zoroastrians are there in the world?",
+      "answer":   "B: 2.6 million",
+      "optionA":  "A: 1.6 million",
+      "optionB":  "B: 2.6 million",
+      "optionC":  "C: 16 million",
+      "optionD":  "D: 26 million"
+    },
+    {
+      "question": "According to the Qur'an, what is regarded as the cardinal sin of man?",
+      "answer":   "D: Pride",
+      "optionA":  "A: Adultery",
+      "optionB":  "B: Dishonesty",
+      "optionC":  "C: Greed",
+      "optionD":  "D: Pride"
+    },
+    {
+      "question": "Christianity can be divided into three principle groups; Roman Catholic and which two others?",
+      "answer":   "D: Eastern Orthodox and Protestant",
+      "optionA":  "A: Anglican and Non-Conformist",
+      "optionB":  "B: Baptist and Methodist",
+      "optionC":  "C: Calvinist and Lutheran",
+      "optionD":  "D: Eastern Orthodox and Protestant"
+    },
+    {
+      "question": "Who was the first great missionary of Christianity?",
+      "answer":   "C: St Paul",
+      "optionA":  "A: St Francis",
+      "optionB":  "B: St Nicholas",
+      "optionC":  "C: St Paul",
+      "optionD":  "D: St Sebastian"
+    },
+    {
+      "question": "Which Christian movement was founded by John Wesley?",
+      "answer":   "C: Methodism",
+      "optionA":  "A: Calvinism",
+      "optionB":  "B: Lutheranism",
+      "optionC":  "C: Methodism",
+      "optionD":  "D: Mormonism"
+    },
+
+    {
+      "question": "What are the primary sources of information about Jesus Christ?",
+      "answer":   "B: The Gospels",
+      "optionA":  "A: The Book of Psalms",
+      "optionB":  "B: The Gospels",
+      "optionC":  "C: The Old Testament",
+      "optionD":  "D: The Pentateuch"
+    },
+    {
+      "question": "What name is given to the tomb where Jesus Christ was allegedly buried?",
+      "answer":   "B: Holy Sepulchre",
+      "optionA":  "A: Holy Grave",
+      "optionB":  "B: Holy Sepulchre",
+      "optionC":  "C: Holy Shrine",
+      "optionD":  "D: Holy Tomb"
+    },
+    {
+      "question": "What do Christians recognise as the Trinity?",
+      "answer":   "B: Father, Son and Holy Spirit",
+      "optionA":  "A: Bethlehem, Nazareth and Jerusalem",
+      "optionB":  "B: Father, Son and Holy Spirit",
+      "optionC":  "C: Gold, Frankincense and Myrrh",
+      "optionD":  "D: Jesus, Mary and Joseph"
+    },
+    {
+      "question": "Within which movement did Christianity begin?",
+      "answer":   "D: Judaism",
+      "optionA":  "A: Animism",
+      "optionB":  "B: Buddhism",
+      "optionC":  "C: Hinduism",
+      "optionD":  "D: Judaism"
+    },
+    {
+      "question": "What do Jehovah's Witnesses call their place of worship?",
+      "answer":   "A: Kingdom Hall",
+      "optionA":  "A: Kingdom Hall",
+      "optionB":  "B: Redemption Hall",
+      "optionC":  "C: Resolution Hall",
+      "optionD":  "D: Salvation Hall"
+    },
+    {
+      "question": "In the Christian calendar what is represented by Ash Wednesday?",
+      "answer":   "D: The first day of Lent",
+      "optionA":  "A: The beginning of Spring",
+      "optionB":  "B: The end of Winter",
+      "optionC":  "C: The first day of Advent",
+      "optionD":  "D: The first day of Lent"
+    },
+    {
+      "question": "What differentiates \"Eucharist\", \"Lord's Supper\" and \"Holy Communion\"?",
+      "answer":   "A: Nothing - all the same sacrament",
+      "optionA":  "A: Nothing - all the same sacrament",
+      "optionB":  "B: Given at different times of day",
+      "optionC":  "C: Given by different levels of priest",
+      "optionD":  "D: Given at different times of year"
+    },
+    {
+      "question": "Who was elected head of the Roman Catholic church in April 2005?",
+      "answer":   "D: Pope Benedict XVI",
+      "optionA":  "A: Pope Benedict X",
+      "optionB":  "B: Pope Benedict XII",
+      "optionC":  "C: Pope Benedict XIV",
+      "optionD":  "D: Pope Benedict XVI"
+    },
+    {
+      "question": "When was Christian reformer Martin Luther excommunicated?",
+      "answer":   "B: 1521",
+      "optionA":  "A: 1501",
+      "optionB":  "B: 1521",
+      "optionC":  "C: 1541",
+      "optionD":  "D: 1561"
+    },
+    {
+      "question": "In which year did Robert Runcie, former Archbishop of Canterbury, die?",
+      "answer":   "A: 2000",
+      "optionA":  "A: 2000",
+      "optionB":  "B: 2001",
+      "optionC":  "C: 2002",
+      "optionD":  "D: 2003"
+    },
+
+    {
+      "question": "What leader of Buddhist Tibet was exiled after the communist Chinese invaded and conquered Tibet during the 1950s?",
+      "answer":   "A: Dalai Lama",
+      "optionA":  "A: Dalai Lama",
+      "optionB":  "B: Karmapa Lama",
+      "optionC":  "C: Panchen Lama",
+      "optionD":  "D: Reg Llama (of Brixton)"
+    },
+    {
+      "question": "Buddhism is an offshoot of what other major world religion?",
+      "answer":   "D: Hinduism",
+      "optionA":  "A: Christianity",
+      "optionB":  "B: Zoroastrianism",
+      "optionC":  "C: Islam",
+      "optionD":  "D: Hinduism"
+    },
+    {
+      "question": "Buddhism is the religion of a substantial portion of the population of which of the following countries?",
+      "answer":   "A: Bhutan",
+      "optionA":  "A: Bhutan",
+      "optionB":  "B: Guinea-Bissau",
+      "optionC":  "C: Poland",
+      "optionD":  "D: Uruguay"
+    },
+    {
+      "question": "When a Buddhist individual reaches enlightenment, it is said that they reach a certain state that can be literally translated as 'snuffing out'. What is this state?",
+      "answer":   "D: Nirvana",
+      "optionA":  "A: Confusion",
+      "optionB":  "B: Cogito, ergo sum",
+      "optionC":  "C: Texas",
+      "optionD":  "D: Nirvana"
+    },
+    {
+      "question": "A Sanskrit word meaning 'action' or 'fate', a lot of people equate it to 'what comes around goes around'. What is this term?",
+      "answer":   "B: Karma",
+      "optionA":  "A: Bodhi",
+      "optionB":  "B: Karma",
+      "optionC":  "C: Sutra",
+      "optionD":  "D: Sangha"
+    },
+    {
+      "question": "The Buddhists believe in following a path to enlightenment. How many fold is this path?",
+      "answer":   "C: 8",
+      "optionA":  "A: 60",
+      "optionB":  "B: 1,000",
+      "optionC":  "C: 8",
+      "optionD":  "D: 100"
+    },
+    {
+      "question": "Which of the following is a popular form of Buddhism in Japan?",
+      "answer":   "C: Zen",
+      "optionA":  "A: Totoro",
+      "optionB":  "B: Pikachu",
+      "optionC":  "C: Zen",
+      "optionD":  "D: Matsushita"
+    },
+    {
+      "question": "What was the real name of the founder of Buddhism?",
+      "answer":   "C: Siddharta Gautama",
+      "optionA":  "A: Borobodur",
+      "optionB":  "B: Ashoka",
+      "optionC":  "C: Siddharta Gautama",
+      "optionD":  "D: Suryabaya"
+    },
+    {
+      "question": "The largest Buddhist Monastery in India is located at ______?",
+      "answer":   "C: Tawang, Arunachal Pradesh",
+      "optionA":  "A: Gangktok, Sikkim",
+      "optionB":  "B: Dharamshala, Himachal Pradesh",
+      "optionC":  "C: Tawang, Arunachal Pradesh",
+      "optionD":  "D: Sarnath, Uttar Pradesh"
+    },
+    {
+      "question": "Which Guru/s Contributed to Sri Guru Granth Sahib Ji ?",
+      "answer":   "B: First Five and Ninth Guru",
+      "optionA":  "A: Fifth Guru ",
+      "optionB":  "B: First Five and Ninth Guru",
+      "optionC":  "C: First Five and Tenth Guru",
+      "optionD":  "D: All Gurus"
+    },
+
+    {
+      "question": "A follower of Islam is called a _____________________.",
+      "answer":   "C: Muslim",
+      "optionA":  "A: Brahman",
+      "optionB":  "B: Missionary",
+      "optionC":  "C: Muslim",
+      "optionD":  "D: Hindi"
+    },
+    {
+      "question": "The founder of Islam is  ___________________.",
+      "answer":   "D: Muhammad",
+      "optionA":  "A: Siddhartha Gautama",
+      "optionB":  "B: Abraham",
+      "optionC":  "C: Jesus",
+      "optionD":  "D: Muhammad"
+    },
+    {
+      "question": "The belief in one god is called ________________",
+      "answer":   "A: Monotheism",
+      "optionA":  "A: Monotheism",
+      "optionB":  "B: Polytheism",
+      "optionC":  "C: Religion",
+      "optionD":  "D: Meditation"
+    },
+    {
+      "question": "The sacred text (holy book) of the Christians is the _______________.",
+      "answer":   "B: Bible",
+      "optionA":  "A: Qu'ran or Koran",
+      "optionB":  "B: Bible",
+      "optionC":  "C: The Vedas",
+      "optionD":  "D: The Torah"
+    },
+    {
+      "question": "The founder of Buddhism is ______________________",
+      "answer":   "A: Siddhartha Gautama",
+      "optionA":  "A: Siddhartha Gautama",
+      "optionB":  "B: Jesus",
+      "optionC":  "C: Muhammad",
+      "optionD":  "D: Abraham"
+    },
+    {
+      "question": "Some of the sacred texts of the Hindus include __________________",
+      "answer":   "C: The Vedas, Maharbharata, and the Upanishads",
+      "optionA":  "A: The Torah and the Hebrew Bible",
+      "optionB":  "B: The Qu'ran and the teachings Abraham",
+      "optionC":  "C: The Vedas, Maharbharata, and the Upanishads",
+      "optionD":  "D: The ancient canticle"
+    },
+    {
+      "question": "This man was the founder of Judaism",
+      "answer":   "B: Abraham",
+      "optionA":  "A: Solomon",
+      "optionB":  "B: Abraham",
+      "optionC":  "C: Jesus",
+      "optionD":  "D: Mohammad"
+    },
+    {
+      "question": "Which is NOT one of the Five Pillars of Faith associated with Islam?",
+      "answer":   "D: Become a missionary in a foreign land",
+      "optionA":  "A: Give to charity",
+      "optionB":  "B: Pray 5 x's per day",
+      "optionC":  "C: Travel to Mecca at least once in your lifetime",
+      "optionD":  "D: Become a missionary in a foreign land"
+    },
+    {
+      "question": "All three major monotheistic religions developed in this region.",
+      "answer":   "A: Europe",
+      "optionA":  "A: Europe",
+      "optionB":  "B: North America",
+      "optionC":  "C: Middle East or Southwest Asia",
+      "optionD":  "D: China"
+    },
+    {
+      "question": "Hinduism and Buddhism both developed in this area.",
+      "answer":   "C: India",
+      "optionA":  "A: Middle East",
+      "optionB":  "B: Europe",
+      "optionC":  "C: India",
+      "optionD":  "D: Italy"
+    },
+
+    {
+      "question": "Judaism, Christianity, and Islam all ____________________________.",
+      "answer":   "C: Worship only one God",
+      "optionA":  "A: Believe in many divine Gods",
+      "optionB":  "B: Worship only one God",
+      "optionC":  "C: Follow the teachings of the Qu'ran",
+      "optionD":  "D: Believe Jesus was the son of God"
+    },
+    {
+      "question": "The Torah is the sacred writing (holy book) for which religion?",
+      "answer":   "A: Judaism",
+      "optionA":  "A: Judaism",
+      "optionB":  "B: Christianity",
+      "optionC":  "C: Islam",
+      "optionD":  "D: None"
+    },
+    {
+      "question": "The belief that the soul never dies but is continually reborn or reincarnated is associated with which religion?",
+      "answer":   "D: Hinduism and Buddhism",
+      "optionA":  "A: Islam",
+      "optionB":  "B: Christianity",
+      "optionC":  "C: Judaism",
+      "optionD":  "D: Hinduism and Buddhism"
+    },
+    {
+      "question": "Following the Eightfold Path and the Four Noble Truths to achieve enlightenment is associated with which religion?",
+      "answer":   "A: Buddhism",
+      "optionA":  "A: Buddhism",
+      "optionB":  "B: Hinduism",
+      "optionC":  "C: Islam",
+      "optionD":  "D: Christianity"
+    },
+    {
+      "question": "This religion can be divided into Catholic, Protestant, and Orthodox sects.",
+      "answer":   "B: Christianity",
+      "optionA":  "A: Judaism",
+      "optionB":  "B: Christianity",
+      "optionC":  "C: Islam",
+      "optionD":  "D: Buddhism"
+    },
+    {
+      "question": "Diwali, the festival of Lights is important to which religion?",
+      "answer":   "D: Hinduism",
+      "optionA":  "A: Judaism",
+      "optionB":  "B: Christianity",
+      "optionC":  "C: Islam",
+      "optionD":  "D: Hinduism"
+    },
+    {
+      "question": "Ramadan is the holy month of fasting for which religion?",
+      "answer":   "C: Islam",
+      "optionA":  "A: Judaism",
+      "optionB":  "B: Christianity",
+      "optionC":  "C: Islam",
+      "optionD":  "D: Hinduism"
+    },
+    {
+      "question": "How do Sikhs treat their women?",
+      "answer":   "A: With respect, dignity and equality",
+      "optionA":  "A: With respect, dignity and equality",
+      "optionB":  "B: Like inferiors",
+      "optionC":  "C: Harshly, beating and verbally abusing them",
+      "optionD":  "D: They make them wear veils and be secluded"
+    },
+    {
+      "question": "The clergy for Christianity are called _______________.",
+      "answer":   "B: Priests or ministers",
+      "optionA":  "A: Rabbis",
+      "optionB":  "B: Priests or ministers",
+      "optionC":  "C: Imams",
+      "optionD":  "D: Brahman"
+    },
+    {
+      "question": "The clergy for Judaism are called _________________.",
+      "answer":   "C: Rabbis",
+      "optionA":  "A: Monks",
+      "optionB":  "B: Priests",
+      "optionC":  "C: Rabbis",
+      "optionD":  "D: Imams"
+    },
+
+    {
+      "question": "What are the clergy in Buddhism called?",
+      "answer":   "C: Monks",
+      "optionA":  "A: Savior.",
+      "optionB":  "B: Priests",
+      "optionC":  "C: Monks",
+      "optionD":  "D: Rabbis"
+    },
+    {
+      "question": "Gurus are a type of clergy in what religion?",
+      "answer":   "D: Hinduism",
+      "optionA":  "A: Judaism",
+      "optionB":  "B: Christianity",
+      "optionC":  "C: Islam",
+      "optionD":  "D: Hinduism"
+    },
+    {
+      "question": "There are no official clergy in Islam, but people who lead prayers at a mosque are called _________.",
+      "answer":   "A: Imams",
+      "optionA":  "A: Imams",
+      "optionB":  "B: Rabbis",
+      "optionC":  "C: Priests",
+      "optionD":  "D: Monks"
+    },
+    {
+      "question": "This religion is the oldest religion of the five major world religions.",
+      "answer":   "A: Hinduism",
+      "optionA":  "A: Hinduism",
+      "optionB":  "B: Buddhism",
+      "optionC":  "C: Judaism",
+      "optionD":  "D: Islam"
+    },
+    {
+      "question": "Check the two main sects of Islam.",
+      "answer":   "C: Sunni and Shia",
+      "optionA":  "A: Tibetan and Reformed",
+      "optionB":  "B: Tibetan and Sunni",
+      "optionC":  "C: Sunni and Shia",
+      "optionD":  "D: Shia and Tibetan"
+    },
+    {
+      "question": "What is the language of Judaism?",
+      "answer":   "C: Hebrew",
+      "optionA":  "A: Greek",
+      "optionB":  "B: Arabic",
+      "optionC":  "C: Hebrew",
+      "optionD":  "D: Polish"
+    },
+    {
+      "question": "Jews who keep kosher",
+      "answer":   "B: Follow a dietary law of eating",
+      "optionA":  "A: Must pray five times a day",
+      "optionB":  "B: Follow a dietary law of eating",
+      "optionC":  "C: Face Israel when they pray",
+      "optionD":  "D: Must visit the Western Wailing Wall"
+    },
+    {
+      "question": "The pope is the leader of the _____ church in Christianity.",
+      "answer":   "A: Roman Catholic",
+      "optionA":  "A: Roman Catholic",
+      "optionB":  "B: Greek Orthodox",
+      "optionC":  "C: Baptist",
+      "optionD":  "D: Methodist"
+    },
+    {
+      "question": "Bhishma chose a particular time for his death. What was this time called?",
+      "answer":   "D: Uttarayan",
+      "optionA":  "A: Bhramakaal",
+      "optionB":  "B: Sainkaal",
+      "optionC":  "C: Suprabhaat",
+      "optionD":  "D: Uttarayan"
+    },
+    {
+      "question": "Which aspect of African traditional religions has to do with rituals for events like marriage, birth, and death?",
+      "answer":   "B: Rites of passage",
+      "optionA":  "A: Supreme god",
+      "optionB":  "B: Rites of passage",
+      "optionC":  "C: Ancestral spirits",
+      "optionD":  "D: Nature spirits"
+    },
+
+    {
+      "question": "Which aspect of African traditional religions has to do with relatives who have died?",
+      "answer":   "B: Ancestral spirits",
+      "optionA":  "A: Supreme god.",
+      "optionB":  "B: Ancestral spirits",
+      "optionC":  "C: Rites of passage",
+      "optionD":  "D: Nature spirits"
+    },
+    {
+      "question": "The sacred scriptures of Hinduism are collectively known as what?",
+      "answer":   "C: The Veda",
+      "optionA":  "A: The Scrolls",
+      "optionB":  "B: The Siva",
+      "optionC":  "C: The Veda",
+      "optionD":  "D: The Vishnu"
+    },
+    {
+      "question": "The oldest Monotheistic Religion in the world is",
+      "answer":   "A: Judaism",
+      "optionA":  "A: Judaism",
+      "optionB":  "B: Christianity",
+      "optionC":  "C: Islam",
+      "optionD":  "D: Zoroastrianism"
+    },
+    {
+      "question": "What remains do Jews visit and travel to in order to worship?",
+      "answer":   "A: Hinduism",
+      "optionA":  "A: The Western Wall",
+      "optionB":  "B: The Kaaba",
+      "optionC":  "C: The Torah",
+      "optionD":  "D: The Parthenon"
+    },
+    {
+      "question": "”Donyi Polo” is a religion / tradition followed by some tribals of which among the following states?",
+      "answer":   "B: Arunachal Pradesh",
+      "optionA":  "A: Meghalaya",
+      "optionB":  "B: Arunachal Pradesh",
+      "optionC":  "C: Nagaland",
+      "optionD":  "D: Sikkim"
+    },
+    {
+      "question": "Which of the following is NOT one of the 'ethical religions'?",
+      "answer":   "C: Hinduism",
+      "optionA":  "A: Buddhism",
+      "optionB":  "B: Confucianism",
+      "optionC":  "C: Hinduism",
+      "optionD":  "D: Taoism"
+    },
+    {
+      "question": "According to Durkheim, religion separates objects and symbols into the sacred and which of the following?",
+      "answer":   "D: the profane",
+      "optionA":  "A: the profound",
+      "optionB":  "B: the profuse",
+      "optionC":  "C: the profitable",
+      "optionD":  "D: the profane"
+    },
+    {
+      "question": "In which of these countries is Orthodox Christianity the dominant religion?",
+      "answer":   "B: Greece",
+      "optionA":  "A: Finland",
+      "optionB":  "B: Greece",
+      "optionC":  "C: Ireland",
+      "optionD":  "D: Spain"
+    },
+    {
+      "question": "Of which of the following, according to Marx, does religion provide an example?",
+      "answer":   "A: alienation",
+      "optionA":  "A: alienation",
+      "optionB":  "B: anomie",
+      "optionC":  "C: authority",
+      "optionD":  "D: animism"
+    },
+    {
+      "question": "'New age' movements are an example of which type of religious movement?",
+      "answer":   "A: world-affirming",
+      "optionA":  "A: world-affirming",
+      "optionB":  "B: world-rejecting",
+      "optionC":  "C: world-enhancing",
+      "optionD":  "D: world-accommodating"
     }
 
   ]

@@ -2,76 +2,408 @@
   "category": "politics",
   "questions":[
     {
-      "question": "Politics 1",
-      "answer":   "A: answer",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "What is the first name of Russia's President Putin?",
+      "answer":   "C: Vladimir",
+      "optionA":  "A: Valentin",
+      "optionB":  "B: Valeriy",
+      "optionC":  "C: Vladimir",
+      "optionD":  "D: Vladivar"
     },
     {
-      "question": "Politics 2",
-      "answer":   "B: I don't know",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "Which one of the following is not related to disarmament?",
+      "answer":   "D: NATO",
+      "optionA":  "A: SALT",
+      "optionB":  "B: NPT",
+      "optionC":  "C: CTBT",
+      "optionD":  "D: NATO"
     },
     {
-      "question": "Politics 3",
-      "answer":   "D: Jogging",
-      "optionA":  "A: answer",
-      "optionB":  "B: We dock",
-      "optionC":  "C: Enough",
-      "optionD":  "D: Jogging"
+      "question": "Whom is the Queen's representative in Australia?",
+      "answer":   "A: Governor-General",
+      "optionA":  "A: Governor-General",
+      "optionB":  "B: President",
+      "optionC":  "C: Prime Minister",
+      "optionD":  "D: Prince of New South Wales"
     },
     {
-      "question": "Politics 4",
-      "answer":   "C: Mercy",
-      "optionA":  "A: Love",
-      "optionB":  "B: Glory",
-      "optionC":  "C: Mercy",
-      "optionD":  "D: Trailing"
+      "question": "Whom did George W. Bush defeat in the elections of November 2004?",
+      "answer":   "C: John Kerry",
+      "optionA":  "A: Al Gore",
+      "optionB":  "B: Arnold Schwarzenegger",
+      "optionC":  "C: John Kerry",
+      "optionD":  "D: Rudy Giuliani"
     },
     {
-      "question": "Politics 5",
-      "answer":   "D: Pretty",
-      "optionA":  "A: Apple",
-      "optionB":  "B: Happiness",
-      "optionC":  "C: Awu ma je",
-      "optionD":  "D: Pretty"
+      "question": "Augusto Pinochet, who died in late 2006, had previously led which country?",
+      "answer":   "C: Chile",
+      "optionA":  "A: Argentina",
+      "optionB":  "B: Brazil",
+      "optionC":  "C: Chile",
+      "optionD":  "D: Ecuador"
     },
     {
-      "question": "Politics 6",
-      "answer":   "D: Flesh",
-      "optionA":  "A: Lift",
-      "optionB":  "B: Welldone",
-      "optionC":  "C: Laugh",
-      "optionD":  "D: Flesh"
+      "question": "What are the three electoral regions of Belgium?",
+      "answer":   "C: Brussels, Flanders and Wallonia",
+      "optionA":  "A: Brussels, Antwerp and Liège",
+      "optionB":  "B: Brussels, East and West",
+      "optionC":  "C: Brussels, Flanders and Wallonia",
+      "optionD":  "D: Brussels, North and South"
     },
     {
-      "question": "Politics 7",
-      "answer":   "A: Elohi",
-      "optionA":  "A: Elohi",
-      "optionB":  "B: Cry cry",
-      "optionC":  "C: Revival",
-      "optionD":  "D: Portion"
+      "question": "What was the name of the Japanese Prime Minister who called an election in 2005?",
+      "answer":   "A: Junichiro Koizumi",
+      "optionA":  "A: Junichiro Koizumi",
+      "optionB":  "B: Katsuya Okada",
+      "optionC":  "C: Shizuka Kamei",
+      "optionD":  "D: Yasuo Tanaka"
     },
     {
-      "question": "Politics 8",
-      "answer":   "B: Lord",
-      "optionA":  "A: Raise",
-      "optionB":  "B: Lord",
-      "optionC":  "C: Says",
-      "optionD":  "D: Stripes"
+      "question": "Where in 2005 was Michaëlle Jean sworn in as Governor-General?",
+      "answer":   "C: Canada",
+      "optionA":  "A: Bahamas",
+      "optionB":  "B: Bermuda",
+      "optionC":  "C: Canada",
+      "optionD":  "D: Cayman Islands"
     },
     {
-      "question": "Politics 9",
-      "answer":   "C: Reading",
-      "optionA":  "A: Seriously?",
-      "optionB":  "B: Keep asking",
-      "optionC":  "C: Reading",
-      "optionD":  "D: Water"
+      "question": "Where in 2006 was Luiz Inácio Lula da Silva the President of 184 million people?",
+      "answer":   "B: Brazil",
+      "optionA":  "A: Argentina?",
+      "optionB":  "B: Brazil",
+      "optionC":  "C: Colombia",
+      "optionD":  "D: Portugal"
+    },
+    {
+      "question": "In which country did Lech Kaczynski win the Presidential election in 2005?",
+      "answer":   "C: Poland",
+      "optionA":  "A: Czech Republic?",
+      "optionB":  "B: Hungary",
+      "optionC":  "C: Poland",
+      "optionD":  "D: Slovakia"
+    },
+
+    {
+      "question": "Of which African country was Jomo Kenyatta the first President?",
+      "answer":   "A: Kenya",
+      "optionA":  "A: Kenya",
+      "optionB":  "B: Malawi",
+      "optionC":  "C: Tanzania",
+      "optionD":  "D: Uganda"
+    },
+    {
+      "question": "Where in 2004 was King Norodom Sihanouk succeeded by King Norodom Sihamoni?",
+      "answer":   "A: Cambodia",
+      "optionA":  "A: Cambodia",
+      "optionB":  "B: Laos",
+      "optionC":  "C: Thailand",
+      "optionD":  "D: Vietnam"
+    },
+    {
+      "question": "When was Néstor Kirchner elected President of Argentina?",
+      "answer":   "C: 2003",
+      "optionA":  "A: 2001",
+      "optionB":  "B: 2002",
+      "optionC":  "C: 2003",
+      "optionD":  "D: 2004"
+    },
+    {
+      "question": "Who resigned as Czech Prime Minister on 25th April 2005?",
+      "answer":   "B: Stanislav Gross",
+      "optionA":  "A: Jiri Paroubek",
+      "optionB":  "B: Stanislav Gross",
+      "optionC":  "C: Vaclav Klaus",
+      "optionD":  "D: Zdenek Skromach"
+    },
+    {
+      "question": "Emir Sheikh Hamad ibn Khalifah al-Thani was head of state in 2006 of which country?",
+      "answer":   "C: Qatar",
+      "optionA":  "A: Abu Dhabi",
+      "optionB":  "B: Bahrain",
+      "optionC":  "C: Qatar",
+      "optionD":  "D: Yemen"
+    },
+    {
+      "question": "Which organisation does not include Zambia - ACP, APEC,AU, Commonwealth?",
+      "answer":   "B: APEC",
+      "optionA":  "A: ACP",
+      "optionB":  "B: APEC",
+      "optionC":  "C: AU",
+      "optionD":  "D: Commonwealth"
+    },
+    {
+      "question": "What are the two legislative houses of Jamaica?",
+      "answer":   "D: Senate and House of Representatives",
+      "optionA":  "A: Congress and Representatives",
+      "optionB":  "B: Congress and Parliament",
+      "optionC":  "C: Senate and Congress",
+      "optionD":  "D: Senate and House of Representatives"
+    },
+    {
+      "question": "Who is the head of state in Mexico?",
+      "answer":   "C: President",
+      "optionA":  "A: Chief Senator",
+      "optionB":  "B: First Minister",
+      "optionC":  "C: President",
+      "optionD":  "D: Prime Minister"
+    },
+    {
+      "question": "Approximately how many were members of the Communist Party of China in 2005?",
+      "answer":   "C: 69 million",
+      "optionA":  "A: 6 million?",
+      "optionB":  "B: 33 million",
+      "optionC":  "C: 69 million",
+      "optionD":  "D: 99 million"
+    },
+    {
+      "question": "Of which country did Helen Clark win a third term as Prime Minister in 2005?",
+      "answer":   "C: New Zealand",
+      "optionA":  "A: Bahamas",
+      "optionB":  "B: Barbados",
+      "optionC":  "C: New Zealand",
+      "optionD":  "D: Trinidad and Tobago"
+    },
+
+    {
+      "question": "Which two political parties traditionally contest American elections?",
+      "answer":   "C: Democrats and Republicans",
+      "optionA":  "A: Congress and Senate",
+      "optionB":  "B: Congress and Senate",
+      "optionC":  "C: Democrats and Republicans",
+      "optionD":  "D: Liberals and Republicans"
+    },
+    {
+      "question": "The two American Houses of Congress comprise the Senate and which other?",
+      "answer":   "D: The House Of Representatives",
+      "optionA":  "A: The House Of Deputies",
+      "optionB":  "B: The House Of Lords",
+      "optionC":  "C: The House Of Parliament",
+      "optionD":  "D: The House Of Representatives"
+    },
+    {
+      "question": "Who served as President of the USA between 1993 and 2001?",
+      "answer":   "B: Bill Clinton",
+      "optionA":  "A: Al Gore",
+      "optionB":  "B: Bill Clinton",
+      "optionC":  "C: George Bush senior",
+      "optionD":  "D: Jimmy Carter"
+    },
+    {
+      "question": "At election time, which American state has the most electoral votes?",
+      "answer":   "B: California",
+      "optionA":  "A: Alabama",
+      "optionB":  "B: California",
+      "optionC":  "C: Missouri",
+      "optionD":  "D: Pennsylvania"
+    },
+    {
+      "question": "Which American President resigned from office in 1974?",
+      "answer":   "D: Richard Nixon",
+      "optionA":  "A: Gerald Ford",
+      "optionB":  "B: Jimmy Carter",
+      "optionC":  "C: Lyndon Johnson",
+      "optionD":  "D: Richard Nixon"
+    },
+    {
+      "question": "What size of majority did George W Bush achieve in the 2004 Presidential election?",
+      "answer":   "C: 35 electoral votes",
+      "optionA":  "A: 2 electoral votes",
+      "optionB":  "B: 12 electoral votes",
+      "optionC":  "C: 35 electoral votes",
+      "optionD":  "D: 127 electoral votes"
+    },
+    {
+      "question": "From which state did American President Jimmy Carter originate?",
+      "answer":   "A: Georgia",
+      "optionA":  "A: Georgia",
+      "optionB":  "B: Maine",
+      "optionC":  "C: Nebraska",
+      "optionD":  "D: New Mexico"
+    },
+    {
+      "question": "Who won 266 electoral votes at the US Presidential election of November 2000?",
+      "answer":   "A: Al Gore",
+      "optionA":  "A: Al Gore",
+      "optionB":  "B: Bill Clinton",
+      "optionC":  "C: Colin Powell",
+      "optionD":  "D: Dan Quayle"
+    },
+    {
+      "question": "Who contested the USA Presidential election in November 2004 for the Democrats?",
+      "answer":   "B: John Kerry",
+      "optionA":  "A: John Berry",
+      "optionB":  "B: John Kerry",
+      "optionC":  "C: John Perry",
+      "optionD":  "D: John Terry"
+    },
+    {
+      "question": "Who was sworn in as California's Governor in November 2003?",
+      "answer":   "A: Arnold Schwarzenegger",
+      "optionA":  "A: Arnold Schwarzenegger",
+      "optionB":  "B: Charlton Heston",
+      "optionC":  "C: Clint Eastwood",
+      "optionD":  "D: Clint Eastwood"
+    },
+
+    {
+      "question": "Who led the Ulster Unionist Party between 1995 and 2005?",
+      "answer":   "A: David Trimble",
+      "optionA":  "A: David Trimble",
+      "optionB":  "B: Ian Paisley",
+      "optionC":  "C: James Molyneaux",
+      "optionD":  "D: Reg Empey"
+    },
+    {
+      "question": "Of which former Labour cabinet minister is Peter Mandelson the grandson?",
+      "answer":   "C: Herbert Morrison",
+      "optionA":  "A: Aneurin Bevan",
+      "optionB":  "B: Ernest Bevin",
+      "optionC":  "C: Herbert Morrison",
+      "optionD":  "D: Hugh Dalton"
+    },
+    {
+      "question": "How old was David Owen upon being appointed Foreign Secretary in 1977?",
+      "answer":   "B: 38",
+      "optionA":  "A: 35",
+      "optionB":  "B: 38",
+      "optionC":  "C: 40",
+      "optionD":  "D: 43"
+    },
+    {
+      "question": "In the European elections of 2004 how many MEPs did Wales return?",
+      "answer":   "B: 4",
+      "optionA":  "A: 3",
+      "optionB":  "B: 4",
+      "optionC":  "C: 5",
+      "optionD":  "D: 6"
+    },
+    {
+      "question": "Who in 1990 was John Major's first Home Secretary?",
+      "answer":   "A: Kenneth Baker",
+      "optionA":  "A: Kenneth Baker",
+      "optionB":  "B: Kenneth Clarke",
+      "optionC":  "C: Michael Howard",
+      "optionD":  "D: Tom King"
+    },
+    {
+      "question": "Who succeeded David Lloyd George as Prime Minister?",
+      "answer":   "A: Andrew Bonar Law",
+      "optionA":  "A: Andrew Bonar Law",
+      "optionB":  "B: Herbert Asquith",
+      "optionC":  "C: Ramsay MacDonald",
+      "optionD":  "D: Stanley Baldwin"
+    },
+    {
+      "question": "In the House Of Commons how are MPs selected to submit Private Members' Bills?",
+      "answer":   "A: Ballot",
+      "optionA":  "A: Ballot",
+      "optionB":  "B: Length Of Service",
+      "optionC":  "C: Nomination by the Speaker",
+      "optionD":  "D: Party Allocation"
+    },
+    {
+      "question": "What is Africa's newest country?",
+      "answer":   "B: South Sudan",
+      "optionA":  "A: Azania",
+      "optionB":  "B: South Sudan",
+      "optionC":  "C: Azawad",
+      "optionD":  "D: Central African Republic"
+    },
+    {
+      "question": "What alias did Nelson Mandela use while pretending to be a caretaker at Liliesleaf farm in Johannesburg?",
+      "answer":   "A: David Motsamayi",
+      "optionA":  "A: David Motsamayi",
+      "optionB":  "B: The Black Pimpernel",
+      "optionC":  "C: Mark Radebe",
+      "optionD":  "D: Rolihlahla Ntoko"
+    },
+    {
+      "question": "In what city is the Chinese-built headquarters of the African Union?",
+      "answer":   "A: Addis Ababa",
+      "optionA":  "A: Addis Ababa",
+      "optionB":  "B: Lagos",
+      "optionC":  "C: Ouagadougou",
+      "optionD":  "D: Johannesburg"
+    },
+
+    {
+      "question": "Where is Nollywood, the second biggest movie industry in the world in terms of number of films made?",
+      "answer":   "D: Nigeria",
+      "optionA":  "A: Namibia",
+      "optionB":  "B: Nairobi",
+      "optionC":  "C: Nelspruit",
+      "optionD":  "D: Nigeria"
+    },
+    {
+      "question": "Who performed at Zimbabwe's independence day celebrations in 1980?",
+      "answer":   "A: Bob Marley",
+      "optionA":  "A: Bob Marley",
+      "optionB":  "B: Tracy Chapman",
+      "optionC":  "C: Paul Simon",
+      "optionD":  "D: Bono"
+    },
+    {
+      "question": "How many black presidents have there been in South Africa?",
+      "answer":   "D: Four",
+      "optionA":  "A: One",
+      "optionB":  "B: Two",
+      "optionC":  "C: Three",
+      "optionD":  "D: Four"
+    },
+    {
+      "question": "Which former DJ came to power in a 2009 coup in Madagascar?",
+      "answer":   "D: Andry Rajoelina",
+      "optionA":  "A: Papa Wemba",
+      "optionB":  "B: Wally Za",
+      "optionC":  "C: Fela Kuti",
+      "optionD":  "D: Andry Rajoelina"
+    },
+    {
+      "question": "Who is Africa's longest serving leader?",
+      "answer":   "B: Teodoro Obiang of Equatorial Guinea",
+      "optionA":  "A: Jomo Kenyatta of Kenya",
+      "optionB":  "B: Teodoro Obiang of Equatorial Guinea",
+      "optionC":  "C: Nelson Mandela of South Africa",
+      "optionD":  "D: Robert Mugabe of Zimbabwe"
+    },
+    {
+      "question": "Who succeeded David Lloyd George as Prime Minister?",
+      "answer":   "A: Andrew Bonar Law",
+      "optionA":  "A: Andrew Bonar Law",
+      "optionB":  "B: Herbert Asquith",
+      "optionC":  "C: Ramsay MacDonald",
+      "optionD":  "D: Stanley Baldwin"
+    },
+    {
+      "question": "In the House Of Commons how are MPs selected to submit Private Members' Bills?",
+      "answer":   "A: Ballot",
+      "optionA":  "A: Ballot",
+      "optionB":  "B: Length Of Service",
+      "optionC":  "C: Nomination by the Speaker",
+      "optionD":  "D: Party Allocation"
+    },
+    {
+      "question": "What is Africa's newest country?",
+      "answer":   "B: South Sudan",
+      "optionA":  "A: Azania",
+      "optionB":  "B: South Sudan",
+      "optionC":  "C: Azawad",
+      "optionD":  "D: Central African Republic"
+    },
+    {
+      "question": "What alias did Nelson Mandela use while pretending to be a caretaker at Liliesleaf farm in Johannesburg?",
+      "answer":   "A: David Motsamayi",
+      "optionA":  "A: David Motsamayi",
+      "optionB":  "B: The Black Pimpernel",
+      "optionC":  "C: Mark Radebe",
+      "optionD":  "D: Rolihlahla Ntoko"
+    },
+    {
+      "question": "In what city is the Chinese-built headquarters of the African Union?",
+      "answer":   "A: Addis Ababa",
+      "optionA":  "A: Addis Ababa",
+      "optionB":  "B: Lagos",
+      "optionC":  "C: Ouagadougou",
+      "optionD":  "D: Johannesburg"
     }
 
   ]
