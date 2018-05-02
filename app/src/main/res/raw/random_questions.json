@@ -10,69 +10,809 @@
       "optionD":  "D: California"
     },
     {
-      "question": "Random 2",
-      "answer":   "B: I don't know",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "What is the physical phase of life called?",
+      "answer":   "A: Protoplasm",
+      "optionA":  "A: Protoplasm",
+      "optionB":  "B: Cytoplasm",
+      "optionC":  "C: Organelles",
+      "optionD":  "D: None of the above"
     },
     {
-      "question": "Random 3",
-      "answer":   "D: Jogging",
-      "optionA":  "A: answer",
-      "optionB":  "B: We dock",
-      "optionC":  "C: Enough",
-      "optionD":  "D: Jogging"
+      "question": "2010 Commonwealth Games held in ?",
+      "answer":   "B: India",
+      "optionA":  "A: Canada",
+      "optionB":  "B: India",
+      "optionC":  "C: Britian",
+      "optionD":  "D: Malaysia"
     },
     {
-      "question": "Random 4",
-      "answer":   "C: Mercy",
-      "optionA":  "A: Love",
-      "optionB":  "B: Glory",
-      "optionC":  "C: Mercy",
-      "optionD":  "D: Trailing"
+      "question": "In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+      "answer":   "B: 1880s",
+      "optionA":  "A: 1850s",
+      "optionB":  "B: 1880s",
+      "optionC":  "C: 1930s",
+      "optionD":  "D: 1950s"
     },
     {
-      "question": "Random 5",
-      "answer":   "D: Pretty",
-      "optionA":  "A: Apple",
-      "optionB":  "B: Happiness",
-      "optionC":  "C: Awu ma je",
-      "optionD":  "D: Pretty"
+      "question": "What is the first name of Russia's President Putin?",
+      "answer":   "C: Vladimir",
+      "optionA":  "A: Valentin",
+      "optionB":  "B: Valeriy",
+      "optionC":  "C: Vladimir",
+      "optionD":  "D: Vladivar"
     },
     {
-      "question": "Random 6",
-      "answer":   "D: Flesh",
-      "optionA":  "A: Lift",
-      "optionB":  "B: Welldone",
-      "optionC":  "C: Laugh",
-      "optionD":  "D: Flesh"
+      "question": "The Homolographic projection has the correct representation of",
+      "answer":   "B: area",
+      "optionA":  "A: shape",
+      "optionB":  "B: area",
+      "optionC":  "C: baring",
+      "optionD":  "D: distance"
     },
     {
-      "question": "Random 7",
-      "answer":   "A: Elohi",
-      "optionA":  "A: Elohi",
-      "optionB":  "B: Cry cry",
-      "optionC":  "C: Revival",
-      "optionD":  "D: Portion"
+      "question": "The god Quetzalcoatl is recognized in",
+      "answer":   "D: Aztec religion",
+      "optionA":  "A: Cherokee religion",
+      "optionB":  "B: All Native American religions",
+      "optionC":  "C: Modoc religion",
+      "optionD":  "D: Aztec religion"
     },
     {
-      "question": "Random 8",
-      "answer":   "B: Lord",
-      "optionA":  "A: Raise",
-      "optionB":  "B: Lord",
-      "optionC":  "C: Says",
-      "optionD":  "D: Stripes"
+      "question": "I am found at the beginning of time. What am I?",
+      "answer":   "B: T",
+      "optionA":  "A: Nothing",
+      "optionB":  "B: T",
+      "optionC":  "C: 0",
+      "optionD":  "D: 1"
     },
     {
-      "question": "Random 9",
-      "answer":   "C: Reading",
-      "optionA":  "A: Seriously?",
-      "optionB":  "B: Keep asking",
-      "optionC":  "C: Reading",
-      "optionD":  "D: Water"
+      "question": "The largest cell is ________________",
+      "answer":   "C: The egg of an Ostrich",
+      "optionA":  "A: Nerve Cell",
+      "optionB":  "B: Ovum",
+      "optionC":  "C: The egg of an Ostrich",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "The term“Googly” is associated with ?",
+      "answer":   "A: Cricket",
+      "optionA":  "A: Cricket",
+      "optionB":  "B: Football",
+      "optionC":  "C: Badminton",
+      "optionD":  "D: Hockey"
+    },
+
+    {
+      "question": "What is found at the center of the earth?",
+      "answer":   "B: r",
+      "optionA":  "A: Gravity",
+      "optionB":  "B: r",
+      "optionC":  "C: Alphabet",
+      "optionD":  "D: e"
+    },
+    {
+      "question": "Which is the largest human cell?",
+      "answer":   "D: Ovum",
+      "optionA":  "A: Liver",
+      "optionB":  "B: Skin",
+      "optionC":  "C: Spleen",
+      "optionD":  "D: Ovum"
+    },
+    {
+      "question": "Aga Khan Cup is awarded to ?",
+      "answer":   "C: National Hockey in India",
+      "optionA":  "A: International Hockey",
+      "optionB":  "B: Asian Hockey",
+      "optionC":  "C: National Hockey in India",
+      "optionD":  "D: None of these"
+    },
+    {
+      "question": "What is part of a database that holds only one type of information?",
+      "answer":   "B: Field",
+      "optionA":  "A: Report",
+      "optionB":  "B: Field",
+      "optionC":  "C: Record",
+      "optionD":  "D: File"
+    },
+    {
+      "question": "Which one of the following is not related to disarmament?",
+      "answer":   "D: NATO",
+      "optionA":  "A: SALT",
+      "optionB":  "B: NPT",
+      "optionC":  "C: CTBT",
+      "optionD":  "D: NATO"
+    },
+    {
+      "question": "The latitudinal differences in pressure delineate a number of major pressure zones, which correspond with",
+      "answer":   "A: zones of climate",
+      "optionA":  "A: zones of climate",
+      "optionB":  "B: zones of oceans",
+      "optionC":  "C: zones of land",
+      "optionD":  "D: zones of cyclonic depressions"
+    },
+    {
+      "question": "The higher the wind speed and the longer the fetch or distance of open water across which the wind blows and waves travel, the ____ waves and the ____ energy they process.",
+      "answer":   "A: larger, more",
+      "optionA":  "A: larger, more",
+      "optionB":  "B: larger, less",
+      "optionC":  "C: smaller, more",
+      "optionD":  "D: smaller, less"
+    },
+    {
+      "question": "The ancestral spirits of the Pueblo peoples are known as",
+      "answer":   "B: Kachinas",
+      "optionA":  "A: The Hero Twins",
+      "optionB":  "B: Kachinas",
+      "optionC":  "C: Jump Dancers",
+      "optionD":  "D: None of the above"
+    },
+    {
+      "question": "What has ring but no finger?",
+      "answer":   "B: telephone",
+      "optionA":  "A: Ring",
+      "optionB":  "B: telephone",
+      "optionC":  "C: clock",
+      "optionD":  "D: Nothing"
+    },
+    {
+      "question": "_________________ is the longest cell.",
+      "answer":   "A: Nerve Cell",
+      "optionA":  "A: Nerve Cell",
+      "optionB":  "B: Skin",
+      "optionC":  "C: Spleen",
+      "optionD":  "D: None of the above"
+    },
+
+    {
+      "question": "Krishna Poonia is associated with ?",
+      "answer":   "C: Chess",
+      "optionA":  "A: Football",
+      "optionB":  "B: Hockey",
+      "optionC":  "C: Chess",
+      "optionD":  "D: Athletics"
+    },
+    {
+      "question": "Whom is the Queen's representative in Australia?",
+      "answer":   "A: Governor-General",
+      "optionA":  "A: Governor-General",
+      "optionB":  "B: President",
+      "optionC":  "C: Prime Minister",
+      "optionD":  "D: Prince of New South Wales"
+    },
+    {
+      "question": "The hazards of radiation belts include",
+      "answer":   "D: All of the above",
+      "optionA":  "A: deterioration of electronic circuits",
+      "optionB":  "B: damage of solar cells of spacecraft",
+      "optionC":  "C: adverse effect on living organisms",
+      "optionD":  "D: All of the above"
+    },
+    {
+      "question": "The cycle of birth, death and rebirth. You pay for good or bad deeds based on your behavior.",
+      "answer":   "B: reincarnation",
+      "optionA":  "A: karma",
+      "optionB":  "B: reincarnation",
+      "optionC":  "C: Hinduism",
+      "optionD":  "D: caste system"
+    },
+    {
+      "question": "What is as big as the elephant but weighs 0 kg? It is the elephant's....",
+      "answer":   "C: Shadow",
+      "optionA":  "A: Tail",
+      "optionB":  "B: Bone",
+      "optionC":  "C: Shadow",
+      "optionD":  "D: Eyes"
+    },
+    {
+      "question": "What is the name of the cells in the body that engulf foreign particles like bacteria?",
+      "answer":   "A: Phagocytes",
+      "optionA":  "A: Phagocytes",
+      "optionB":  "B: Globulin",
+      "optionC":  "C: Fibrinogen",
+      "optionD":  "D: Albumin"
+    },
+    {
+      "question": "In 1924 the first winter Olympics was held in ?",
+      "answer":   "B: France",
+      "optionA":  "A: Italy",
+      "optionB":  "B: France",
+      "optionC":  "C: Austria",
+      "optionD":  "D: Canada"
+    },
+    {
+      "question": "In which decade with the first transatlantic radio broadcast occur?",
+      "answer":   "D: 1900s",
+      "optionA":  "A: 1850s",
+      "optionB":  "B: 1860s",
+      "optionC":  "C: 1870s",
+      "optionD":  "D: 1900s"
+    },
+    {
+      "question": "Whom did George W. Bush defeat in the elections of November 2004?",
+      "answer":   "C: John Kerry",
+      "optionA":  "A: Al Gore",
+      "optionB":  "B: Arnold Schwarzenegger",
+      "optionC":  "C: John Kerry",
+      "optionD":  "D: Rudy Giuliani"
+    },
+    {
+      "question": "The great Victoria Desert is located in",
+      "answer":   "C: Australia",
+      "optionA":  "A: Canada",
+      "optionB":  "B: West Africa",
+      "optionC":  "C: Australia",
+      "optionD":  "D: North America"
+    },
+
+    {
+      "question": "Judaism, Christianity, and Islam all ____________________________.",
+      "answer":   "C: Worship only one God",
+      "optionA":  "A: Believe in many divine Gods",
+      "optionB":  "B: Worship only one God",
+      "optionC":  "C: Follow the teachings of the Qu'ran",
+      "optionD":  "D: Believe Jesus was the son of God"
+    },
+    {
+      "question": "The Torah is the sacred writing (holy book) for which religion?",
+      "answer":   "A: Judaism",
+      "optionA":  "A: Judaism",
+      "optionB":  "B: Christianity",
+      "optionC":  "C: Islam",
+      "optionD":  "D: None"
+    },
+    {
+      "question": "The belief that the soul never dies but is continually reborn or reincarnated is associated with which religion?",
+      "answer":   "D: Hinduism and Buddhism",
+      "optionA":  "A: Islam",
+      "optionB":  "B: Christianity",
+      "optionC":  "C: Judaism",
+      "optionD":  "D: Hinduism and Buddhism"
+    },
+    {
+      "question": "Following the Eightfold Path and the Four Noble Truths to achieve enlightenment is associated with which religion?",
+      "answer":   "A: Buddhism",
+      "optionA":  "A: Buddhism",
+      "optionB":  "B: Hinduism",
+      "optionC":  "C: Islam",
+      "optionD":  "D: Christianity"
+    },
+    {
+      "question": "This religion can be divided into Catholic, Protestant, and Orthodox sects.",
+      "answer":   "B: Christianity",
+      "optionA":  "A: Judaism",
+      "optionB":  "B: Christianity",
+      "optionC":  "C: Islam",
+      "optionD":  "D: Buddhism"
+    },
+    {
+      "question": "Diwali, the festival of Lights is important to which religion?",
+      "answer":   "D: Hinduism",
+      "optionA":  "A: Judaism",
+      "optionB":  "B: Christianity",
+      "optionC":  "C: Islam",
+      "optionD":  "D: Hinduism"
+    },
+    {
+      "question": "Ramadan is the holy month of fasting for which religion?",
+      "answer":   "C: Islam",
+      "optionA":  "A: Judaism",
+      "optionB":  "B: Christianity",
+      "optionC":  "C: Islam",
+      "optionD":  "D: Hinduism"
+    },
+    {
+      "question": "How do Sikhs treat their women?",
+      "answer":   "A: With respect, dignity and equality",
+      "optionA":  "A: With respect, dignity and equality",
+      "optionB":  "B: Like inferiors",
+      "optionC":  "C: Harshly, beating and verbally abusing them",
+      "optionD":  "D: They make them wear veils and be secluded"
+    },
+    {
+      "question": "The clergy for Christianity are called _______________.",
+      "answer":   "B: Priests or ministers",
+      "optionA":  "A: Rabbis",
+      "optionB":  "B: Priests or ministers",
+      "optionC":  "C: Imams",
+      "optionD":  "D: Brahman"
+    },
+    {
+      "question": "The clergy for Judaism are called _________________.",
+      "answer":   "C: Rabbis",
+      "optionA":  "A: Monks",
+      "optionB":  "B: Priests",
+      "optionC":  "C: Rabbis",
+      "optionD":  "D: Imams"
+    },
+
+    {
+      "question": "Light from the nearest star reaches the earth in",
+      "answer":   "C: 4.3 years",
+      "optionA":  "A: 4.3 minutes",
+      "optionB":  "B: 43 minutes",
+      "optionC":  "C: 4.3 years",
+      "optionD":  "D: 4.3 seconds"
+    },
+    {
+      "question": "Duncan pass is located between",
+      "answer":   "D: South and Little Andaman",
+      "optionA":  "A: Andaman and Nicobar",
+      "optionB":  "B: North and Middle Andaman",
+      "optionC":  "C: North and South Andaman",
+      "optionD":  "D: South and Little Andaman"
+    },
+    {
+      "question": "What is the importance of ozone in the atmosphere?",
+      "answer":   "D: it provides protection against ultraviolet radiation",
+      "optionA":  "A: it helps scatter blue ligh",
+      "optionB":  "B: it creates the green house effect on earth",
+      "optionC":  "C: it provides condensation nuclei",
+      "optionD":  "D: it provides protection against ultraviolet radiation"
+    },
+    {
+      "question": "The International Date Line passes through",
+      "answer":   "A: Bering Strait",
+      "optionA":  "A: Bering Strait",
+      "optionB":  "B: Malacca Strait",
+      "optionC":  "C: Florida Strait",
+      "optionD":  "D: Gibraltar Strait"
+    },
+    {
+      "question": "Which soil owes its colour to oxides of iron?",
+      "answer":   "A: laterite",
+      "optionA":  "A: laterite",
+      "optionB":  "B: black",
+      "optionC":  "C: alluvial",
+      "optionD":  "D: none of these"
+    },
+    {
+      "question": "Which soil swells when wet and develops cracks when dry?",
+      "answer":   "B: black",
+      "optionA":  "A: red",
+      "optionB":  "B: black",
+      "optionC":  "C: laterite",
+      "optionD":  "D: alluvial"
+    },
+    {
+      "question": "The busiest of sea trade routes is",
+      "answer":   "B: North Atlantic route",
+      "optionA":  "A: South Atlantic route",
+      "optionB":  "B: North Atlantic route",
+      "optionC":  "C: Cape of Good Hope route",
+      "optionD":  "D: Suez Canal"
+    },
+    {
+      "question": "The difference in the duration of day and night increases as one moves from",
+      "answer":   "B: equator to poles",
+      "optionA":  "A: poles to equator",
+      "optionB":  "B: equator to poles",
+      "optionC":  "C: west to east",
+      "optionD":  "D: east and west of the prime meridian"
+    },
+    {
+      "question": "The velocity of winds is governed by",
+      "answer":   "C: Pressure gradient",
+      "optionA":  "A: Farrel's law",
+      "optionB":  "B: Insolation",
+      "optionC":  "C: Pressure gradient",
+      "optionD":  "D: Rotation of earth"
+    },
+    {
+      "question": "The sun shines vertically over the equator on",
+      "answer":   "B: March 21",
+      "optionA":  "A: June 21",
+      "optionB":  "B: March 21",
+      "optionC":  "C: December 22",
+      "optionD":  "D: all days"
+    },
+
+    {
+      "question": "Who led the Ulster Unionist Party between 1995 and 2005?",
+      "answer":   "A: David Trimble",
+      "optionA":  "A: David Trimble",
+      "optionB":  "B: Ian Paisley",
+      "optionC":  "C: James Molyneaux",
+      "optionD":  "D: Reg Empey"
+    },
+    {
+      "question": "Of which former Labour cabinet minister is Peter Mandelson the grandson?",
+      "answer":   "C: Herbert Morrison",
+      "optionA":  "A: Aneurin Bevan",
+      "optionB":  "B: Ernest Bevin",
+      "optionC":  "C: Herbert Morrison",
+      "optionD":  "D: Hugh Dalton"
+    },
+    {
+      "question": "How old was David Owen upon being appointed Foreign Secretary in 1977?",
+      "answer":   "B: 38",
+      "optionA":  "A: 35",
+      "optionB":  "B: 38",
+      "optionC":  "C: 40",
+      "optionD":  "D: 43"
+    },
+    {
+      "question": "In the European elections of 2004 how many MEPs did Wales return?",
+      "answer":   "B: 4",
+      "optionA":  "A: 3",
+      "optionB":  "B: 4",
+      "optionC":  "C: 5",
+      "optionD":  "D: 6"
+    },
+    {
+      "question": "Who in 1990 was John Major's first Home Secretary?",
+      "answer":   "A: Kenneth Baker",
+      "optionA":  "A: Kenneth Baker",
+      "optionB":  "B: Kenneth Clarke",
+      "optionC":  "C: Michael Howard",
+      "optionD":  "D: Tom King"
+    },
+    {
+      "question": "Who succeeded David Lloyd George as Prime Minister?",
+      "answer":   "A: Andrew Bonar Law",
+      "optionA":  "A: Andrew Bonar Law",
+      "optionB":  "B: Herbert Asquith",
+      "optionC":  "C: Ramsay MacDonald",
+      "optionD":  "D: Stanley Baldwin"
+    },
+    {
+      "question": "In the House Of Commons how are MPs selected to submit Private Members' Bills?",
+      "answer":   "A: Ballot",
+      "optionA":  "A: Ballot",
+      "optionB":  "B: Length Of Service",
+      "optionC":  "C: Nomination by the Speaker",
+      "optionD":  "D: Party Allocation"
+    },
+    {
+      "question": "What is Africa's newest country?",
+      "answer":   "B: South Sudan",
+      "optionA":  "A: Azania",
+      "optionB":  "B: South Sudan",
+      "optionC":  "C: Azawad",
+      "optionD":  "D: Central African Republic"
+    },
+    {
+      "question": "What alias did Nelson Mandela use while pretending to be a caretaker at Liliesleaf farm in Johannesburg?",
+      "answer":   "A: David Motsamayi",
+      "optionA":  "A: David Motsamayi",
+      "optionB":  "B: The Black Pimpernel",
+      "optionC":  "C: Mark Radebe",
+      "optionD":  "D: Rolihlahla Ntoko"
+    },
+    {
+      "question": "In what city is the Chinese-built headquarters of the African Union?",
+      "answer":   "A: Addis Ababa",
+      "optionA":  "A: Addis Ababa",
+      "optionB":  "B: Lagos",
+      "optionC":  "C: Ouagadougou",
+      "optionD":  "D: Johannesburg"
+    },
+
+    {
+      "question": "Whose trademark is the operating system UNIX?",
+      "answer":   "C: BELL Laboratories",
+      "optionA":  "A: Motorola",
+      "optionB":  "B: Microsoft",
+      "optionC":  "C: BELL Laboratories",
+      "optionD":  "D: AshtonTate"
+    },
+    {
+      "question": "The first mechanical computer designed by Charles Babbage was called?",
+      "answer":   "B: Analytical Engine",
+      "optionA":  "A: Abacus",
+      "optionB":  "B: Analytical Engine",
+      "optionC":  "C: Calculator",
+      "optionD":  "D: Processor"
+    },
+    {
+      "question": "Which of the following is the most powerful type of computer?",
+      "answer":   "C: Super computer",
+      "optionA":  "A: Super–micro",
+      "optionB":  "B: Super conductor",
+      "optionC":  "C: Super computer",
+      "optionD":  "D: Megaframe"
+    },
+    {
+      "question": "Which gate is a single integrated circuit?",
+      "answer":   "A: Gate",
+      "optionA":  "A: Gate",
+      "optionB":  "B: Mother Board",
+      "optionC":  "C: Chip",
+      "optionD":  "D: CPU"
+    },
+    {
+      "question": "C is ____",
+      "answer":   "A: A third generation high level language",
+      "optionA":  "A: A third generation high level language",
+      "optionB":  "B: A machine language",
+      "optionC":  "C: An assembly language",
+      "optionD":  "D: All of the above"
+    },
+    {
+      "question": "Web pages are written using _____",
+      "answer":   "C: HTML",
+      "optionA":  "A: FTP",
+      "optionB":  "B: HTTP",
+      "optionC":  "C: HTML",
+      "optionD":  "D: URL"
+    },
+    {
+      "question": "The parity bit is added for the purpose of",
+      "answer":   "B: Error detection",
+      "optionA":  "A: Coding",
+      "optionB":  "B: Error detection",
+      "optionC":  "C: Controlling",
+      "optionD":  "D: Indexing"
+    },
+    {
+      "question": "India’s first super computer is ____",
+      "answer":   "C: Param",
+      "optionA":  "A: Agni",
+      "optionB":  "B: Flow solver",
+      "optionC":  "C: Param",
+      "optionD":  "D: Trisul"
+    },
+    {
+      "question": "The first movie released in 1982 with terrific computer animation and graphics was",
+      "answer":   "A: Star wars",
+      "optionA":  "A: Star wars",
+      "optionB":  "B: Tron",
+      "optionC":  "C: Forbidden planet",
+      "optionD":  "D: Dark star"
+    },
+    {
+      "question": "Which command combines the contents of one file with another?",
+      "answer":   "C: APPEND",
+      "optionA":  "A: RESTORE",
+      "optionB":  "B: RENAME",
+      "optionC":  "C: APPEND",
+      "optionD":  "D: ADD"
+    },
+
+    {
+      "question": "With which game is Geet Sethi associated?",
+      "answer":   "D: Billiards",
+      "optionA":  "A: Squash",
+      "optionB":  "B: Kabbadi",
+      "optionC":  "C: Lawn Tennis",
+      "optionD":  "D: Billiards"
+    },
+    {
+      "question": "Developed as a less strenuous alternative to basketball which game was invented in 1895 by William Morgan?",
+      "answer":   "B: Volleyball",
+      "optionA":  "A: Netball",
+      "optionB":  "B: Volleyball",
+      "optionC":  "C: Throwball",
+      "optionD":  "D: Softball"
+    },
+    {
+      "question": "In which sports is the participant called pugilist?",
+      "answer":   "B: Boxing",
+      "optionA":  "A: Sprinter",
+      "optionB":  "B: Boxing",
+      "optionC":  "C: Wrestling",
+      "optionD":  "D: Javelin throw"
+    },
+    {
+      "question": "Who finished 10th in the 2014/15 Premier League?",
+      "answer":   "A: Crystal Palace",
+      "optionA":  "A: Crystal Palace",
+      "optionB":  "B: Stoke",
+      "optionC":  "C: Everton",
+      "optionD":  "D: West Ham"
+    },
+    {
+      "question": "Track and field star Carl Lewis won how many gold medals at the 1984 Olympic games?",
+      "answer":   "C: Four",
+      "optionA":  "A: Two",
+      "optionB":  "B: Three",
+      "optionC":  "C: Four",
+      "optionD":  "D: Eight"
+    },
+    {
+      "question": "Which county did Ravi Shastri play for?",
+      "answer":   "A: Glamorgan",
+      "optionA":  "A: Glamorgan",
+      "optionB":  "B: Leicestershire",
+      "optionC":  "C: Gloucestershire",
+      "optionD":  "D: Lancashire"
+    },
+    {
+      "question": "Which two counties did Kapil Dev play?",
+      "answer":   "A: Northamptonshire & Worcestershire",
+      "optionA":  "A: Northamptonshire & Worcestershire",
+      "optionB":  "B: Northamptonshire & Warwickshire",
+      "optionC":  "C: Nottinghamshire & Worcestershire",
+      "optionD":  "D: Nottinghamshire & Warwickshire"
+    },
+    {
+      "question": "Who did Stone Cold Steve Austin wrestle at the 1998 edition of 'Over the Edge'?",
+      "answer":   "C: Dude Love",
+      "optionA":  "A: Cactus Jack",
+      "optionB":  "B: Mankind",
+      "optionC":  "C: Dude Love",
+      "optionD":  "D: Mick Foley"
+    },
+    {
+      "question": "Ricky Ponting is also known as what?",
+      "answer":   "D: Punter",
+      "optionA":  "A: The Rickster",
+      "optionB":  "B: Ponts",
+      "optionC":  "C: Ponter",
+      "optionD":  "D: Punter"
+    },
+    {
+      "question": "How long are professional Golf Tour players allotted per shot?",
+      "answer":   "A: 45 seconds",
+      "optionA":  "A: 45 seconds",
+      "optionB":  "B: 25 seconds",
+      "optionC":  "C: 1 minute",
+      "optionD":  "D: 2 minutes"
+    },
+
+    {
+      "question": "The isotope of uranium capable of sustaining chain reaction is",
+      "answer":   "A: U-235",
+      "optionA":  "A: U-235",
+      "optionB":  "B: U-245",
+      "optionC":  "C: U-239",
+      "optionD":  "D: U-238"
+    },
+    {
+      "question": "The age of most ancient geological formations is estimated by",
+      "answer":   "D: Uranium - lead method",
+      "optionA":  "A: Ra - Si method",
+      "optionB":  "B: Potassium - argon method",
+      "optionC":  "C: C14 method",
+      "optionD":  "D: Uranium - lead method"
+    },
+    {
+      "question": "Who suggested that most of the mass of the atom is located in the nucleus?",
+      "answer":   "C: Rutherford",
+      "optionA":  "A: Thompson",
+      "optionB":  "B: Bohr",
+      "optionC":  "C: Rutherford",
+      "optionD":  "D: Einstein"
+    },
+    {
+      "question": "Which is/are the important raw material(s) required in cement industry?",
+      "answer":   "C: Limestone and Clay",
+      "optionA":  "A: Gypsum and Clay",
+      "optionB":  "B: Clay",
+      "optionC":  "C: Limestone and Clay",
+      "optionD":  "D: Limestone"
+    },
+    {
+      "question": "Which type of fire extinguisher is used for petroleum fire?",
+      "answer":   "A: Powder type",
+      "optionA":  "A: Powder type",
+      "optionB":  "B: Liquid type",
+      "optionC":  "C: Soda acid type",
+      "optionD":  "D: Foam type"
+    },
+    {
+      "question": "Which of the following is commonly called a 'polyamide'?",
+      "answer":   "B: Nylon",
+      "optionA":  "A: Terylene",
+      "optionB":  "B: Nylon",
+      "optionC":  "C: Rayon",
+      "optionD":  "D: Orlon"
+    },
+    {
+      "question": "Epoxy resins are used as",
+      "answer":   "C: adhesives",
+      "optionA":  "A: detergents",
+      "optionB":  "B: insecticides",
+      "optionC":  "C: adhesives",
+      "optionD":  "D: moth repellents"
+    },
+    {
+      "question": "Detergents used for cleaning clothes and utensils contain?",
+      "answer":   "C: sulphonates",
+      "optionA":  "A: bicarbonates",
+      "optionB":  "B: bismuthates",
+      "optionC":  "C: sulphonates",
+      "optionD":  "D: nitrates"
+    },
+    {
+      "question": "Which of the following is used for removing air bubbles from glass during its manufacture",
+      "answer":   "A: Arsenous oxide",
+      "optionA":  "A: Arsenous oxide",
+      "optionB":  "B: Potassium carbonate",
+      "optionC":  "C: Soda ash",
+      "optionD":  "D: Feldspar"
+    },
+    {
+      "question": "Which of the following is a protein?",
+      "answer":   "A: Natural rubber",
+      "optionA":  "A: Natural rubber",
+      "optionB":  "B: Starch",
+      "optionC":  "C: Cellulose",
+      "optionD":  "D: None of these"
+    },
+
+    {
+      "question": "What do you do when you're tired ?",
+      "answer":   "A: Rest",
+      "optionA":  "A: Rest",
+      "optionB":  "B: Bathe",
+      "optionC":  "C: Watch",
+      "optionD":  "D: Move"
+    },
+    {
+      "question": "A child of my parents that is not my sister or my brother is my?",
+      "answer":   "C: Self",
+      "optionA":  "A: Uncle",
+      "optionB":  "B: Sibling",
+      "optionC":  "C: Self",
+      "optionD":  "D: Shelve"
+    },
+    {
+      "question": "What does the soft do when the going is tough? Become",
+      "answer":   "A: Tough",
+      "optionA":  "A: Tough",
+      "optionB":  "B: Shiverry",
+      "optionC":  "C: Fast",
+      "optionD":  "D: Hidden"
+    },
+    {
+      "question": "What letter found after 'y' and before 'm' would spell a food?",
+      "answer":   "A: A",
+      "optionA":  "A: A",
+      "optionB":  "B: B",
+      "optionC":  "C: C",
+      "optionD":  "D: D"
+    },
+    {
+      "question": "When does the police sleep? When he's",
+      "answer":   "A: Sleepy",
+      "optionA":  "A: Sleepy",
+      "optionB":  "B: Comes home",
+      "optionC":  "C: Active",
+      "optionD":  "D: Reading"
+    },
+    {
+      "question": "What disappears the moment it is talked about?",
+      "answer":   "A: Silence",
+      "optionA":  "A: Silence",
+      "optionB":  "B: Rain",
+      "optionC":  "C: Wind",
+      "optionD":  "D: Thought"
+    },
+    {
+      "question": "What goes round and comes around?",
+      "answer":   "C: Choice",
+      "optionA":  "A: The planet",
+      "optionB":  "B: The moment",
+      "optionC":  "C: Choice",
+      "optionD":  "D: Time"
+    },
+    {
+      "question": "What has a blade but doesn't rotate?",
+      "answer":   "B: Razor",
+      "optionA":  "A: Fan",
+      "optionB":  "B: Razor",
+      "optionC":  "C: Engine",
+      "optionD":  "D: Disk drive"
+    },
+    {
+      "question": "What has keys but no lock, space but no room?",
+      "answer":   "B: Keyboard",
+      "optionA":  "A: Door",
+      "optionB":  "B: Keyboard",
+      "optionC":  "C: Keyholes",
+      "optionD":  "D: Key holder"
+    },
+    {
+      "question": "The word has in it and it could feed in ears?",
+      "answer":   "D: Bear",
+      "optionA":  "A: Hear",
+      "optionB":  "B: Monster",
+      "optionC":  "C: Lion",
+      "optionD":  "D: Bear"
     }
+
+
+
 
   ]
 }
