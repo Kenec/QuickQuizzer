@@ -2,12 +2,12 @@
   "category": "random",
   "questions":[
     {
-      "question": "Random 1",
-      "answer":   "A: answer",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "What state is round in one side , high in the middle and round on the other side?",
+      "answer":   "A: Ohio",
+      "optionA":  "A: Ohio",
+      "optionB":  "B: Nigeria",
+      "optionC":  "C: Ondo",
+      "optionD":  "D: California"
     },
     {
       "question": "Random 2",

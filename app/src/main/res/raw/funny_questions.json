@@ -2,76 +2,813 @@
   "category": "funny",
   "questions":[
     {
-      "question": "Funny 1",
-      "answer":   "A: answer",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "What state is round in one side , high in the middle and round on the other side?",
+      "answer":   "A: Ohio",
+      "optionA":  "A: Ohio",
+      "optionB":  "B: Nigeria",
+      "optionC":  "C: Ondo",
+      "optionD":  "D: California"
     },
     {
-      "question": "Funny 2",
-      "answer":   "B: I don't know",
-      "optionA":  "A: answer",
-      "optionB":  "B: I don't know",
-      "optionC":  "C: Awesome wrong",
-      "optionD":  "D: Trailing"
+      "question": "I am found at the beginning of time. What am I?",
+      "answer":   "B: T",
+      "optionA":  "A: Nothing",
+      "optionB":  "B: T",
+      "optionC":  "C: 0",
+      "optionD":  "D: 1"
     },
     {
-      "question": "Funny 3",
-      "answer":   "D: Jogging",
-      "optionA":  "A: answer",
-      "optionB":  "B: We dock",
-      "optionC":  "C: Enough",
-      "optionD":  "D: Jogging"
+      "question": "What is found at the center of the earth?",
+      "answer":   "B: r",
+      "optionA":  "A: Gravity",
+      "optionB":  "B: r",
+      "optionC":  "C: Alphabet",
+      "optionD":  "D: e"
     },
     {
-      "question": "Funny 4",
-      "answer":   "C: Mercy",
-      "optionA":  "A: Love",
-      "optionB":  "B: Glory",
-      "optionC":  "C: Mercy",
-      "optionD":  "D: Trailing"
+      "question": "What has ring but no finger?",
+      "answer":   "B: telephone",
+      "optionA":  "A: Ring",
+      "optionB":  "B: telephone",
+      "optionC":  "C: clock",
+      "optionD":  "D: Nothing"
     },
     {
-      "question": "Funny 5",
-      "answer":   "D: Pretty",
-      "optionA":  "A: Apple",
-      "optionB":  "B: Happiness",
-      "optionC":  "C: Awu ma je",
-      "optionD":  "D: Pretty"
+      "question": "What is as big as the elephant but weighs 0 kg? It is the elephant's....",
+      "answer":   "C: Shadow",
+      "optionA":  "A: Tail",
+      "optionB":  "B: Bone",
+      "optionC":  "C: Shadow",
+      "optionD":  "D: Eyes"
     },
     {
-      "question": "Funny 6",
-      "answer":   "D: Flesh",
-      "optionA":  "A: Lift",
-      "optionB":  "B: Welldone",
-      "optionC":  "C: Laugh",
-      "optionD":  "D: Flesh"
+      "question": "I see what to do but won't do it, I know where to go but won't go. What am I?",
+      "answer":   "A: Lazy",
+      "optionA":  "A: Lazy",
+      "optionB":  "B: Brave",
+      "optionC":  "C: wise",
+      "optionD":  "D: Silly"
     },
     {
-      "question": "Funny 7",
-      "answer":   "A: Elohi",
-      "optionA":  "A: Elohi",
-      "optionB":  "B: Cry cry",
-      "optionC":  "C: Revival",
-      "optionD":  "D: Portion"
+      "question": "Am a room, you can't enter when someone else is in. What am I ? ...... Room",
+      "answer":   "A: Rest",
+      "optionA":  "A: Rest",
+      "optionB":  "B: Best",
+      "optionC":  "C: Sitting",
+      "optionD":  "D: Bed"
     },
     {
-      "question": "Funny 8",
-      "answer":   "B: Lord",
-      "optionA":  "A: Raise",
-      "optionB":  "B: Lord",
-      "optionC":  "C: Says",
-      "optionD":  "D: Stripes"
+      "question": "I could speak but can't hear , I don't have eyes nor nose. What am I?",
+      "answer":   "A: Loud speakers",
+      "optionA":  "A: Loud speakers",
+      "optionB":  "B: human",
+      "optionC":  "C: Deaf",
+      "optionD":  "D: Dumb"
     },
     {
-      "question": "Funny 9",
-      "answer":   "C: Reading",
-      "optionA":  "A: Seriously?",
-      "optionB":  "B: Keep asking",
-      "optionC":  "C: Reading",
+      "question": "I could make the happy sad and the sad happy. I make children grow too. What am I?",
+      "answer":   "B: Time",
+      "optionA":  "A: Choice?",
+      "optionB":  "B: Time",
+      "optionC":  "C: Believe",
+      "optionD":  "D: Opportunity"
+    },
+    {
+      "question": "What is two plus two?",
+      "answer":   "B: Mathematics",
+      "optionA":  "A: Question",
+      "optionB":  "B: Mathematics",
+      "optionC":  "C: Theory",
+      "optionD":  "D: Chance"
+    },
+
+    {
+      "question": "I could make you laugh or cry, I can make you free or in boundage. I can actually do opposing things to people using me though everyone has me. What an I?",
+      "answer":   "A: Choice",
+      "optionA":  "A: Choice",
+      "optionB":  "B: Tears",
+      "optionC":  "C: brain",
+      "optionD":  "D: Onions"
+    },
+    {
+      "question": "I see you but you can't see me without my kind. I am big or small but size doesn't matter. What am I?",
+      "answer":   "B: Eyes",
+      "optionA":  "A: Mirror",
+      "optionB":  "B: Eyes",
+      "optionC":  "C: Ears",
       "optionD":  "D: Water"
+    },
+    {
+      "question": "I am dependent on you and time and no matter what I will always be black and white. What am I?",
+      "answer":   "B: Shadow",
+      "optionA":  "A: Colour",
+      "optionB":  "B: Shadow",
+      "optionC":  "C: Time",
+      "optionD":  "D: Choice"
+    },
+    {
+      "question": "A child could hold ten oranges in one hand. What does he have?",
+      "answer":   "B: Big hands",
+      "optionA":  "A: An orange",
+      "optionB":  "B: Big hands",
+      "optionC":  "C: Small head",
+      "optionD":  "D: Hungry stomach"
+    },
+    {
+      "question": "A room could have everything in it green except for what?",
+      "answer":   "A: Air",
+      "optionA":  "A: Air",
+      "optionB":  "B: Clothes",
+      "optionC":  "C: Hair",
+      "optionD":  "D: Door"
+    },
+    {
+      "question": "I have eyes but can't see with it. What am I?",
+      "answer":   "C: Blind",
+      "optionA":  "A: Fruit",
+      "optionB":  "B: Bannna",
+      "optionC":  "C: Blind",
+      "optionD":  "D: Unconscious"
+    },
+    {
+      "question": "Which single letter comes before 'a' in the alphabets?",
+      "answer":   "A: H",
+      "optionA":  "A: H",
+      "optionB":  "B: Z",
+      "optionC":  "C: A",
+      "optionD":  "D: Q"
+    },
+    {
+      "question": "I am human but am sick. What am I?",
+      "answer":   "B: Sick",
+      "optionA":  "A: Unhappy",
+      "optionB":  "B: Sick",
+      "optionC":  "C: Human",
+      "optionD":  "D: Bare handed"
+    },
+    {
+      "question": "I am a pet I have four legs but I am not a chair. What am I?",
+      "answer":   "B: Pet",
+      "optionA":  "A: Chair",
+      "optionB":  "B: Pet",
+      "optionC":  "C: Table",
+      "optionD":  "D: Hat"
+    },
+    {
+      "question": "When is a torch without light? When it is...",
+      "answer":   "B: Switched off",
+      "optionA":  "A: Blind",
+      "optionB":  "B: Switched off",
+      "optionC":  "C: Soft",
+      "optionD":  "D: Black"
+    },
+
+    {
+      "question": "I am one but binds two together. What am I?",
+      "answer":   "B: Wedding ring",
+      "optionA":  "A: Rubber band",
+      "optionB":  "B: Wedding ring",
+      "optionC":  "C: Wrist watch",
+      "optionD":  "D: Coat"
+    },
+    {
+      "question": "Why do some cricket players never sweat? Because they ______",
+      "answer":   "C: have huge fans!",
+      "optionA":  "A: eat well",
+      "optionB":  "B: drink water",
+      "optionC":  "C: have huge fans!",
+      "optionD":  "D: never run"
+    },
+    {
+      "question": "What is always coming, but never arrives?",
+      "answer":   "D: Tomorrow",
+      "optionA":  "A: Rain",
+      "optionB":  "B: Luggage",
+      "optionC":  "C: Visitors",
+      "optionD":  "D: Tomorrow"
+    },
+    {
+      "question": "What can be broken, but is never held?",
+      "answer":   "D: A promise",
+      "optionA":  "A: Mirror",
+      "optionB":  "B: Verse",
+      "optionC":  "C: Cup",
+      "optionD":  "D: A promise"
+    },
+    {
+      "question": "What kind of pool contains no water?",
+      "answer":   "A: Snooker",
+      "optionA":  "A: Snooker",
+      "optionB":  "B: Swimming",
+      "optionC":  "C: Baby",
+      "optionD":  "D: Plates"
+    },
+    {
+      "question": "When does Friday come before Wednesday? In a/an",
+      "answer":   "C: Dictionary",
+      "optionA":  "A: Impossible place",
+      "optionB":  "B: Word of mouth",
+      "optionC":  "C: Dictionary",
+      "optionD":  "D: Puzzle"
+    },
+    {
+      "question": "What moves when you don't know though you stay in it?",
+      "answer":   "B: Earth",
+      "optionA":  "A: Wheel",
+      "optionB":  "B: Earth",
+      "optionC":  "C: Motor",
+      "optionD":  "D: Tyre"
+    },
+    {
+      "question": "What is it that lives if it is fed, and dies if you give it a drink?",
+      "answer":   "C: Fire",
+      "optionA":  "A: Sound",
+      "optionB":  "B: Air",
+      "optionC":  "C: Fire",
+      "optionD":  "D: Land"
+    },
+    {
+      "question": "When is zero bigger than ninety-nine? When ninety-nine  is ____",
+      "answer":   "B: Negative",
+      "optionA":  "A: In a dictionary",
+      "optionB":  "B: Negative",
+      "optionC":  "C: Positive",
+      "optionD":  "D: Neutral"
+    },
+    {
+      "question": "Why do you go to the dentist by two-thirty? Because_____",
+      "answer":   "A: Sounds like tooth-Hurty",
+      "optionA":  "A: Sounds like tooth-Hurty",
+      "optionB":  "B: You have the chance",
+      "optionC":  "C: Its near",
+      "optionD":  "D: He knows his work"
+    },
+
+    {
+      "question": "What do you do when you're tired ?",
+      "answer":   "A: Rest",
+      "optionA":  "A: Rest",
+      "optionB":  "B: Bathe",
+      "optionC":  "C: Watch",
+      "optionD":  "D: Move"
+    },
+    {
+      "question": "A child of my parents that is not my sister or my brother is my?",
+      "answer":   "C: Self",
+      "optionA":  "A: Uncle",
+      "optionB":  "B: Sibling",
+      "optionC":  "C: Self",
+      "optionD":  "D: Shelve"
+    },
+    {
+      "question": "What does the soft do when the going is tough? Become",
+      "answer":   "A: Tough",
+      "optionA":  "A: Tough",
+      "optionB":  "B: Shiverry",
+      "optionC":  "C: Fast",
+      "optionD":  "D: Hidden"
+    },
+    {
+      "question": "What letter found after 'y' and before 'm' would spell a food?",
+      "answer":   "A: A",
+      "optionA":  "A: A",
+      "optionB":  "B: B",
+      "optionC":  "C: C",
+      "optionD":  "D: D"
+    },
+    {
+      "question": "When does the police sleep? When he's",
+      "answer":   "A: Sleepy",
+      "optionA":  "A: Sleepy",
+      "optionB":  "B: Comes home",
+      "optionC":  "C: Active",
+      "optionD":  "D: Reading"
+    },
+    {
+      "question": "What disappears the moment it is talked about?",
+      "answer":   "A: Silence",
+      "optionA":  "A: Silence",
+      "optionB":  "B: Rain",
+      "optionC":  "C: Wind",
+      "optionD":  "D: Thought"
+    },
+    {
+      "question": "What goes round and comes around?",
+      "answer":   "C: Choice",
+      "optionA":  "A: The planet",
+      "optionB":  "B: The moment",
+      "optionC":  "C: Choice",
+      "optionD":  "D: Time"
+    },
+    {
+      "question": "What has a blade but doesn't rotate?",
+      "answer":   "B: Razor",
+      "optionA":  "A: Fan",
+      "optionB":  "B: Razor",
+      "optionC":  "C: Engine",
+      "optionD":  "D: Disk drive"
+    },
+    {
+      "question": "What has keys but no lock, space but no room?",
+      "answer":   "B: Keyboard",
+      "optionA":  "A: Door",
+      "optionB":  "B: Keyboard",
+      "optionC":  "C: Keyholes",
+      "optionD":  "D: Key holder"
+    },
+    {
+      "question": "The word has in it and it could feed in ears?",
+      "answer":   "D: Bear",
+      "optionA":  "A: Hear",
+      "optionB":  "B: Monster",
+      "optionC":  "C: Lion",
+      "optionD":  "D: Bear"
+    },
+
+    {
+      "question": "Anybody wants me and anybody could have me but some become greedy on having me and even though I am not living, I am important and give authority. What am I?",
+      "answer":   "C: Money",
+      "optionA":  "A: Power",
+      "optionB":  "B: Knowledge",
+      "optionC":  "C: Money",
+      "optionD":  "D: Opportunity"
+    },
+    {
+      "question": "What body part can you never see even with a mirror?",
+      "answer":   "B: The roof of the mouth",
+      "optionA":  "A: The hairs",
+      "optionB":  "B: The roof of the mouth",
+      "optionC":  "C: The tongue",
+      "optionD":  "D: The eyes"
+    },
+    {
+      "question": "Where does students know what time is ?",
+      "answer":   "D: In the examination hall",
+      "optionA":  "A: In the class",
+      "optionB":  "B: In the lab",
+      "optionC":  "C: At the assembly",
+      "optionD":  "D: In the examination hall"
+    },
+    {
+      "question": "When will the eagle know its worth? When ___",
+      "answer":   "B: He becomes a chicken",
+      "optionA":  "A: He falls",
+      "optionB":  "B: He becomes a chicken",
+      "optionC":  "C: He loses a feather",
+      "optionD":  "D: He misses a meal"
+    },
+    {
+      "question": "Which question can you never answer yes to?",
+      "answer":   "C: Are you asleep",
+      "optionA":  "A: Are you here?",
+      "optionB":  "B: Are you going",
+      "optionC":  "C: Are you asleep",
+      "optionD":  "D: Do you dance?"
+    },
+    {
+      "question": "I see an ocean but no water. Where am I?",
+      "answer":   "B: In front of a world map",
+      "optionA":  "A: In a dream",
+      "optionB":  "B: In front of a world map",
+      "optionC":  "C: In the lab",
+      "optionD":  "D: In front of a TV"
+    },
+    {
+      "question": "What is dirty after washing?",
+      "answer":   "B: Clothes",
+      "optionA":  "A: Nothing",
+      "optionB":  "B: Clothes",
+      "optionC":  "C: Bath water",
+      "optionD":  "D: Hair"
+    },
+    {
+      "question": "What can you hold without ever touching?",
+      "answer":   "C: Conversation",
+      "optionA":  "A: Air",
+      "optionB":  "B: Water",
+      "optionC":  "C: Conversation",
+      "optionD":  "D: Prey"
+    },
+    {
+      "question": "What is yours but most often used by others?",
+      "answer":   "D: Your name",
+      "optionA":  "A: A borrowed item",
+      "optionB":  "B: Your clothes",
+      "optionC":  "C: Your bag",
+      "optionD":  "D: Your name"
+    },
+    {
+      "question": "What falls down but is never injured?",
+      "answer":   "B: Rain",
+      "optionA":  "A: Shadow",
+      "optionB":  "B: Rain",
+      "optionC":  "C: Air",
+      "optionD":  "D: Human"
+    },
+
+    {
+      "question": "What gets quickly wet while drying?",
+      "answer":   "B: Towel",
+      "optionA":  "A: Clothes",
+      "optionB":  "B: Towel",
+      "optionC":  "C: Socks",
+      "optionD":  "D: Singlet"
+    },
+    {
+      "question": "What do you call a Carmel with four humps?",
+      "answer":   "D: Pregnant",
+      "optionA":  "A: Mad",
+      "optionB":  "B: Abnormal",
+      "optionC":  "C: Sick",
+      "optionD":  "D: Pregnant"
+    },
+    {
+      "question": "What word in the dictionary is wrong?",
+      "answer":   "B: Wrong",
+      "optionA":  "A: Bad",
+      "optionB":  "B: Wrong",
+      "optionC":  "C: If",
+      "optionD":  "D: Answer"
+    },
+    {
+      "question": "What has three ways out but one way in?",
+      "answer":   "C: T-shirt",
+      "optionA":  "A: Y-junction",
+      "optionB":  "B: School block",
+      "optionC":  "C: T-shirt",
+      "optionD":  "D: socks"
+    },
+    {
+      "question": "What goes up when the water comes down?",
+      "answer":   "D: Umbrella",
+      "optionA":  "A: Condensation",
+      "optionB":  "B: Rain",
+      "optionC":  "C: Air",
+      "optionD":  "D: Umbrella"
+    },
+    {
+      "question": "What can you serve but you seldom see eaten?",
+      "answer":   "C: Volleyball",
+      "optionA":  "A: Rice",
+      "optionB":  "B: Empty plate",
+      "optionC":  "C: Volleyball",
+      "optionD":  "D: Golf ball"
+    },
+    {
+      "question": "Maybe I can hear everything but you'll never hear me say a word. Who am I?",
+      "answer":   "D: Ear",
+      "optionA":  "A: Deaf",
+      "optionB":  "B: Dumb",
+      "optionC":  "C: Jury",
+      "optionD":  "D: Ear"
+    },
+    {
+      "question": "What table can you eat?",
+      "answer":   "D: Vegetable",
+      "optionA":  "A: Spoilt ones",
+      "optionB":  "B: Prefect-table",
+      "optionC":  "C: Corn table",
+      "optionD":  "D: Vegetable"
+    },
+    {
+      "question": "What only runs and never walks, has mouth and never eats and has a bed but never sleeps?",
+      "answer":   "C: River",
+      "optionA":  "A: A beggar",
+      "optionB":  "B: Mad man",
+      "optionC":  "C: River",
+      "optionD":  "D: Nothing"
+    },
+    {
+      "question": "On which side do chicken have the most feathers?",
+      "answer":   "D: Outside",
+      "optionA":  "A: Left side",
+      "optionB":  "B: Right side",
+      "optionC":  "C: Inside",
+      "optionD":  "D: Outside"
+    },
+
+    {
+      "question": "What's got feathers but no wings?",
+      "answer":   "C: Pillow",
+      "optionA":  "A: Chicken",
+      "optionB":  "B: Ostrich",
+      "optionC":  "C: Pillow",
+      "optionD":  "D: Feather"
+    },
+    {
+      "question": "What spends all time on the floor but never gets dirty?",
+      "answer":   "C: Shadow",
+      "optionA":  "A: Air",
+      "optionB":  "B: Rain",
+      "optionC":  "C: Shadow",
+      "optionD":  "D: Wind"
+    },
+    {
+      "question": "You can sleep on it, brush your teeth with it and sit on it. What is it?",
+      "answer":   "C: Sophisticated machine( AI)",
+      "optionA":  "A: Bed, chair and brush",
+      "optionB":  "B: Brush, chair and bed",
+      "optionC":  "C: Sophisticated machine( AI)",
+      "optionD":  "D: Bed, brush and chair"
+    },
+    {
+      "question": "What glasses shouldn't you pour apple juice?",
+      "answer":   "D: Full glass",
+      "optionA":  "A: Empty glass",
+      "optionB":  "B: Test glass",
+      "optionC":  "C: Black glass",
+      "optionD":  "D: Full glass"
+    },
+    {
+      "question": "Why can't the t-Rex clap? Because",
+      "answer":   "D: He is extinct",
+      "optionA":  "A: His hand are short",
+      "optionB":  "B: His hands are far apart",
+      "optionC":  "C: He has no hands",
+      "optionD":  "D: He is extinct"
+    },
+    {
+      "question": "Who earns money without working a single day ?",
+      "answer":   "D: Night watchman",
+      "optionA":  "A: Bill gate",
+      "optionB":  "B: Dangote",
+      "optionC":  "C: Thief",
+      "optionD":  "D: Night watchman"
+    },
+    {
+      "question": "Why do people build new houses? Because",
+      "answer":   "D: They cannot build old houses",
+      "optionA":  "A: They have money",
+      "optionB":  "B: They have lands",
+      "optionC":  "C: It is hard to build it",
+      "optionD":  "D: They cannot build old houses"
+    },
+    {
+      "question": "Who lives an exhausting life?",
+      "answer":   "C: Exhaust",
+      "optionA":  "A: Night watch man",
+      "optionB":  "B: Car engine",
+      "optionC":  "C: Exhaust",
+      "optionD":  "D: Inhaler"
+    },
+    {
+      "question": "What goes swimming with you but never gets wet?",
+      "answer":   "C: Shadow",
+      "optionA":  "A: Swimming cap",
+      "optionB":  "B: Rags",
+      "optionC":  "C: Shadow",
+      "optionD":  "D: Pool"
+    },
+    {
+      "question": "What nails are a pain to hammer into wood?.... Nails",
+      "answer":   "C: Finger",
+      "optionA":  "A: Rusted",
+      "optionB":  "B: New",
+      "optionC":  "C: Finger",
+      "optionD":  "D: Old"
+    },
+
+    {
+      "question": "The more he has the less he weighs",
+      "answer":   "C: Holed cheese",
+      "optionA":  "A: Holes",
+      "optionB":  "B: Frozen water",
+      "optionC":  "C: Holed cheese",
+      "optionD":  "D: Spoilt food"
+    },
+    {
+      "question": "Who eats a lot of iron without getting sick?",
+      "answer":   "B: Rust",
+      "optionA":  "A: Super hero",
+      "optionB":  "B: Rust",
+      "optionC":  "C: Car engine",
+      "optionD":  "D: Racers bike"
+    },
+    {
+      "question": "How do Mars, Venus, Earth till Neptune make up the solar system?",
+      "answer":   "C: Planet",
+      "optionA":  "A: Milky way galaxy",
+      "optionB":  "B: Gravitational pull",
+      "optionC":  "C: Planet",
+      "optionD":  "D: Sun's inner core"
+    },
+    {
+      "question": "What did addition say to subtraction when they saw each other in Facebook?",
+      "answer":   "D: Add me",
+      "optionA":  "A: I hate you",
+      "optionB":  "B: How are you?",
+      "optionC":  "C: You are here too!",
+      "optionD":  "D: Add me"
+    },
+    {
+      "question": "What gifts should you give blind people, drunks, short sighted and nerds for Christmas?",
+      "answer":   "B: Glasses",
+      "optionA":  "A: Eyes",
+      "optionB":  "B: Glasses",
+      "optionC":  "C: Present",
+      "optionD":  "D: Staff"
+    },
+    {
+      "question": "What book do teenagers love and voluntary spend hours looking through?.",
+      "answer":   "D: Facebook",
+      "optionA":  "A: Novel",
+      "optionB":  "B: Schools assignment",
+      "optionC":  "C: Dictionary",
+      "optionD":  "D: Facebook"
+    },
+    {
+      "question": "What ended in the year 1919?",
+      "answer":   "C: 1918",
+      "optionA":  "A: Stone age",
+      "optionB":  "B: Slavery",
+      "optionC":  "C: 1918",
+      "optionD":  "D: War"
+    },
+    {
+      "question": "What did the depressed math book say to the calculator, notebook and dictionary?",
+      "answer":   "C: I have too many problems",
+      "optionA":  "A: I am tired",
+      "optionB":  "B: Get away",
+      "optionC":  "C: I have too many problems",
+      "optionD":  "D: Leave me alone"
+    },
+    {
+      "question": "How many seconds are in January?",
+      "answer":   "A: One",
+      "optionA":  "A: One",
+      "optionB":  "B: Twelve",
+      "optionC":  "C: 1800",
+      "optionD":  "D: None"
+    },
+    {
+      "question": "What did the right eye brow say to the left eye brow?",
+      "answer":   "B: You seem surprised to see me",
+      "optionA":  "A: You are far away",
+      "optionB":  "B: You seem surprised to see me",
+      "optionC":  "C: When I see you again?",
+      "optionD":  "D: Can I come over?"
+    },
+
+    {
+      "question": "What did 'A' say to 'D' when he was looking for 'E'?",
+      "answer":   "C: He's BC",
+      "optionA":  "A: He's not around",
+      "optionB":  "B: What are you doing?",
+      "optionC":  "C: He's BC",
+      "optionD":  "D: Where did he go to?"
+    },
+    {
+      "question": "People come to see me everyday despite being dirty. What am I?",
+      "answer":   "B: Toilet",
+      "optionA":  "A: Clothes",
+      "optionB":  "B: Toilet",
+      "optionC":  "C: River",
+      "optionD":  "D: mosquito"
+    },
+    {
+      "question": "I can be hot,  cold. I can rush, I can be still, I cold rise to the sky and I can slip through almost anything. What am I?",
+      "answer":   "C: Water",
+      "optionA":  "A: Air",
+      "optionB":  "B: Cloud",
+      "optionC":  "C: Water",
+      "optionD":  "D: Ice"
+    },
+    {
+      "question": "I have branches yet no trunk, fruit or leaves. What am I?",
+      "answer":   "D: Bank",
+      "optionA":  "A: Pruned tree",
+      "optionB":  "B: Young shoot",
+      "optionC":  "C: Seed",
+      "optionD":  "D: Bank"
+    },
+    {
+      "question": " I can fly, I can  crawl. My interpreter have hands but no wings or legs. What am I?",
+      "answer":   "C: Time",
+      "optionA":  "A: Bird",
+      "optionB":  "B: Spider monkey",
+      "optionC":  "C: Time",
+      "optionD":  "D: Car"
+    },
+    {
+      "question": "People make me, keep me, change me. I can be very dirty but it is unheard of to wash me. What am I?",
+      "answer":   "A: Money",
+      "optionA":  "A: Money",
+      "optionB":  "B: Bag",
+      "optionC":  "C: Clothes",
+      "optionD":  "D: Washing machine"
+    },
+    {
+      "question": "If a yellow race road is yellow, blue from crayon is blue and the white house is white then what colour is a green house?",
+      "answer":   "D: Transparent",
+      "optionA":  "A: Green",
+      "optionB":  "B: White",
+      "optionC":  "C: Golden",
+      "optionD":  "D: Transparent"
+    },
+    {
+      "question": "What has hands but cannot wear  gloves, a face but cannot look though it could move its hands?",
+      "answer":   "D: Clock",
+      "optionA":  "A: Picture",
+      "optionB":  "B: Snowman",
+      "optionC":  "C: Movie",
+      "optionD":  "D: Clock"
+    },
+    {
+      "question": "Which is correct? : 1. Ostrich can fly. 2. Ostriches can fly",
+      "answer":   "C: None",
+      "optionA":  "A: 1",
+      "optionB":  "B: 2",
+      "optionC":  "C: None",
+      "optionD":  "D: All"
+    },
+    {
+      "question": "What ate nine?",
+      "answer":   "C: Seven",
+      "optionA":  "A: Hungry lion",
+      "optionB":  "B: Deadly vultures",
+      "optionC":  "C: Seven",
+      "optionD":  "D: Nine wolves"
+    },
+
+    {
+      "question": "I am a ball that can be rolled but never bounced or thrown. What am I?",
+      "answer":   "D: Eyeball",
+      "optionA":  "A: Volley bal ",
+      "optionB":  "B: Tennis ball",
+      "optionC":  "C: Basket ball",
+      "optionD":  "D: Eyeball"
+    },
+    {
+      "question": "Fill me up with hot or cold, put anything in me I will make sure to hold it. What am I?",
+      "answer":   "B: Cup",
+      "optionA":  "A: Table",
+      "optionB":  "B: Cup",
+      "optionC":  "C: River",
+      "optionD":  "D: Rain"
+    },
+    {
+      "question": "I get dirty, I get clean, I can be delicate, I can be rough. People often shake me or smack me with my own kind. What am I?",
+      "answer":   "D: Hand",
+      "optionA":  "A: Clothes",
+      "optionB":  "B: Pillow",
+      "optionC":  "C: Tie",
+      "optionD":  "D: Hand"
+    },
+    {
+      "question": "I am a fruit product that can talk, calculate, tweet and it is well known that I don't come cheap. What am I?... Product",
+      "answer":   "A: Apple",
+      "optionA":  "A: Apple",
+      "optionB":  "B: Banana",
+      "optionC":  "C: Mango",
+      "optionD":  "D: Beans"
+    },
+    {
+      "question": "I am a stick combined with a sweetness ball. What am I?",
+      "answer":   "C: Lollipop",
+      "optionA":  "A: Stick",
+      "optionB":  "B: Matches",
+      "optionC":  "C: Lollipop",
+      "optionD":  "D: Fruit drink"
+    },
+    {
+      "question": "If you give me a letter, I will not keep it for long. Boxes help pay my salary and I travel so much but never very far. What am I?",
+      "answer":   "A: Postman",
+      "optionA":  "A: Postman",
+      "optionB":  "B: Sailor",
+      "optionC":  "C: Pilot",
+      "optionD":  "D: Engineer"
+    },
+    {
+      "question": "I am a  bird, a fruit but also a person",
+      "answer":   "D: Kiwi",
+      "optionA":  "A: Eagle",
+      "optionB":  "B: Kelvin",
+      "optionC":  "C: Pineapple",
+      "optionD":  "D: Kiwi"
+    },
+    {
+      "question": "I am used in most sport, have for holes and come in different colours. There is a state that shares my name",
+      "answer":   "C: Jersey",
+      "optionA":  "A: Ball",
+      "optionB":  "B: Helmet",
+      "optionC":  "C: Jersey",
+      "optionD":  "D: Boots"
+    },
+    {
+      "question": "You can't see me nor can I be touched. You can't feel me but I can cook your lunch. What am I?",
+      "answer":   "D: Microwave particle",
+      "optionA":  "A: Pot",
+      "optionB":  "B: Fire particle",
+      "optionC":  "C: Kerosene",
+      "optionD":  "D: Microwave particle"
+    },
+    {
+      "question": "What is always late and never present now?",
+      "answer":   "C: Later",
+      "optionA":  "A: Late",
+      "optionB":  "B: Future",
+      "optionC":  "C: Later",
+      "optionD":  "D: Tomorrow"
     }
 
   ]
