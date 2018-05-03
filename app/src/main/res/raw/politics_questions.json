@@ -366,44 +366,44 @@
       "optionD":  "D: Robert Mugabe of Zimbabwe"
     },
     {
-      "question": "Who succeeded David Lloyd George as Prime Minister?",
-      "answer":   "A: Andrew Bonar Law",
-      "optionA":  "A: Andrew Bonar Law",
-      "optionB":  "B: Herbert Asquith",
-      "optionC":  "C: Ramsay MacDonald",
-      "optionD":  "D: Stanley Baldwin"
+      "question": "When did Nigeria gain her Independence?",
+      "answer":   "B: October 1st, 1960",
+      "optionA":  "A: October 1st, 2004",
+      "optionB":  "B: October 1st, 1960",
+      "optionC":  "C: October 1st, 1961",
+      "optionD":  "D: October 1st, 2007"
     },
     {
-      "question": "In the House Of Commons how are MPs selected to submit Private Members' Bills?",
-      "answer":   "A: Ballot",
-      "optionA":  "A: Ballot",
-      "optionB":  "B: Length Of Service",
-      "optionC":  "C: Nomination by the Speaker",
-      "optionD":  "D: Party Allocation"
+      "question": "Who was the first Prime Minister of Nigeria after independence?",
+      "answer":   "C: Abubakar Tafawa Balewa",
+      "optionA":  "A: Alhaji Shehu Shagari",
+      "optionB":  "B: Dr. Nnamdi Azikiwe",
+      "optionC":  "C: Abubakar Tafawa Balewa",
+      "optionD":  "D: Fela Anikulapo Ransome-Kuti"
     },
     {
-      "question": "What is Africa's newest country?",
-      "answer":   "B: South Sudan",
-      "optionA":  "A: Azania",
-      "optionB":  "B: South Sudan",
-      "optionC":  "C: Azawad",
-      "optionD":  "D: Central African Republic"
+      "question": "How old was Michael Taiwo Akinkunmi when he designed the Nigerian flag?",
+      "answer":   "A: 23 years old",
+      "optionA":  "A: 23 years old",
+      "optionB":  "B: 40 years old",
+      "optionC":  "C: 22 years old",
+      "optionD":  "D: 50 years old"
     },
     {
-      "question": "What alias did Nelson Mandela use while pretending to be a caretaker at Liliesleaf farm in Johannesburg?",
-      "answer":   "A: David Motsamayi",
-      "optionA":  "A: David Motsamayi",
-      "optionB":  "B: The Black Pimpernel",
-      "optionC":  "C: Mark Radebe",
-      "optionD":  "D: Rolihlahla Ntoko"
+      "question": "Who was the first President of Nigeria?",
+      "answer":   "B: Dr. Nnamdi Azikiwe",
+      "optionA":  "A: General Muhammadu Buhari",
+      "optionB":  "B: Dr. Nnamdi Azikiwe",
+      "optionC":  "C: Dapo Oyebanji",
+      "optionD":  "D: Abubakar Tafawa Balewa"
     },
     {
-      "question": "In what city is the Chinese-built headquarters of the African Union?",
-      "answer":   "A: Addis Ababa",
-      "optionA":  "A: Addis Ababa",
-      "optionB":  "B: Lagos",
-      "optionC":  "C: Ouagadougou",
-      "optionD":  "D: Johannesburg"
+      "question": "when was the first military coup in Nigeria?",
+      "answer":   "A: January 15, 1966",
+      "optionA":  "A: January 15, 1966",
+      "optionB":  "B: October 14, 1977",
+      "optionC":  "C: October 14, 1966",
+      "optionD":  "D: January 15, 1970"
     }
 
   ]
