@@ -404,7 +404,89 @@
       "optionB":  "B: October 14, 1977",
       "optionC":  "C: October 14, 1966",
       "optionD":  "D: January 15, 1970"
+    },
+
+    {
+      "question": "What was the immediate purpose of the Commission on Human Rights?",
+      "answer":   "D: Nigeria",
+      "optionA":  "A: To draft the Universal Declaration of Human Rights",
+      "optionB":  "B: To organize peace keeping forces in the Congo",
+      "optionC":  "C: Nelspruit",
+      "optionD":  "D: Nigeria"
+    },
+    {
+      "question": "Who performed at Zimbabwe's independence day celebrations in 1980?",
+      "answer":   "A: Bob Marley",
+      "optionA":  "A: Bob Marley",
+      "optionB":  "B: Tracy Chapman",
+      "optionC":  "C: Paul Simon",
+      "optionD":  "D: Bono"
+    },
+    {
+      "question": "How many black presidents have there been in South Africa?",
+      "answer":   "D: Four",
+      "optionA":  "A: One",
+      "optionB":  "B: Two",
+      "optionC":  "C: Three",
+      "optionD":  "D: Four"
+    },
+    {
+      "question": "Which former DJ came to power in a 2009 coup in Madagascar?",
+      "answer":   "D: Andry Rajoelina",
+      "optionA":  "A: Papa Wemba",
+      "optionB":  "B: Wally Za",
+      "optionC":  "C: Fela Kuti",
+      "optionD":  "D: Andry Rajoelina"
+    },
+    {
+      "question": "Who is Africa's longest serving leader?",
+      "answer":   "B: Teodoro Obiang of Equatorial Guinea",
+      "optionA":  "A: Jomo Kenyatta of Kenya",
+      "optionB":  "B: Teodoro Obiang of Equatorial Guinea",
+      "optionC":  "C: Nelson Mandela of South Africa",
+      "optionD":  "D: Robert Mugabe of Zimbabwe"
+    },
+    {
+      "question": "When did Nigeria gain her Independence?",
+      "answer":   "B: October 1st, 1960",
+      "optionA":  "A: October 1st, 2004",
+      "optionB":  "B: October 1st, 1960",
+      "optionC":  "C: October 1st, 1961",
+      "optionD":  "D: October 1st, 2007"
+    },
+    {
+      "question": "Who was the first Prime Minister of Nigeria after independence?",
+      "answer":   "C: Abubakar Tafawa Balewa",
+      "optionA":  "A: Alhaji Shehu Shagari",
+      "optionB":  "B: Dr. Nnamdi Azikiwe",
+      "optionC":  "C: Abubakar Tafawa Balewa",
+      "optionD":  "D: Fela Anikulapo Ransome-Kuti"
+    },
+    {
+      "question": "How old was Michael Taiwo Akinkunmi when he designed the Nigerian flag?",
+      "answer":   "A: 23 years old",
+      "optionA":  "A: 23 years old",
+      "optionB":  "B: 40 years old",
+      "optionC":  "C: 22 years old",
+      "optionD":  "D: 50 years old"
+    },
+    {
+      "question": "Who was the first President of Nigeria?",
+      "answer":   "B: Dr. Nnamdi Azikiwe",
+      "optionA":  "A: General Muhammadu Buhari",
+      "optionB":  "B: Dr. Nnamdi Azikiwe",
+      "optionC":  "C: Dapo Oyebanji",
+      "optionD":  "D: Abubakar Tafawa Balewa"
+    },
+    {
+      "question": "when was the first military coup in Nigeria?",
+      "answer":   "A: January 15, 1966",
+      "optionA":  "A: January 15, 1966",
+      "optionB":  "B: October 14, 1977",
+      "optionC":  "C: October 14, 1966",
+      "optionD":  "D: January 15, 1970"
     }
+
 
   ]
 }
