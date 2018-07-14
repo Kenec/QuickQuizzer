@@ -203,6 +203,7 @@ public class GameScreen extends AppCompatActivity {
             public void run() {
                 Intent intent = new Intent(GameScreen.this, GameEnd.class);
                 intent.putExtra("score", score);
+                intent.putExtra("category", category);
                 gameSound.stop();
                 finish();
                 startActivity(intent);

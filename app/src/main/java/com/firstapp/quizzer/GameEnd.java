@@ -1,6 +1,7 @@
 package com.firstapp.quizzer;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
@@ -18,11 +19,17 @@ public class GameEnd extends AppCompatActivity {
     Button newGame,gameMenu, shareGameScore;
     TextView gameEndScore, grade;
     int globalScore = 0;
+    SharedPreferences.Editor editor;
+    SharedPreferences pref;
+    public static final String PREF_NAME = "highscore";
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.game_end);
+        editor = getSharedPreferences(PREF_NAME, MODE_PRIVATE).edit();
+        pref = getSharedPreferences(PREF_NAME, MODE_PRIVATE);
+        int highscore = pref.getInt("highscore", 0);
 
         newGame = (Button) findViewById(R.id.new_game);
         gameMenu = (Button) findViewById(R.id.game_menu);
@@ -33,6 +40,7 @@ public class GameEnd extends AppCompatActivity {
 
         Intent intent = getIntent();
         int score = intent.getIntExtra("score", 0);
+        String category = intent.getStringExtra("category");
         globalScore = score;
 
         gameEndScore.setText("$"+score);
@@ -46,6 +54,12 @@ public class GameEnd extends AppCompatActivity {
             grade.setText("That's really poor! \n You got "+ score/100 + " out of 15 questions");
         } else {
             grade.setText("That's a horrible score. Just try Again! \n You got "+ score/100 + " out of 15 questions");
+        }
+
+        if ((score/100) > highscore) {
+            editor.putInt("highscore", score/100);
+            editor.putString("category", category);
+            editor.apply();
         }
     }
 
@@ -65,7 +79,7 @@ public class GameEnd extends AppCompatActivity {
                 Intent share = new Intent(Intent.ACTION_SEND);
                 share.setType("text/plain");
                 String shareBody = "Hey look! I just played QuickQuizzer and got "+ globalScore / 100
-                        + " out of 15 questions \n See if you can beat that score";
+                        + " out of 15 questions \n See if you can beat my score";
                 String shareSubject = "QuickQuizzer Game";
                 share.putExtra(Intent.EXTRA_SUBJECT, shareSubject);
                 share.putExtra(Intent.EXTRA_TEXT, shareBody);
